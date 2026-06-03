@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.DS_Store
+*.egg
+
+# Large output JSON files (keep small ones)
+output/calibration_fix_results.json
+output/platt_scaling_scores.json
+output/isotonic_regression_scores.json
+output/temperature_scaling_scores.json
+
+# Generated figures
+visualizations/figures/*.png
+visualizations/figures/*.jpg
+visualizations/figures/*.pdf
+visualizations/figures/*.svg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db

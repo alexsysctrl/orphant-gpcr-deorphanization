@@ -1,0 +1,6962 @@
+[
+  {
+    "receptor": "GPR3",
+    "gene": "GPR3",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "vernonolide",
+        "probability": 0.062112,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.7874
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.6791
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.6546
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.006211,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.6533
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.6479
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.6421
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.6399
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.018634,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "RO5256390",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.6356
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 1,
+    "medium_confidence_count": 9,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR4",
+    "gene": "GPR4",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, lung, spleen",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.877
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.062112,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.8769
+      },
+      {
+        "ligand": "H+ (protons)",
+        "probability": 0.0,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 15.0,
+        "confidence": 0.8768
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.8765
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.006211,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.8763
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.8762
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR6",
+    "gene": "GPR6",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (striatum)",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "vernonolide",
+        "probability": 0.062112,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.7874
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.6791
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.6546
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.006211,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.6533
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.6479
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.6421
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.6399
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.018634,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "RO5256390",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.6356
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 1,
+    "medium_confidence_count": 9,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR12",
+    "gene": "GPR12",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, kidney",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "vernonolide",
+        "probability": 0.062112,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.7874
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.6791
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.6546
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.006211,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.6533
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.6479
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.6421
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.6399
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.018634,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "RO5256390",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.6356
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 1,
+    "medium_confidence_count": 9,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR15",
+    "gene": "GPR15",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, thymus",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "vernonolide",
+        "probability": 0.009756,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.8202
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.004878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.7074
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.6819
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.02439,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.6805
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.04878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.6749
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.04878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.6689
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.6665
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6642
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6642
+      },
+      {
+        "ligand": "RO5256390",
+        "probability": 0.004878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.662
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 2,
+    "medium_confidence_count": 8,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR19",
+    "gene": "GPR19",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.6216
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.6211
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.023622,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.6205
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.070866,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.6161
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.094488,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.6159
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.19685,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.37,
+        "confidence": 0.6151
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.6143
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.6137
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.6054
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.023622,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.6012
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4724
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.315
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.189
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 10,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR20",
+    "gene": "GPR20",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart, kidney",
+    "n_similar_receptors": 9,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.021277,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.7459
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.021277,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.7453
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.021277,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.7446
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.06383,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.7393
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.085106,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.7391
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.141844,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.53,
+        "confidence": 0.732
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.021277,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.7214
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.35461,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.84,
+        "confidence": 0.7144
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.06383,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 11.61,
+        "confidence": 0.6996
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.021277,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 10.99,
+        "confidence": 0.6852
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4255
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3085
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2447
+      }
+    ],
+    "high_confidence_count": 8,
+    "medium_confidence_count": 2,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR21",
+    "gene": "GPR21",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "endothelial cells, multiple tissues",
+    "n_similar_receptors": 39,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.00885,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9235
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.00885,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9228
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.00885,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9219
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.026549,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.9154
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.035398,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9151
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.076696,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.88,
+        "confidence": 0.9089
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.00885,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8932
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.20059,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.47,
+        "confidence": 0.8917
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.00885,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 10.99,
+        "confidence": 0.8483
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.061947,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 10.87,
+        "confidence": 0.8305
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7611
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1283
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.1018
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR22",
+    "gene": "GPR22",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 35,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9161
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9153
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9145
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.908
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9076
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.132308,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.83,
+        "confidence": 0.9066
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.9053
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.9043
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.8922
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.036923,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.85,
+        "confidence": 0.8913
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7938
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1231
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR26",
+    "gene": "GPR26",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.6216
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.6211
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.023622,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.6205
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.070866,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.6161
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.094488,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.6159
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.19685,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.37,
+        "confidence": 0.6151
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.6143
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.6137
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.6054
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.023622,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.6012
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4724
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.315
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.189
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 10,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR31",
+    "gene": "GPR31",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 25,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.888
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.8873
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.057915,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.8865
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.173745,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.8802
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.23166,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.8799
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.142857,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 16.85,
+        "confidence": 0.8784
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.057915,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.8776
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.057915,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.8766
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.057915,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.8649
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.057915,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8588
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6641
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2317
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0927
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR32",
+    "gene": "GPR32",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 34,
+    "top_ligands": [
+      {
+        "ligand": "arachidonic acid",
+        "probability": 0.0,
+        "ligand_class": "unknown",
+        "predicted_pKi": 20.0,
+        "confidence": 0.9189
+      },
+      {
+        "ligand": "prostaglandin E2",
+        "probability": 0.0,
+        "ligand_class": "unknown",
+        "predicted_pKi": 20.0,
+        "confidence": 0.9189
+      },
+      {
+        "ligand": "15-deoxy-delta-12,14-prostaglandin J2",
+        "probability": 0.0,
+        "ligand_class": "unknown",
+        "predicted_pKi": 20.0,
+        "confidence": 0.9189
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.046154,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9148
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.009231,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.914
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9139
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9132
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9124
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.9059
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9055
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8046
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1015
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR33",
+    "gene": "GPR33",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain",
+    "n_similar_receptors": 35,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9161
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9153
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9145
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.908
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9076
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.132308,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.83,
+        "confidence": 0.9066
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.9053
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.9043
+      },
+      {
+        "ligand": "N-acyl dopamine",
+        "probability": 0.0,
+        "ligand_class": "unknown",
+        "predicted_pKi": 12.5,
+        "confidence": 0.8966
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.8922
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7938
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1231
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR34",
+    "gene": "GPR34",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.9127
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.9123
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      },
+      {
+        "ligand": "orexin-A",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.28,
+        "confidence": 0.9098
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "probability": 0.04878,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.9096
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR37",
+    "gene": "GPR37",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.080586,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.080586,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.03663,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.080586,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.8934
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6685
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2326
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0879
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR39",
+    "gene": "GPR39",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, pancreas",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "zinc",
+        "probability": 0.100629,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 33.99,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.062893,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.100629,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.062893,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.062893,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.062893,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.100629,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.8934
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6525
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2626
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0755
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR45",
+    "gene": "GPR45",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "leukocytes, spleen",
+    "n_similar_receptors": 4,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.024291,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.5683
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.024291,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.5679
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.024291,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.5673
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.072874,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.5633
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.097166,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.5631
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.186235,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 20.07,
+        "confidence": 0.5626
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.024291,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.5496
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.060729,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 12.08,
+        "confidence": 0.5419
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.024291,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 10.99,
+        "confidence": 0.522
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.012146,
+        "ligand_class": "peptide",
+        "predicted_pKi": 2.8,
+        "confidence": 0.0088
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4575
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.2955
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2227
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 9,
+    "low_confidence_count": 1
+  },
+  {
+    "receptor": "GPR50",
+    "gene": "GPR50",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain (hypothalamus)",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.07874,
+        "ligand_class": "peptide",
+        "predicted_pKi": 25.12,
+        "confidence": 0.6231
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.6231
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.6231
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.011811,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.6225
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.011811,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.6225
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.011811,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.6224
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.011811,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.6223
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.6217
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.023622,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.6205
+      },
+      {
+        "ligand": "orexin-A",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.28,
+        "confidence": 0.6203
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.3976
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.3898
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.189
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 10,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR52",
+    "gene": "GPR52",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, retina",
+    "n_similar_receptors": 25,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.888
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.8873
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.057915,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.8865
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.173745,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.8802
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.23166,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.8799
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.142857,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 16.85,
+        "confidence": 0.8784
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.057915,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.8776
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.057915,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.8766
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.057915,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.8649
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.057915,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8588
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6641
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2317
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0927
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR62",
+    "gene": "GPR62",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis, kidney",
+    "n_similar_receptors": 30,
+    "top_ligands": [
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.017857,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 16.64,
+        "confidence": 0.9054
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.053571,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9042
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.053571,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9034
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.053571,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9026
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.160714,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.8962
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.214286,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.8959
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.260714,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 16.31,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.053571,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8744
+      },
+      {
+        "ligand": "tryptamine",
+        "probability": 0.053571,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 12.1,
+        "confidence": 0.8735
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.096429,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 12.58,
+        "confidence": 0.8729
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6268
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2268
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.1232
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR63",
+    "gene": "GPR63",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart, kidney",
+    "n_similar_receptors": 11,
+    "top_ligands": [
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.033784,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 16.64,
+        "confidence": 0.7825
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.02027,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.7815
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.02027,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.7808
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.02027,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.7801
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.060811,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.7746
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.081081,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.7743
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.371622,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 16.48,
+        "confidence": 0.7583
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.02027,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.7558
+      },
+      {
+        "ligand": "tryptamine",
+        "probability": 0.02027,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 12.1,
+        "confidence": 0.755
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.060811,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 11.61,
+        "confidence": 0.733
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4291
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.2939
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2331
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR65",
+    "gene": "GPR65",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.9138
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.9138
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.9135
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.009756,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.9135
+      },
+      {
+        "ligand": "H+ (protons)",
+        "probability": 0.0,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 15.0,
+        "confidence": 0.9133
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.004878,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.9128
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.9127
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR68",
+    "gene": "GPR68",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, kidney",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "beta-hydroxybutyrate",
+        "probability": 0.0,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.5,
+        "confidence": 0.8961
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.019569,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.53,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "caproic acid",
+        "probability": 0.039139,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 20.26,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.011742,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.8925
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.011742,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.08,
+        "confidence": 0.8924
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.058708,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8918
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.058708,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.8917
+      },
+      {
+        "ligand": "butyrate",
+        "probability": 0.058708,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 24.76,
+        "confidence": 0.8911
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.078278,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.58,
+        "confidence": 0.891
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.039139,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.1,
+        "confidence": 0.891
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6458
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2211
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.1213
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR75",
+    "gene": "GPR75",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "adipose tissue",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.027397,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.013699,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR78",
+    "gene": "GPR78",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "skeletal muscle, adipose",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "DHA",
+        "probability": 0.019569,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.53,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "caproic acid",
+        "probability": 0.039139,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 20.26,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.011742,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.8925
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.011742,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.08,
+        "confidence": 0.8924
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.058708,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8918
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.058708,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.8917
+      },
+      {
+        "ligand": "butyrate",
+        "probability": 0.058708,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 24.76,
+        "confidence": 0.8911
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.078278,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.58,
+        "confidence": 0.891
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.039139,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.1,
+        "confidence": 0.891
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.039139,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 21.73,
+        "confidence": 0.891
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6458
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2211
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.1213
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR82",
+    "gene": "GPR82",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 35,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9161
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9153
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9145
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.908
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9076
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.132308,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.83,
+        "confidence": 0.9066
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.9053
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.9043
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.8922
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.036923,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.85,
+        "confidence": 0.8913
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7938
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1231
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR83",
+    "gene": "GPR83",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes (microglia)",
+    "n_similar_receptors": 34,
+    "top_ligands": [
+      {
+        "ligand": "oleamide",
+        "probability": 0.046154,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9148
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.009231,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.914
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9139
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9132
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9124
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.9059
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9055
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.267692,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.49,
+        "confidence": 0.9048
+      },
+      {
+        "ligand": "lysophosphatidic acid",
+        "probability": 0.0,
+        "ligand_class": "unknown",
+        "predicted_pKi": 12.5,
+        "confidence": 0.8945
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.009231,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8839
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8046
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1015
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR85",
+    "gene": "GPR85",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 35,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9161
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9153
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9145
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.908
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9076
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.132308,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.83,
+        "confidence": 0.9066
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.9053
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.9043
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.009231,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.8922
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.036923,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.85,
+        "confidence": 0.8913
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7938
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1231
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR87",
+    "gene": "GPR87",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 34,
+    "top_ligands": [
+      {
+        "ligand": "oleamide",
+        "probability": 0.046154,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9148
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.009231,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.914
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9139
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009231,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9132
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.009231,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9124
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.027692,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.9059
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.036923,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9055
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.267692,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.49,
+        "confidence": 0.9048
+      },
+      {
+        "ligand": "lysophosphatidic acid",
+        "probability": 0.0,
+        "ligand_class": "unknown",
+        "predicted_pKi": 12.5,
+        "confidence": 0.8945
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.009231,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8839
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8046
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1015
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0738
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR88",
+    "gene": "GPR88",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain (hippocampus, striatum)",
+    "n_similar_receptors": 38,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.052083,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.052083,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.083333,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.052083,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.052083,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "macadamia acid",
+        "probability": 0.041667,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 23.53,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.052083,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.083333,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.9237
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.083333,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.9236
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.083333,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.9236
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7331
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1966
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0625
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR101",
+    "gene": "GPR101",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "vernonolide",
+        "probability": 0.062112,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.7874
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.6791
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.6546
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.006211,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.6533
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.6479
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.012422,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.6421
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.6399
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.018634,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6377
+      },
+      {
+        "ligand": "RO5256390",
+        "probability": 0.031056,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.6356
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 1,
+    "medium_confidence_count": 9,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR103",
+    "gene": "GPR103",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, heart, kidney",
+    "n_similar_receptors": 40,
+    "top_ligands": [
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.014451,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 16.64,
+        "confidence": 0.9265
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.008671,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9252
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.008671,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9244
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.008671,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9236
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.026012,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.917
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.034682,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.9167
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.228324,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 16.72,
+        "confidence": 0.898
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.008671,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8948
+      },
+      {
+        "ligand": "tryptamine",
+        "probability": 0.008671,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 12.1,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.008671,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 10.99,
+        "confidence": 0.8498
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7558
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1257
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0997
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR109A",
+    "gene": "GPR109A",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "adipose tissue, skin",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "niacin",
+        "probability": 0.0,
+        "ligand_class": "vitamin",
+        "predicted_pKi": 20.0,
+        "confidence": 0.9166
+      },
+      {
+        "ligand": "nicotinamide",
+        "probability": 0.0,
+        "ligand_class": "vitamin",
+        "predicted_pKi": 20.0,
+        "confidence": 0.9166
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.9138
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.9138
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.9135
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.009756,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.9135
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.004878,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.9128
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR119",
+    "gene": "GPR119",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "pancreas, gut",
+    "n_similar_receptors": 30,
+    "top_ligands": [
+      {
+        "ligand": "DHA",
+        "probability": 0.01506,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.53,
+        "confidence": 0.9063
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.096386,
+        "ligand_class": "lipid",
+        "predicted_pKi": 21.68,
+        "confidence": 0.9063
+      },
+      {
+        "ligand": "caproic acid",
+        "probability": 0.03012,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 20.26,
+        "confidence": 0.9063
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.060241,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.905
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.060241,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.08,
+        "confidence": 0.9049
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.096386,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9042
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.111446,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 28.04,
+        "confidence": 0.9035
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.03012,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 27.17,
+        "confidence": 0.9035
+      },
+      {
+        "ligand": "butyrate",
+        "probability": 0.045181,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 24.76,
+        "confidence": 0.9035
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.03012,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 22.1,
+        "confidence": 0.9035
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.625
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2726
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0934
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR120",
+    "gene": "FFAR4",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gq",
+    "tissue_expression": "adipose, macrophages, gut",
+    "n_similar_receptors": 18,
+    "top_ligands": [
+      {
+        "ligand": "DHA",
+        "probability": 0.050114,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 28.16,
+        "confidence": 0.8545
+      },
+      {
+        "ligand": "caproic acid",
+        "probability": 0.045558,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 20.26,
+        "confidence": 0.8545
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.013667,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.8533
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.013667,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.08,
+        "confidence": 0.8532
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.013667,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8526
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.013667,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.8525
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.100228,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 27.63,
+        "confidence": 0.8519
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.100228,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 27.17,
+        "confidence": 0.8519
+      },
+      {
+        "ligand": "butyrate",
+        "probability": 0.068337,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 24.76,
+        "confidence": 0.8519
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.063781,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 23.26,
+        "confidence": 0.8519
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gq",
+        "probability": 0.5786
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2574
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1503
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR176",
+    "gene": "GPR25",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "testis, leukocytes",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.6216
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.023622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.6211
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.023622,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.6205
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.070866,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.6161
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.094488,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.6159
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.19685,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 17.37,
+        "confidence": 0.6151
+      },
+      {
+        "ligand": "octopamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.32,
+        "confidence": 0.6143
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 13.22,
+        "confidence": 0.6137
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.023622,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 12.42,
+        "confidence": 0.6054
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.023622,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.6012
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4724
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.315
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.189
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 10,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR182",
+    "gene": "GPR182",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelial cells",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.080586,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.080586,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.03663,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.080586,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.8934
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6685
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2326
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0879
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR183",
+    "gene": "GPR183",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 38,
+    "top_ligands": [
+      {
+        "ligand": "7-alpha,7beta-dihydroxy-cholest-5-en-3beta-ol",
+        "probability": 0.0,
+        "ligand_class": "lipid",
+        "predicted_pKi": 22.75,
+        "confidence": 0.9268
+      },
+      {
+        "ligand": "oxysterol",
+        "probability": 0.0,
+        "ligand_class": "lipid",
+        "predicted_pKi": 22.75,
+        "confidence": 0.9268
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.029499,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.029499,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.064897,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.029499,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.029499,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.029499,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.064897,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.9237
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.064897,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.9236
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7714
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.149
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0708
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR132",
+    "gene": "GPR132",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.9127
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.04878,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.9123
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.009756,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR135",
+    "gene": "GPR135",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, oligodendrocytes",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.8765
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.8762
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.012422,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.062112,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR139",
+    "gene": "GPR139",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (hypothalamus)",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "neurotensin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 34.69,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.062893,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.100629,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.100629,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.062893,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.062893,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.062893,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.100629,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.8934
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6525
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2626
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0755
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR141",
+    "gene": "GPR141",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR142",
+    "gene": "GPR142",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.027397,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.013699,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR146",
+    "gene": "GPR146",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.084942,
+        "ligand_class": "peptide",
+        "predicted_pKi": 25.12,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.005792,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.8765
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.005792,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.005792,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.005792,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.8762
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.057915,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.057915,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.8737
+      },
+      {
+        "ligand": "orexin-A",
+        "probability": 0.011583,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.28,
+        "confidence": 0.8734
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.7046
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.1911
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0927
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR148",
+    "gene": "GPR148",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 30,
+    "top_ligands": [
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.017857,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 16.64,
+        "confidence": 0.9054
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.053571,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9042
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.053571,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9034
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.053571,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.9026
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.160714,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.8962
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.214286,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.8959
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.260714,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 16.31,
+        "confidence": 0.8773
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.053571,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8744
+      },
+      {
+        "ligand": "tryptamine",
+        "probability": 0.053571,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 12.1,
+        "confidence": 0.8735
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.096429,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 12.58,
+        "confidence": 0.8729
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6268
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2268
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.1232
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR149",
+    "gene": "GPR149",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.027397,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.013699,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR150",
+    "gene": "GPR150",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.68,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 22.11,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 17.94,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.027397,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.299
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.013699,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 16.49,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR151",
+    "gene": "GPR151",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, olfactory bulb",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "tryptophan",
+        "probability": 0.100629,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 27.75,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.100629,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 25.13,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.8917
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.8909
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.100629,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.8901
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.141509,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.8838
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.188679,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.8835
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.138365,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 13.44,
+        "confidence": 0.8716
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.004717,
+        "ligand_class": "peptide",
+        "predicted_pKi": 2.8,
+        "confidence": 0.0138
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.004717,
+        "ligand_class": "peptide",
+        "predicted_pKi": 2.77,
+        "confidence": 0.0134
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6525
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2626
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0755
+      }
+    ],
+    "high_confidence_count": 8,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 2
+  },
+  {
+    "receptor": "GPR152",
+    "gene": "GPR152",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR153",
+    "gene": "GPR153",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR155",
+    "gene": "GPR155",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR156",
+    "gene": "GPR156",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 16,
+    "top_ligands": [
+      {
+        "ligand": "orexin-A",
+        "probability": 0.125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.28,
+        "confidence": 0.8358
+      },
+      {
+        "ligand": "orexin-B",
+        "probability": 0.125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 14.15,
+        "confidence": 0.8309
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.0625,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.52,
+        "confidence": 0.0103
+      },
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.0625,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 2.5,
+        "confidence": 0.0102
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.0625,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.41,
+        "confidence": 0.0095
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.37,
+        "confidence": 0.0091
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.33,
+        "confidence": 0.0089
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.1875,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.0,
+        "confidence": 0.0068
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.25,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 1.89,
+        "confidence": 0.0061
+      },
+      {
+        "ligand": "UDP-glucose",
+        "probability": 0.125,
+        "ligand_class": "purine",
+        "predicted_pKi": 1.82,
+        "confidence": 0.0059
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gq",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 2,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 8
+  },
+  {
+    "receptor": "GPR157",
+    "gene": "GPR157",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.2988
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.2987
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.2986
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.027397,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.2984
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR158",
+    "gene": "GPR158",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 16,
+    "top_ligands": [
+      {
+        "ligand": "orexin-A",
+        "probability": 0.125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.28,
+        "confidence": 0.8358
+      },
+      {
+        "ligand": "orexin-B",
+        "probability": 0.125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 14.15,
+        "confidence": 0.8309
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.0625,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.52,
+        "confidence": 0.0103
+      },
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.0625,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 2.5,
+        "confidence": 0.0102
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.0625,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.41,
+        "confidence": 0.0095
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.37,
+        "confidence": 0.0091
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.33,
+        "confidence": 0.0089
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.1875,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.0,
+        "confidence": 0.0068
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.25,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 1.89,
+        "confidence": 0.0061
+      },
+      {
+        "ligand": "UDP-glucose",
+        "probability": 0.125,
+        "ligand_class": "purine",
+        "predicted_pKi": 1.82,
+        "confidence": 0.0059
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gq",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 2,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 8
+  },
+  {
+    "receptor": "GPR160",
+    "gene": "GPR160",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, immune cells",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "A-88,142",
+        "probability": 0.0,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 15.0,
+        "confidence": 0.9133
+      },
+      {
+        "ligand": "vernonolide",
+        "probability": 0.009756,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.8202
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.004878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.7074
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.6819
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.02439,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.6805
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.04878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.6749
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.04878,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.6689
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.6665
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6642
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.6642
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 3,
+    "medium_confidence_count": 7,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR161",
+    "gene": "GPR161",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain (neural progenitors)",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.02439,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.9127
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.04878,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.9123
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.009756,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.009756,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.9118
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.8049
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.1073
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.078
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR171",
+    "gene": "GPR171",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (hypothalamus)",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.8765
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.8764
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.006211,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.8762
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.012422,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.062112,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.062112,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6832
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.205
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0994
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR173",
+    "gene": "GPR173",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, immune cells",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "tryptophan",
+        "probability": 0.027397,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 22.89,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.027397,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 20.73,
+        "confidence": 0.2991
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.2984
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.027397,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.2981
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.027397,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.2979
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.2957
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.2956
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 11.61,
+        "confidence": 0.2799
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 2.8,
+        "confidence": 0.0046
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 2.77,
+        "confidence": 0.0045
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR174",
+    "gene": "CMKRL1",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, immune cells",
+    "n_similar_receptors": 29,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.096386,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.56,
+        "confidence": 0.9013
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.096386,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.18,
+        "confidence": 0.9006
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.096386,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 14.87,
+        "confidence": 0.8998
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.135542,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.79,
+        "confidence": 0.8934
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.180723,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.58,
+        "confidence": 0.8931
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.174699,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 28.83,
+        "confidence": 0.8924
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.096386,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 12.14,
+        "confidence": 0.8717
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.02259,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 12.08,
+        "confidence": 0.8595
+      },
+      {
+        "ligand": "phenylalanine",
+        "probability": 0.096386,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 10.99,
+        "confidence": 0.8279
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.004518,
+        "ligand_class": "peptide",
+        "predicted_pKi": 2.8,
+        "confidence": 0.0139
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6355
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2726
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0828
+      }
+    ],
+    "high_confidence_count": 9,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 1
+  },
+  {
+    "receptor": "GPR176 (GPR25)",
+    "gene": "GPR25",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "testis, leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "vernonolide",
+        "probability": 0.027397,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.71,
+        "confidence": 0.2684
+      },
+      {
+        "ligand": "SR59230A",
+        "probability": 0.013699,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.54,
+        "confidence": 0.2315
+      },
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.35,
+        "confidence": 0.2232
+      },
+      {
+        "ligand": "PD-128907",
+        "probability": 0.013699,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.34,
+        "confidence": 0.2227
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.027397,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.31,
+        "confidence": 0.2209
+      },
+      {
+        "ligand": "JNJ-39758979",
+        "probability": 0.027397,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.26,
+        "confidence": 0.2189
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.24,
+        "confidence": 0.2181
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.013699,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.22,
+        "confidence": 0.2174
+      },
+      {
+        "ligand": "thioperamide",
+        "probability": 0.041096,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.2174
+      },
+      {
+        "ligand": "RO5256390",
+        "probability": 0.013699,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.2167
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.4521
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.3014
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.2192
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR179",
+    "gene": "GPR179",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 16,
+    "top_ligands": [
+      {
+        "ligand": "orexin-A",
+        "probability": 0.125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.28,
+        "confidence": 0.8358
+      },
+      {
+        "ligand": "orexin-B",
+        "probability": 0.125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 14.15,
+        "confidence": 0.8309
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.0625,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.52,
+        "confidence": 0.0103
+      },
+      {
+        "ligand": "lysergic acid",
+        "probability": 0.0625,
+        "ligand_class": "ergoline",
+        "predicted_pKi": 2.5,
+        "confidence": 0.0102
+      },
+      {
+        "ligand": "DHA",
+        "probability": 0.0625,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.41,
+        "confidence": 0.0095
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.37,
+        "confidence": 0.0091
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.33,
+        "confidence": 0.0089
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.1875,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.0,
+        "confidence": 0.0068
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.25,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 1.89,
+        "confidence": 0.0061
+      },
+      {
+        "ligand": "UDP-glucose",
+        "probability": 0.125,
+        "ligand_class": "purine",
+        "predicted_pKi": 1.82,
+        "confidence": 0.0059
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gq",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 2,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 8
+  },
+  {
+    "receptor": "GPR182 (LRG1/GPCR2)",
+    "gene": "GPR182",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelial cells",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.080586,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.080586,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.080586,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.8938
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.03663,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.03663,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.8935
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.080586,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.8934
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 0.6685
+      },
+      {
+        "g_protein": "Gi",
+        "probability": 0.2326
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0879
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR183 (BLR2)",
+    "gene": "GPR183",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 38,
+    "top_ligands": [
+      {
+        "ligand": "galanin",
+        "probability": 0.029499,
+        "ligand_class": "peptide",
+        "predicted_pKi": 29.35,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.029499,
+        "ligand_class": "peptide",
+        "predicted_pKi": 28.62,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.064897,
+        "ligand_class": "lipid",
+        "predicted_pKi": 25.12,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.029499,
+        "ligand_class": "lipid",
+        "predicted_pKi": 24.28,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.029499,
+        "ligand_class": "peptide",
+        "predicted_pKi": 24.28,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.029499,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 21.24,
+        "confidence": 0.924
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.064897,
+        "ligand_class": "lipid",
+        "predicted_pKi": 18.21,
+        "confidence": 0.9237
+      },
+      {
+        "ligand": "lauric acid",
+        "probability": 0.064897,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.9236
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.064897,
+        "ligand_class": "lipid",
+        "predicted_pKi": 17.86,
+        "confidence": 0.9236
+      },
+      {
+        "ligand": "tryptophan",
+        "probability": 0.029499,
+        "ligand_class": "amino acid",
+        "predicted_pKi": 17.69,
+        "confidence": 0.9236
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 0.7714
+      },
+      {
+        "g_protein": "Gs",
+        "probability": 0.149
+      },
+      {
+        "g_protein": "Gq",
+        "probability": 0.0708
+      }
+    ],
+    "high_confidence_count": 10,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR56 (ADGRB1)",
+    "gene": "ADGRB1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, endothelium",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.090909,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.24,
+        "confidence": 0.868
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.8678
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.090909,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 2.55,
+        "confidence": 0.0111
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.39,
+        "confidence": 0.0097
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.24,
+        "confidence": 0.0086
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 7,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 3
+  },
+  {
+    "receptor": "GPR64 (ADGRB2)",
+    "gene": "ADGRB2",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelium, brain",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.090909,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.24,
+        "confidence": 0.868
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.8678
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.090909,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 2.55,
+        "confidence": 0.0111
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.39,
+        "confidence": 0.0097
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.24,
+        "confidence": 0.0086
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 7,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 3
+  },
+  {
+    "receptor": "GPR126 (ADGRB3)",
+    "gene": "ADGRB3",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, oligodendrocytes",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.090909,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.24,
+        "confidence": 0.868
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.8678
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.090909,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 2.55,
+        "confidence": 0.0111
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.39,
+        "confidence": 0.0097
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.24,
+        "confidence": 0.0086
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 7,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 3
+  },
+  {
+    "receptor": "GPR128 (ADGRL1)",
+    "gene": "ADGRL1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.9127
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.060606,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "probability": 0.060606,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.9096
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.212121,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.79,
+        "confidence": 0.9008
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.060606,
+        "ligand_class": "lipid",
+        "predicted_pKi": 11.71,
+        "confidence": 0.869
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.060606,
+        "ligand_class": "lipid",
+        "predicted_pKi": 11.48,
+        "confidence": 0.8607
+      },
+      {
+        "ligand": "buprenorphine",
+        "probability": 0.030303,
+        "ligand_class": "synthetic opioid",
+        "predicted_pKi": 2.74,
+        "confidence": 0.0134
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 9,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 1
+  },
+  {
+    "receptor": "GPR133 (ADGRL2)",
+    "gene": "ADGRL2",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.83,
+        "confidence": 0.9131
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.63,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.6,
+        "confidence": 0.9129
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.030303,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.38,
+        "confidence": 0.9127
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.060606,
+        "ligand_class": "lipid",
+        "predicted_pKi": 16.15,
+        "confidence": 0.9125
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "probability": 0.060606,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.9096
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.212121,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.79,
+        "confidence": 0.9008
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.060606,
+        "ligand_class": "lipid",
+        "predicted_pKi": 11.71,
+        "confidence": 0.869
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.060606,
+        "ligand_class": "lipid",
+        "predicted_pKi": 11.48,
+        "confidence": 0.8607
+      },
+      {
+        "ligand": "buprenorphine",
+        "probability": 0.030303,
+        "ligand_class": "synthetic opioid",
+        "predicted_pKi": 2.74,
+        "confidence": 0.0134
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gi",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 9,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 1
+  },
+  {
+    "receptor": "GPR143 (ADGRF1)",
+    "gene": "ADGRF1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.090909,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.24,
+        "confidence": 0.868
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.8678
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.090909,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 2.55,
+        "confidence": 0.0111
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.39,
+        "confidence": 0.0097
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.24,
+        "confidence": 0.0086
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 7,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 3
+  },
+  {
+    "receptor": "GPR144 (ADGRF5)",
+    "gene": "ADGRF5",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.090909,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.24,
+        "confidence": 0.868
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.8678
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.090909,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 2.55,
+        "confidence": 0.0111
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.39,
+        "confidence": 0.0097
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.24,
+        "confidence": 0.0086
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 7,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 3
+  },
+  {
+    "receptor": "GPR164 (ADGRL3)",
+    "gene": "ADGRL3",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, endothelium",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "beta-endorphin",
+        "probability": 0.797554,
+        "ligand_class": "peptide",
+        "predicted_pKi": 7.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "dynorphin A",
+        "probability": 0.797554,
+        "ligand_class": "peptide",
+        "predicted_pKi": 7.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "Deltorphin II",
+        "probability": 0.797554,
+        "ligand_class": "peptide",
+        "predicted_pKi": 7.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "DPDPE",
+        "probability": 0.797554,
+        "ligand_class": "peptide",
+        "predicted_pKi": 7.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "ATP",
+        "probability": 0.797554,
+        "ligand_class": "purine",
+        "predicted_pKi": 5.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "UTP",
+        "probability": 0.797554,
+        "ligand_class": "purine",
+        "predicted_pKi": 5.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "UDP-glucose",
+        "probability": 0.797554,
+        "ligand_class": "purine",
+        "predicted_pKi": 5.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.797554,
+        "ligand_class": "peptide",
+        "predicted_pKi": 7.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "phenethylamine",
+        "probability": 0.797554,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.5,
+        "confidence": 0.0009
+      },
+      {
+        "ligand": "amphetamine",
+        "probability": 0.797554,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.5,
+        "confidence": 0.0009
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "unknown",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 10
+  },
+  {
+    "receptor": "GPR177 (ADGRF4)",
+    "gene": "ADGRF4",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "intestine, brain",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.15,
+        "confidence": 0.876
+      },
+      {
+        "ligand": "galanin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.01,
+        "confidence": 0.8759
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.090909,
+        "ligand_class": "lipid",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "YL-2",
+        "probability": 0.090909,
+        "ligand_class": "peptide",
+        "predicted_pKi": 15.61,
+        "confidence": 0.8753
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.24,
+        "confidence": 0.868
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 16.03,
+        "confidence": 0.8678
+      },
+      {
+        "ligand": "zinc",
+        "probability": 0.090909,
+        "ligand_class": "metal ion",
+        "predicted_pKi": 2.55,
+        "confidence": 0.0111
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 2.39,
+        "confidence": 0.0097
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 2.24,
+        "confidence": 0.0086
+      }
+    ],
+    "top_gproteins": [
+      {
+        "g_protein": "Gs",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 7,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 3
+  }
+]

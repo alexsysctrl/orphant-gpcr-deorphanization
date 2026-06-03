@@ -1,0 +1,2662 @@
+[
+  {
+    "receptor": "Alpha-1A adrenergic receptor",
+    "true_ligands": [
+      "phenylephrine",
+      "norepinephrine",
+      "methoxamine",
+      "yohimbine",
+      "prazosin"
+    ],
+    "n_true_ligands": 5,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "prazosin",
+      "BMY-14802",
+      "PUK19",
+      "SR59230A",
+      "ergotamine",
+      "dexmedetomidine",
+      "pirenzepine",
+      "4-DAMP"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.8423,
+      0.6776,
+      0.6398,
+      0.6137,
+      0.5772,
+      0.562,
+      0.5539,
+      0.5489
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "Alpha-1B adrenergic receptor",
+    "true_ligands": [
+      "phenylephrine",
+      "norepinephrine",
+      "prazosin"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "prazosin",
+      "BMY-14802",
+      "PUK19",
+      "SR59230A",
+      "ergotamine",
+      "dexmedetomidine",
+      "pirenzepine",
+      "4-DAMP"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.8423,
+      0.6776,
+      0.6398,
+      0.6137,
+      0.5772,
+      0.562,
+      0.5539,
+      0.5489
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "Alpha-1D adrenergic receptor",
+    "true_ligands": [
+      "norepinephrine",
+      "prazosin",
+      "BMY-14802"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "prazosin",
+      "PUK19",
+      "SR59230A",
+      "ergotamine",
+      "dexmedetomidine",
+      "pirenzepine",
+      "4-DAMP",
+      "ICI-118,551"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.8423,
+      0.6398,
+      0.6137,
+      0.5772,
+      0.562,
+      0.5539,
+      0.5489,
+      0.5374
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "Alpha-2A adrenergic receptor",
+    "true_ligands": [
+      "norepinephrine",
+      "dexmedetomidine",
+      "rauwolscine",
+      "epinephrine",
+      "clonidine",
+      "idazoxan",
+      "yohimbine"
+    ],
+    "n_true_ligands": 7,
+    "top_10": [
+      "clonidine",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "SR59230A",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "prazosin",
+      "ICI-118,551"
+    ],
+    "top_10_scores": [
+      0.7883,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6137,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.5423,
+      0.5374
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "Alpha-2B adrenergic receptor",
+    "true_ligands": [
+      "clonidine",
+      "norepinephrine"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "dexmedetomidine",
+      "clonidine",
+      "rauwolscine",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "SR59230A",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512"
+    ],
+    "top_10_scores": [
+      0.862,
+      0.7883,
+      0.7481,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6137,
+      0.6092,
+      0.6046,
+      0.5539
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "Alpha-2C adrenergic receptor",
+    "true_ligands": [
+      "clonidine",
+      "norepinephrine"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "dexmedetomidine",
+      "clonidine",
+      "rauwolscine",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "SR59230A",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512"
+    ],
+    "top_10_scores": [
+      0.862,
+      0.7883,
+      0.7481,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6137,
+      0.6092,
+      0.6046,
+      0.5539
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "Beta-1 adrenergic receptor",
+    "true_ligands": [
+      "norepinephrine",
+      "epinephrine",
+      "doxazosin",
+      "isoproterenol",
+      "atenolol",
+      "propranolol"
+    ],
+    "n_true_ligands": 6,
+    "top_10": [
+      "PUK19",
+      "SR59230A",
+      "ICI-118,551",
+      "salmeterol",
+      "vernonolide",
+      "BRL-37344",
+      "propranolol",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9137,
+      0.8374,
+      0.8,
+      0.7489,
+      0.7323,
+      0.7234,
+      0.6398,
+      0.6046,
+      0.5708
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "Beta-2 adrenergic receptor",
+    "true_ligands": [
+      "norepinephrine",
+      "salbutamol",
+      "practolol",
+      "ICI-118,551",
+      "epinephrine",
+      "isoproterenol",
+      "salmeterol",
+      "propranolol",
+      "albuterol"
+    ],
+    "n_true_ligands": 9,
+    "top_10": [
+      "PUK19",
+      "SR59230A",
+      "doxazosin",
+      "vernonolide",
+      "BRL-37344",
+      "propranolol",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "dexmedetomidine"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9137,
+      0.8,
+      0.7489,
+      0.7323,
+      0.7234,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.562
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "Beta-3 adrenergic receptor",
+    "true_ligands": [
+      "BRL-37344",
+      "SR59230A",
+      "norepinephrine",
+      "epinephrine"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "PUK19",
+      "ICI-118,551",
+      "doxazosin",
+      "salmeterol",
+      "vernonolide",
+      "propranolol",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "dexmedetomidine"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8374,
+      0.8,
+      0.8,
+      0.7489,
+      0.7234,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.562
+    ],
+    "family": "adrenergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "D1 dopamine receptor",
+    "true_ligands": [
+      "SKF-38393",
+      "SCH-23390",
+      "dopamine"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "PUK19",
+      "SCH-23390",
+      "vernonolide",
+      "GW-1102",
+      "haloperidol",
+      "TUG-891",
+      "PD-128907",
+      "GR-113808",
+      "WAY-208466",
+      "7-OH-DPAT"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.7702,
+      0.7489,
+      0.6398,
+      0.617,
+      0.6046,
+      0.5733,
+      0.5708,
+      0.5442,
+      0.5348
+    ],
+    "family": "dopaminergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "D2 dopamine receptor",
+    "true_ligands": [
+      "apomorphine",
+      "dopamine",
+      "sulpiride",
+      "quinpirole",
+      "haloperidol",
+      "domperidone",
+      "raclopride",
+      "spiperone"
+    ],
+    "n_true_ligands": 8,
+    "top_10": [
+      "PD-128907",
+      "7-OH-DPAT",
+      "PD-168078",
+      "raclopride",
+      "SB-277011-A",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891"
+    ],
+    "top_10_scores": [
+      0.8733,
+      0.8348,
+      0.7426,
+      0.7293,
+      0.7186,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046
+    ],
+    "family": "dopaminergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "D3 dopamine receptor",
+    "true_ligands": [
+      "7-OH-DPAT",
+      "dopamine",
+      "SB-277011-A",
+      "PD-128907",
+      "raclopride",
+      "spiperone"
+    ],
+    "n_true_ligands": 6,
+    "top_10": [
+      "haloperidol",
+      "domperidone",
+      "PD-168078",
+      "apomorphine",
+      "raclopride",
+      "sulpiride",
+      "PUK19",
+      "GW-1102",
+      "quinpirole",
+      "tropium"
+    ],
+    "top_10_scores": [
+      0.917,
+      0.8,
+      0.7426,
+      0.7373,
+      0.7293,
+      0.6776,
+      0.6398,
+      0.6398,
+      0.6249,
+      0.6194
+    ],
+    "family": "dopaminergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "D4 dopamine receptor",
+    "true_ligands": [
+      "L-745,870",
+      "PD-168078",
+      "dopamine",
+      "raclopride",
+      "spiperone"
+    ],
+    "n_true_ligands": 5,
+    "top_10": [
+      "haloperidol",
+      "PD-128907",
+      "7-OH-DPAT",
+      "domperidone",
+      "apomorphine",
+      "raclopride",
+      "SB-277011-A",
+      "sulpiride",
+      "PUK19",
+      "GW-1102"
+    ],
+    "top_10_scores": [
+      0.917,
+      0.8733,
+      0.8348,
+      0.8,
+      0.7373,
+      0.7293,
+      0.7186,
+      0.6776,
+      0.6398,
+      0.6398
+    ],
+    "family": "dopaminergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "D5 dopamine receptor",
+    "true_ligands": [
+      "SKF-38393",
+      "SCH-23390",
+      "dopamine"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "PUK19",
+      "SCH-23390",
+      "vernonolide",
+      "GW-1102",
+      "haloperidol",
+      "TUG-891",
+      "PD-128907",
+      "GR-113808",
+      "WAY-208466",
+      "7-OH-DPAT"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.7702,
+      0.7489,
+      0.6398,
+      0.617,
+      0.6046,
+      0.5733,
+      0.5708,
+      0.5442,
+      0.5348
+    ],
+    "family": "dopaminergic",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "5-HT1A receptor",
+    "true_ligands": [
+      "alnespirone",
+      "WAY-100635",
+      "serotonin",
+      "8-OH-DPAT",
+      "buspirone",
+      "spiperone"
+    ],
+    "n_true_ligands": 6,
+    "top_10": [
+      "GR-46630",
+      "dihydroergotamine",
+      "spiperone",
+      "ergotamine",
+      "GR-113808",
+      "WAY-208466",
+      "PUK19",
+      "GW-1102",
+      "sumatriptan",
+      "SB-269970"
+    ],
+    "top_10_scores": [
+      0.874,
+      0.8415,
+      0.709,
+      0.6772,
+      0.6708,
+      0.6442,
+      0.6398,
+      0.6398,
+      0.637,
+      0.6315
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "5-HT1B receptor",
+    "true_ligands": [
+      "GR-46630",
+      "serotonin",
+      "sumatriptan",
+      "dihydroergotamine",
+      "spiperone"
+    ],
+    "n_true_ligands": 5,
+    "top_10": [
+      "WAY-100635",
+      "GR-46630",
+      "8-OH-DPAT",
+      "spiperone",
+      "alnespirone",
+      "ergotamine",
+      "GR-113808",
+      "WAY-208466",
+      "PUK19",
+      "GW-1102"
+    ],
+    "top_10_scores": [
+      0.884,
+      0.874,
+      0.7323,
+      0.709,
+      0.6926,
+      0.6772,
+      0.6708,
+      0.6442,
+      0.6398,
+      0.6398
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "5-HT1D receptor",
+    "true_ligands": [
+      "sumatriptan",
+      "serotonin",
+      "spiperone",
+      "GR-46630"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "WAY-100635",
+      "GR-46630",
+      "dihydroergotamine",
+      "8-OH-DPAT",
+      "spiperone",
+      "alnespirone",
+      "ergotamine",
+      "GR-113808",
+      "WAY-208466",
+      "PUK19"
+    ],
+    "top_10_scores": [
+      0.884,
+      0.874,
+      0.8415,
+      0.7323,
+      0.709,
+      0.6926,
+      0.6772,
+      0.6708,
+      0.6442,
+      0.6398
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "5-HT2A receptor",
+    "true_ligands": [
+      "ketanserin",
+      "risperidone",
+      "MDA",
+      "MDMA",
+      "serotonin",
+      "LSD",
+      "lysergic acid",
+      "spiperone"
+    ],
+    "n_true_ligands": 8,
+    "top_10": [
+      "ergotamine",
+      "GW-1102",
+      "SB-206553",
+      "TUG-891",
+      "SB-242084",
+      "LY-266097",
+      "BW-723C86",
+      "GR-113808",
+      "mesulergine",
+      "mCPP"
+    ],
+    "top_10_scores": [
+      0.9772,
+      0.9398,
+      0.9204,
+      0.9046,
+      0.8401,
+      0.7822,
+      0.7426,
+      0.6708,
+      0.653,
+      0.653
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "5-HT2B receptor",
+    "true_ligands": [
+      "ergotamine",
+      "BW-723C86",
+      "serotonin",
+      "LY-266097",
+      "spiperone"
+    ],
+    "n_true_ligands": 5,
+    "top_10": [
+      "GW-1102",
+      "SB-206553",
+      "TUG-891",
+      "SB-242084",
+      "risperidone",
+      "ketanserin",
+      "LSD",
+      "GR-113808",
+      "mesulergine",
+      "mCPP"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9204,
+      0.9046,
+      0.8401,
+      0.7604,
+      0.7541,
+      0.7105,
+      0.6708,
+      0.653,
+      0.653
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "5-HT2C receptor",
+    "true_ligands": [
+      "mesulergine",
+      "SB-206553",
+      "mCPP",
+      "serotonin",
+      "SB-242084",
+      "spiperone"
+    ],
+    "n_true_ligands": 6,
+    "top_10": [
+      "ergotamine",
+      "GW-1102",
+      "TUG-891",
+      "LY-266097",
+      "risperidone",
+      "ketanserin",
+      "BW-723C86",
+      "LSD",
+      "GR-113808",
+      "lysergic acid"
+    ],
+    "top_10_scores": [
+      0.9772,
+      0.9398,
+      0.9046,
+      0.7822,
+      0.7604,
+      0.7541,
+      0.7426,
+      0.7105,
+      0.6708,
+      0.653
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "5-HT3 receptor",
+    "true_ligands": [
+      "ondansetron",
+      "serotonin",
+      "granisetron"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "ergotamine",
+      "GR-113808",
+      "WAY-208466",
+      "PUK19",
+      "GW-1102",
+      "SB-269970",
+      "SB-206553",
+      "TUG-891",
+      "WAY-100635",
+      "GR-46630"
+    ],
+    "top_10_scores": [
+      0.6772,
+      0.6708,
+      0.6442,
+      0.6398,
+      0.6398,
+      0.6315,
+      0.6204,
+      0.6046,
+      0.584,
+      0.574
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "ligand-gated ion channel"
+  },
+  {
+    "receptor": "5-HT4 receptor",
+    "true_ligands": [
+      "GR-113808",
+      "serotonin",
+      "prucalopride",
+      "cisapride"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "WAY-208466",
+      "PUK19",
+      "SB-269970",
+      "vernonolide",
+      "ergotamine",
+      "GW-1102",
+      "granisetron",
+      "SB-206553",
+      "TUG-891",
+      "WAY-100635"
+    ],
+    "top_10_scores": [
+      0.9442,
+      0.9398,
+      0.9315,
+      0.7489,
+      0.6772,
+      0.6398,
+      0.6204,
+      0.6204,
+      0.6046,
+      0.584
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "5-HT5A receptor",
+    "true_ligands": [
+      "serotonin"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "WAY-100635",
+      "GR-46630",
+      "dihydroergotamine",
+      "spiperone",
+      "8-OH-DPAT",
+      "alnespirone",
+      "ergotamine",
+      "GR-113808",
+      "WAY-208466",
+      "PUK19"
+    ],
+    "top_10_scores": [
+      0.884,
+      0.874,
+      0.8415,
+      0.7382,
+      0.7323,
+      0.6926,
+      0.6772,
+      0.6708,
+      0.6442,
+      0.6398
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "5-HT6 receptor",
+    "true_ligands": [
+      "dimaprit",
+      "serotonin",
+      "WAY-208466",
+      "L-745,870"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "GR-113808",
+      "PUK19",
+      "SB-269970",
+      "prucalopride",
+      "vernonolide",
+      "cisapride",
+      "ergotamine",
+      "GW-1102",
+      "granisetron",
+      "SB-206553"
+    ],
+    "top_10_scores": [
+      0.9708,
+      0.9398,
+      0.9315,
+      0.825,
+      0.7489,
+      0.7323,
+      0.6772,
+      0.6398,
+      0.6204,
+      0.6204
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "5-HT7 receptor",
+    "true_ligands": [
+      "SB-269970",
+      "serotonin",
+      "almotriptan"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "GR-113808",
+      "WAY-208466",
+      "PUK19",
+      "prucalopride",
+      "vernonolide",
+      "cisapride",
+      "ergotamine",
+      "GW-1102",
+      "granisetron",
+      "SB-206553"
+    ],
+    "top_10_scores": [
+      0.9708,
+      0.9442,
+      0.9398,
+      0.825,
+      0.7489,
+      0.7323,
+      0.6772,
+      0.6398,
+      0.6204,
+      0.6204
+    ],
+    "family": "serotonergic",
+    "ligand_class": "indolamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "Mu opioid receptor",
+    "true_ligands": [
+      "beta-funaltrexamine",
+      "tramadol",
+      "buprenorphine",
+      "codeine",
+      "methadone",
+      "morphine",
+      "fentanyl",
+      "beta-endorphin",
+      "naloxone"
+    ],
+    "n_true_ligands": 9,
+    "top_10": [
+      "UFP-512",
+      "U50,488H",
+      "dynorphin A",
+      "Deltorphin II",
+      "DPDPE",
+      "bremazocine",
+      "Naltiboline",
+      "nociceptin/orphanin FQ",
+      "naloxone",
+      "PUK19"
+    ],
+    "top_10_scores": [
+      0.9539,
+      0.8656,
+      0.8535,
+      0.8504,
+      0.8262,
+      0.8131,
+      0.8,
+      0.7907,
+      0.7066,
+      0.6398
+    ],
+    "family": "opioid",
+    "ligand_class": "peptide",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "Kappa opioid receptor",
+    "true_ligands": [
+      "U50,488H",
+      "dynorphin A",
+      "bremazocine",
+      "naloxone"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "beta-funaltrexamine",
+      "UFP-512",
+      "beta-endorphin",
+      "Deltorphin II",
+      "fentanyl",
+      "buprenorphine",
+      "DPDPE",
+      "Naltiboline",
+      "nociceptin/orphanin FQ",
+      "morphine"
+    ],
+    "top_10_scores": [
+      1.0092,
+      0.9539,
+      0.8754,
+      0.8504,
+      0.8374,
+      0.831,
+      0.8262,
+      0.8,
+      0.7907,
+      0.7066
+    ],
+    "family": "opioid",
+    "ligand_class": "peptide",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "Delta opioid receptor",
+    "true_ligands": [
+      "Deltorphin II",
+      "DPDPE",
+      "naloxone"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "beta-funaltrexamine",
+      "UFP-512",
+      "beta-endorphin",
+      "U50,488H",
+      "dynorphin A",
+      "fentanyl",
+      "buprenorphine",
+      "bremazocine",
+      "Naltiboline",
+      "nociceptin/orphanin FQ"
+    ],
+    "top_10_scores": [
+      1.0092,
+      0.9539,
+      0.8754,
+      0.8656,
+      0.8535,
+      0.8374,
+      0.831,
+      0.8131,
+      0.8,
+      0.7907
+    ],
+    "family": "opioid",
+    "ligand_class": "peptide",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "NOP (Nociceptin) receptor",
+    "true_ligands": [
+      "UFP-512",
+      "Naltiboline",
+      "nociceptin/orphanin FQ"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "beta-funaltrexamine",
+      "beta-endorphin",
+      "U50,488H",
+      "dynorphin A",
+      "Deltorphin II",
+      "fentanyl",
+      "buprenorphine",
+      "DPDPE",
+      "bremazocine",
+      "nociceptin/orphanin FQ"
+    ],
+    "top_10_scores": [
+      1.0092,
+      0.8754,
+      0.8656,
+      0.8535,
+      0.8504,
+      0.8374,
+      0.831,
+      0.8262,
+      0.8131,
+      0.7907
+    ],
+    "family": "opioid",
+    "ligand_class": "peptide",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "M1 muscarinic receptor",
+    "true_ligands": [
+      "oxotremorine-M",
+      "scopolamine",
+      "pirenzepine",
+      "acetylcholine"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "4-DAMP",
+      "GW-1102",
+      "TUG-891",
+      "scopolamine",
+      "tropium",
+      "methoctramine",
+      "ergotamine",
+      "SB-206553",
+      "AF-DX 116",
+      "prazosin"
+    ],
+    "top_10_scores": [
+      0.9489,
+      0.9398,
+      0.9046,
+      0.7631,
+      0.7194,
+      0.6046,
+      0.5772,
+      0.5204,
+      0.4676,
+      0.4423
+    ],
+    "family": "muscarinic",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "M2 muscarinic receptor",
+    "true_ligands": [
+      "methoctramine",
+      "scopolamine",
+      "carbachol",
+      "acetylcholine"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "tropium",
+      "pirenzepine",
+      "4-DAMP",
+      "scopolamine",
+      "beta-funaltrexamine",
+      "UFP-512",
+      "haloperidol",
+      "imetit",
+      "WAY-100635",
+      "beta-endorphin"
+    ],
+    "top_10_scores": [
+      1.0194,
+      0.6539,
+      0.6489,
+      0.6131,
+      0.6092,
+      0.5539,
+      0.517,
+      0.499,
+      0.484,
+      0.4754
+    ],
+    "family": "muscarinic",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "M3 muscarinic receptor",
+    "true_ligands": [
+      "scopolamine",
+      "4-DAMP",
+      "acetylcholine"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "pirenzepine",
+      "GW-1102",
+      "TUG-891",
+      "scopolamine",
+      "tropium",
+      "oxotremorine-M",
+      "methoctramine",
+      "ergotamine",
+      "SB-206553",
+      "AF-DX 116"
+    ],
+    "top_10_scores": [
+      0.9539,
+      0.9398,
+      0.9046,
+      0.7631,
+      0.7194,
+      0.6427,
+      0.6046,
+      0.5772,
+      0.5204,
+      0.4676
+    ],
+    "family": "muscarinic",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "M4 muscarinic receptor",
+    "true_ligands": [
+      "tropium",
+      "acetylcholine"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "methoctramine",
+      "scopolamine",
+      "pirenzepine",
+      "4-DAMP",
+      "beta-funaltrexamine",
+      "UFP-512",
+      "haloperidol",
+      "imetit",
+      "WAY-100635",
+      "beta-endorphin"
+    ],
+    "top_10_scores": [
+      0.9046,
+      0.7131,
+      0.6539,
+      0.6489,
+      0.6092,
+      0.5539,
+      0.517,
+      0.499,
+      0.484,
+      0.4754
+    ],
+    "family": "muscarinic",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "M5 muscarinic receptor",
+    "true_ligands": [
+      "AF-DX 116",
+      "acetylcholine"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "pirenzepine",
+      "4-DAMP",
+      "GW-1102",
+      "TUG-891",
+      "scopolamine",
+      "tropium",
+      "oxotremorine-M",
+      "methoctramine",
+      "ergotamine",
+      "SB-206553"
+    ],
+    "top_10_scores": [
+      0.9539,
+      0.9489,
+      0.9398,
+      0.9046,
+      0.8131,
+      0.7194,
+      0.6427,
+      0.6046,
+      0.5772,
+      0.5204
+    ],
+    "family": "muscarinic",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "A1 adenosine receptor",
+    "true_ligands": [
+      "CCPA",
+      "adenosine",
+      "DPCPX"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "IB-MECA",
+      "MRS-1220",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "SCH-58261"
+    ],
+    "top_10_scores": [
+      0.8072,
+      0.8,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5162
+    ],
+    "family": "adenosine",
+    "ligand_class": "purine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "A2A adenosine receptor",
+    "true_ligands": [
+      "caffeine",
+      "SCH-58261",
+      "CGS-21680",
+      "adenosine"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "CCPA",
+      "WAY-208466",
+      "SB-269970",
+      "SR59230A",
+      "IB-MECA"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.7489,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5656,
+      0.5442,
+      0.5315,
+      0.5137,
+      0.5072
+    ],
+    "family": "adenosine",
+    "ligand_class": "purine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "A2B adenosine receptor",
+    "true_ligands": [
+      "BAY-61722",
+      "adenosine"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "SCH-58261",
+      "vernonolide",
+      "CGS-21680",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "CCPA",
+      "WAY-208466",
+      "SB-269970"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8162,
+      0.7489,
+      0.6994,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5656,
+      0.5442,
+      0.5315
+    ],
+    "family": "adenosine",
+    "ligand_class": "purine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "A3 adenosine receptor",
+    "true_ligands": [
+      "IB-MECA",
+      "MRS-1220",
+      "adenosine"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "CCPA",
+      "DPCPX",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "SCH-58261"
+    ],
+    "top_10_scores": [
+      0.8656,
+      0.7541,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5162
+    ],
+    "family": "adenosine",
+    "ligand_class": "purine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "H1 histamine receptor",
+    "true_ligands": [
+      "pyrilamine",
+      "diphenhydramine",
+      "histamine",
+      "chlorpheniramine"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "PUK19",
+      "imetit",
+      "ergotamine",
+      "JNJ-39758979",
+      "pirenzepine",
+      "thioperamide",
+      "4-DAMP",
+      "SB-206553"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.6398,
+      0.599,
+      0.5772,
+      0.5568,
+      0.5539,
+      0.5504,
+      0.5489,
+      0.5204
+    ],
+    "family": "histamine",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "H2 histamine receptor",
+    "true_ligands": [
+      "cimetidine",
+      "tiotidine",
+      "histamine",
+      "ranitidine"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "GW-1102",
+      "TUG-891",
+      "imetit",
+      "GR-113808",
+      "JNJ-39758979",
+      "thioperamide",
+      "WAY-208466",
+      "SB-269970"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.7489,
+      0.6398,
+      0.6046,
+      0.599,
+      0.5708,
+      0.5568,
+      0.5504,
+      0.5442,
+      0.5315
+    ],
+    "family": "histamine",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "H3 histamine receptor",
+    "true_ligands": [
+      "thioperamide",
+      "imetit",
+      "histamine"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "JNJ-39758979",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine",
+      "pyrilamine"
+    ],
+    "top_10_scores": [
+      0.8568,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5046,
+      0.5
+    ],
+    "family": "histamine",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "H4 histamine receptor",
+    "true_ligands": [
+      "JNJ-39758979",
+      "histamine"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "imetit",
+      "thioperamide",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine"
+    ],
+    "top_10_scores": [
+      0.899,
+      0.8504,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5046
+    ],
+    "family": "histamine",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "P2Y1 receptor",
+    "true_ligands": [
+      "MRS-2179",
+      "2-MeSADP",
+      "ATP"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "PUK19",
+      "ergotamine",
+      "pirenzepine",
+      "4-DAMP",
+      "SB-206553",
+      "2-MeSADP",
+      "vernonolide",
+      "prazosin"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.6398,
+      0.5772,
+      0.5539,
+      0.5489,
+      0.5204,
+      0.4942,
+      0.4489,
+      0.4423
+    ],
+    "family": "purinergic",
+    "ligand_class": "purine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "P2Y12 receptor",
+    "true_ligands": [
+      "ADP",
+      "cangrelor",
+      "2-MeSADP"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine",
+      "imetit",
+      "2-MeSADP"
+    ],
+    "top_10_scores": [
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5046,
+      0.499,
+      0.4942
+    ],
+    "family": "purinergic",
+    "ligand_class": "purine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "P2Y13 receptor",
+    "true_ligands": [
+      "ADP"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "cangrelor",
+      "2-MeSADP",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine"
+    ],
+    "top_10_scores": [
+      0.7105,
+      0.6442,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5046
+    ],
+    "family": "purinergic",
+    "ligand_class": "purine",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "P2Y6 receptor",
+    "true_ligands": [
+      "UTP",
+      "UDP-glucose"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "MRS-2179",
+      "2-MeSADP",
+      "PUK19",
+      "ergotamine",
+      "pirenzepine",
+      "4-DAMP",
+      "SB-206553",
+      "vernonolide"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.7604,
+      0.6442,
+      0.6398,
+      0.5772,
+      0.5539,
+      0.5489,
+      0.5204,
+      0.4489
+    ],
+    "family": "purinergic",
+    "ligand_class": "purine",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "MC1R melanocortin receptor",
+    "true_ligands": [
+      "beta-MSH",
+      "SHU-9119",
+      "alpha-MSH"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "PUK19",
+      "alpha-MSH",
+      "beta-MSH",
+      "ACTH(1-24)",
+      "MT-2",
+      "vernonolide",
+      "SHU-9119",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8271,
+      0.8028,
+      0.8,
+      0.7604,
+      0.7489,
+      0.7049,
+      0.6398,
+      0.6046,
+      0.5708
+    ],
+    "family": "melanocortin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "MC2R melanocortin receptor",
+    "true_ligands": [
+      "ACTH(1-24)"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "PUK19",
+      "alpha-MSH",
+      "beta-MSH",
+      "MT-2",
+      "vernonolide",
+      "SHU-9119",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "WAY-208466"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8271,
+      0.8028,
+      0.7604,
+      0.7489,
+      0.7049,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5442
+    ],
+    "family": "melanocortin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "MC3R melanocortin receptor",
+    "true_ligands": [
+      "beta-MSH",
+      "alpha-MSH"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "alpha-MSH",
+      "beta-MSH",
+      "ACTH(1-24)",
+      "MT-2",
+      "vernonolide",
+      "SHU-9119",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8271,
+      0.8028,
+      0.8,
+      0.7604,
+      0.7489,
+      0.7049,
+      0.6398,
+      0.6046,
+      0.5708
+    ],
+    "family": "melanocortin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "MC4R melanocortin receptor",
+    "true_ligands": [
+      "SHU-9119",
+      "alpha-MSH",
+      "beta-MSH",
+      "MT-2"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "PUK19",
+      "alpha-MSH",
+      "beta-MSH",
+      "ACTH(1-24)",
+      "vernonolide",
+      "SHU-9119",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "WAY-208466"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8271,
+      0.8028,
+      0.8,
+      0.7489,
+      0.7049,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5442
+    ],
+    "family": "melanocortin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "MC5R melanocortin receptor",
+    "true_ligands": [
+      "beta-MSH",
+      "alpha-MSH"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "alpha-MSH",
+      "beta-MSH",
+      "ACTH(1-24)",
+      "MT-2",
+      "vernonolide",
+      "SHU-9119",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.8271,
+      0.8028,
+      0.8,
+      0.7604,
+      0.7489,
+      0.7049,
+      0.6398,
+      0.6046,
+      0.5708
+    ],
+    "family": "melanocortin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "OX1 orexin receptor",
+    "true_ligands": [
+      "orexin-A",
+      "orexin-B",
+      "SB-334867-A"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "orexin-A",
+      "SB-408124",
+      "almorexant",
+      "PUK19",
+      "ergotamine",
+      "orexin-B",
+      "pirenzepine",
+      "4-DAMP"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.8205,
+      0.6926,
+      0.6427,
+      0.6398,
+      0.5772,
+      0.5552,
+      0.5539,
+      0.5489
+    ],
+    "family": "orexin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "OX2 orexin receptor",
+    "true_ligands": [
+      "almorexant",
+      "SB-408124",
+      "orexin-A",
+      "orexin-B"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "orexin-A",
+      "SB-334867-A",
+      "PUK19",
+      "ergotamine",
+      "orexin-B",
+      "pirenzepine",
+      "4-DAMP",
+      "SB-206553"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.9046,
+      0.8205,
+      0.6776,
+      0.6398,
+      0.5772,
+      0.5552,
+      0.5539,
+      0.5489,
+      0.5204
+    ],
+    "family": "orexin",
+    "ligand_class": "peptide",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "S1P1 receptor",
+    "true_ligands": [
+      "FTY720-P",
+      "sphingosine-1-phosphate",
+      "SEW2871"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "sphingosine-1-phosphate",
+      "SEW2871",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine"
+    ],
+    "top_10_scores": [
+      0.6936,
+      0.6932,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5046
+    ],
+    "family": "S1P",
+    "ligand_class": "lipid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "S1P2 receptor",
+    "true_ligands": [
+      "sphingosine-1-phosphate",
+      "SEW2871"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "GW-1102",
+      "TUG-891",
+      "SEW2871",
+      "FTY720-P",
+      "sphingosine-1-phosphate",
+      "vernonolide",
+      "beta-funaltrexamine",
+      "ergotamine",
+      "spiperone"
+    ],
+    "top_10_scores": [
+      0.6398,
+      0.6398,
+      0.6046,
+      0.5432,
+      0.5162,
+      0.4686,
+      0.4489,
+      0.3092,
+      0.2772,
+      0.2715
+    ],
+    "family": "S1P",
+    "ligand_class": "lipid",
+    "g_coupling": "G12/13"
+  },
+  {
+    "receptor": "S1P3 receptor",
+    "true_ligands": [
+      "sphingosine-1-phosphate",
+      "SEW2871"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "FTY720-P",
+      "sphingosine-1-phosphate",
+      "SEW2871",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol"
+    ],
+    "top_10_scores": [
+      0.8162,
+      0.6936,
+      0.6932,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517
+    ],
+    "family": "S1P",
+    "ligand_class": "lipid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "S1P4 receptor",
+    "true_ligands": [
+      "sphingosine-1-phosphate"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "FTY720-P",
+      "SEW2871",
+      "sphingosine-1-phosphate",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol"
+    ],
+    "top_10_scores": [
+      0.8162,
+      0.7432,
+      0.6936,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517
+    ],
+    "family": "S1P",
+    "ligand_class": "lipid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "S1P5 receptor",
+    "true_ligands": [
+      "sphingosine-1-phosphate"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "FTY720-P",
+      "SEW2871",
+      "sphingosine-1-phosphate",
+      "PUK19",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol"
+    ],
+    "top_10_scores": [
+      0.8162,
+      0.7432,
+      0.6936,
+      0.6398,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517
+    ],
+    "family": "S1P",
+    "ligand_class": "lipid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "FFAR1 (GPR40)",
+    "true_ligands": [
+      "GW-1102",
+      "palmitic acid",
+      "EPA",
+      "oleic acid"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "TUG-891",
+      "PUK19",
+      "DHA",
+      "ergotamine",
+      "EPA",
+      "pirenzepine",
+      "4-DAMP",
+      "palmitic acid",
+      "SB-206553",
+      "butyrate"
+    ],
+    "top_10_scores": [
+      1.3046,
+      0.6398,
+      0.5909,
+      0.5772,
+      0.5622,
+      0.5539,
+      0.5489,
+      0.5322,
+      0.5204,
+      0.477
+    ],
+    "family": "free fatty acid",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "FFAR2 (GPR43)",
+    "true_ligands": [
+      "acetate",
+      "propionate",
+      "butyrate"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "butyrate",
+      "PUK19",
+      "tropium",
+      "beta-funaltrexamine",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine",
+      "imetit"
+    ],
+    "top_10_scores": [
+      1.0398,
+      1.0046,
+      0.777,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.5539,
+      0.517,
+      0.5046,
+      0.499
+    ],
+    "family": "free fatty acid",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "FFAR3 (GPR41)",
+    "true_ligands": [
+      "acetate",
+      "propionate",
+      "caproic acid",
+      "butyrate"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "GW-1102",
+      "TUG-891",
+      "butyrate",
+      "PUK19",
+      "tropium",
+      "beta-funaltrexamine",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine",
+      "imetit"
+    ],
+    "top_10_scores": [
+      1.0398,
+      1.0046,
+      0.777,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.5539,
+      0.517,
+      0.5046,
+      0.499
+    ],
+    "family": "free fatty acid",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "FFAR4 (GPR120)",
+    "true_ligands": [
+      "DHA",
+      "palmitic acid",
+      "EPA",
+      "TUG-891"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "GW-1102",
+      "PUK19",
+      "ergotamine",
+      "EPA",
+      "pirenzepine",
+      "4-DAMP",
+      "palmitic acid",
+      "SB-206553",
+      "butyrate",
+      "vernonolide"
+    ],
+    "top_10_scores": [
+      1.3398,
+      0.6398,
+      0.5772,
+      0.5622,
+      0.5539,
+      0.5489,
+      0.5322,
+      0.5204,
+      0.477,
+      0.4489
+    ],
+    "family": "free fatty acid",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gq"
+  },
+  {
+    "receptor": "TAAR1",
+    "true_ligands": [
+      "octopamine",
+      "RO5185379",
+      "phenethylamine",
+      "RO5256390",
+      "amphetamine",
+      "tryptamine"
+    ],
+    "n_true_ligands": 6,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "WAY-208466",
+      "SB-269970",
+      "SR59230A",
+      "ICI-118,551",
+      "alpha-MSH"
+    ],
+    "top_10_scores": [
+      0.9398,
+      0.7489,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5442,
+      0.5315,
+      0.5137,
+      0.4374,
+      0.4271
+    ],
+    "family": "trace amine",
+    "ligand_class": "catecholamine",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "GPR39",
+    "true_ligands": [
+      "zinc",
+      "galanin"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "neurotensin",
+      "YL-2",
+      "oleoylethanolamide",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "WAY-208466",
+      "SB-269970"
+    ],
+    "top_10_scores": [
+      1.3398,
+      1.1489,
+      0.7323,
+      0.7323,
+      0.7323,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5442,
+      0.5315
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "metal ion",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "GPR42 (FFAR3)",
+    "true_ligands": [
+      "propionate"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "oleamide",
+      "lauric acid",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "medium-chain fatty acids",
+      "UFP-512"
+    ],
+    "top_10_scores": [
+      1.0398,
+      0.8489,
+      0.8,
+      0.7907,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5572,
+      0.5539
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "GPR84",
+    "true_ligands": [
+      "lauric acid",
+      "medium-chain fatty acids"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "oleamide",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "UFP-512",
+      "haloperidol",
+      "methoctramine"
+    ],
+    "top_10_scores": [
+      1.0398,
+      0.8489,
+      0.8,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5539,
+      0.517,
+      0.5046
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "GPR88",
+    "true_ligands": [
+      "macadamia acid"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "oleamide",
+      "lauric acid",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "medium-chain fatty acids",
+      "UFP-512"
+    ],
+    "top_10_scores": [
+      1.0398,
+      0.8489,
+      0.8,
+      0.7907,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5572,
+      0.5539
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "fatty acid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "GPR119",
+    "true_ligands": [
+      "vernonolide",
+      "oleic acid",
+      "oleoylethanolamide",
+      "PUK19"
+    ],
+    "n_true_ligands": 4,
+    "top_10": [
+      "galanin",
+      "neurotensin",
+      "YL-2",
+      "zinc",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "WAY-208466",
+      "SB-269970",
+      "SR59230A"
+    ],
+    "top_10_scores": [
+      0.7822,
+      0.7323,
+      0.7323,
+      0.6926,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5442,
+      0.5315,
+      0.5137
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "lipid",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "GPR139",
+    "true_ligands": [
+      "YL-2",
+      "neurotensin"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "galanin",
+      "oleoylethanolamide",
+      "zinc",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808",
+      "WAY-208466",
+      "SB-269970"
+    ],
+    "top_10_scores": [
+      1.3398,
+      1.1489,
+      0.7822,
+      0.7323,
+      0.6926,
+      0.6398,
+      0.6046,
+      0.5708,
+      0.5442,
+      0.5315
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "peptide",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "GPR151",
+    "true_ligands": [
+      "phenylalanine",
+      "tryptophan"
+    ],
+    "n_true_ligands": 2,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "galanin",
+      "neurotensin",
+      "YL-2",
+      "oleoylethanolamide",
+      "zinc",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808"
+    ],
+    "top_10_scores": [
+      1.3398,
+      1.1489,
+      0.7822,
+      0.7323,
+      0.7323,
+      0.7323,
+      0.6926,
+      0.6398,
+      0.6046,
+      0.5708
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "amino acid",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "GPR174",
+    "true_ligands": [
+      "histamine"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "galanin",
+      "neurotensin",
+      "YL-2",
+      "oleoylethanolamide",
+      "zinc",
+      "GW-1102",
+      "TUG-891",
+      "GR-113808"
+    ],
+    "top_10_scores": [
+      1.3398,
+      1.1489,
+      0.7822,
+      0.7323,
+      0.7323,
+      0.7323,
+      0.6926,
+      0.6398,
+      0.6046,
+      0.5708
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "amino acid derivative",
+    "g_coupling": "Gs"
+  },
+  {
+    "receptor": "GPR18",
+    "true_ligands": [
+      "N-arachidonoyl glycine",
+      "oleamide",
+      "2-arachidonoylglycerol"
+    ],
+    "n_true_ligands": 3,
+    "top_10": [
+      "PUK19",
+      "vernonolide",
+      "lauric acid",
+      "GW-1102",
+      "tropium",
+      "beta-funaltrexamine",
+      "TUG-891",
+      "medium-chain fatty acids",
+      "UFP-512",
+      "haloperidol"
+    ],
+    "top_10_scores": [
+      1.0398,
+      0.8489,
+      0.7907,
+      0.6398,
+      0.6194,
+      0.6092,
+      0.6046,
+      0.5572,
+      0.5539,
+      0.517
+    ],
+    "family": "partially deorphanized",
+    "ligand_class": "lipid",
+    "g_coupling": "Gi"
+  },
+  {
+    "receptor": "NOP receptor",
+    "true_ligands": [
+      "nociceptin/orphanin FQ"
+    ],
+    "n_true_ligands": 1,
+    "top_10": [
+      "beta-funaltrexamine",
+      "UFP-512",
+      "beta-endorphin",
+      "U50,488H",
+      "dynorphin A",
+      "Deltorphin II",
+      "fentanyl",
+      "buprenorphine",
+      "DPDPE",
+      "bremazocine"
+    ],
+    "top_10_scores": [
+      1.0092,
+      0.9539,
+      0.8754,
+      0.8656,
+      0.8535,
+      0.8504,
+      0.8374,
+      0.831,
+      0.8262,
+      0.8131
+    ],
+    "family": "opioid",
+    "ligand_class": "peptide",
+    "g_coupling": "Gi"
+  }
+]

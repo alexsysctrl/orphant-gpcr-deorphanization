@@ -1,0 +1,722 @@
+[
+  {
+    "name": "GPR3",
+    "gene": "GPR3",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Couples to Gs, activated by cAMP elevation"
+  },
+  {
+    "name": "GPR4",
+    "gene": "GPR4",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, lung, spleen",
+    "knockout_phenotype": "impaired acid-sensing response",
+    "notes": "Acid-sensing receptor, senses extracellular pH"
+  },
+  {
+    "name": "GPR6",
+    "gene": "GPR6",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (striatum)",
+    "knockout_phenotype": "reduced striatal dopamine, altered motor behavior",
+    "notes": "Constitutively active, couples to Gs"
+  },
+  {
+    "name": "GPR12",
+    "gene": "GPR12",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, kidney",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Constitutively active, coupled to Gs"
+  },
+  {
+    "name": "GPR15",
+    "gene": "GPR15",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, thymus",
+    "knockout_phenotype": "impaired leukocyte recruitment to inflamed tissue",
+    "notes": "Leukocyte GPCR, binds retinaldehyde"
+  },
+  {
+    "name": "GPR19",
+    "gene": "GPR19",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Dopamine receptor family member, no known ligand"
+  },
+  {
+    "name": "GPR20",
+    "gene": "GPR20",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart, kidney",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Closest homolog is ADRA1A"
+  },
+  {
+    "name": "GPR21",
+    "gene": "GPR21",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "endothelial cells, multiple tissues",
+    "knockout_phenotype": "altered vascular development, increased angiogenesis",
+    "notes": "Antagonizes adrenergic signaling"
+  },
+  {
+    "name": "GPR22",
+    "gene": "GPR22",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "knockout_phenotype": "altered microglial morphology",
+    "notes": "Responds to amphetamine/class of compounds"
+  },
+  {
+    "name": "GPR26",
+    "gene": "GPR26",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Dopamine receptor family, orphan"
+  },
+  {
+    "name": "GPR31",
+    "gene": "GPR31",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Dopamine receptor family, constitutively active"
+  },
+  {
+    "name": "GPR32",
+    "gene": "GPR32",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "knockout_phenotype": "impaired macrophage migration",
+    "notes": "Responds to prostaglandin E2 and 15-deoxy-delta-12,14-prostaglandin J2"
+  },
+  {
+    "name": "GPR33",
+    "gene": "GPR33",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Dopamine receptor family, activated by N-acyl dopamine"
+  },
+  {
+    "name": "GPR34",
+    "gene": "GPR34",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Activated by proteinase-activated receptors, D-serine"
+  },
+  {
+    "name": "GPR37",
+    "gene": "GPR37",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain",
+    "knockout_phenotype": "increased susceptibility to neurodegeneration",
+    "notes": "Galanin receptor family, ligand unknown"
+  },
+  {
+    "name": "GPR39",
+    "gene": "GPR39",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, pancreas",
+    "knockout_phenotype": "impaired growth, reduced insulin",
+    "notes": "Partially deorphanized: zinc and galanin agonists"
+  },
+  {
+    "name": "GPR45",
+    "gene": "GPR45",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "leukocytes, spleen",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Histamine receptor family, orphan"
+  },
+  {
+    "name": "GPR50",
+    "gene": "GPR50",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain (hypothalamus)",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Melanocortin receptor family, lacks key serine for phosphorylation"
+  },
+  {
+    "name": "GPR52",
+    "gene": "GPR52",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, retina",
+    "knockout_phenotype": "altered circadian rhythms",
+    "notes": "Dopamine receptor family, activated by phenethylamine"
+  },
+  {
+    "name": "GPR62",
+    "gene": "GPR62",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis, kidney",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Constitutively active, serotonin receptor family"
+  },
+  {
+    "name": "GPR63",
+    "gene": "GPR63",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart, kidney",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Serotonin receptor family, orphan"
+  },
+  {
+    "name": "GPR65",
+    "gene": "GPR65",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "knockout_phenotype": "altered inflammatory response",
+    "notes": "Acid-sensing GPCR (TGR6), senses extracellular acidosis"
+  },
+  {
+    "name": "GPR68",
+    "gene": "GPR68",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, kidney",
+    "knockout_phenotype": "altered energy homeostasis",
+    "notes": "Senses ketone bodies (beta-hydroxybutyrate)"
+  },
+  {
+    "name": "GPR75",
+    "gene": "GPR75",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "adipose tissue",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, limited expression data"
+  },
+  {
+    "name": "GPR78",
+    "gene": "GPR78",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "skeletal muscle, adipose",
+    "knockout_phenotype": "altered energy expenditure",
+    "notes": "Activated by long-chain fatty acids"
+  },
+  {
+    "name": "GPR82",
+    "gene": "GPR82",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "retina",
+    "knockout_phenotype": "altered retinal function",
+    "notes": "Dopamine receptor family, retina-specific"
+  },
+  {
+    "name": "GPR83",
+    "gene": "GPR83",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes (microglia)",
+    "knockout_phenotype": "impaired microglial activation",
+    "notes": "Activated by LPA, important in neuroinflammation"
+  },
+  {
+    "name": "GPR85",
+    "gene": "GPR85",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Dopamine receptor family, leukocyte-specific"
+  },
+  {
+    "name": "GPR87",
+    "gene": "GPR87",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "knockout_phenotype": "altered inflammatory response",
+    "notes": "Activated by LPA and prostaglandins"
+  },
+  {
+    "name": "GPR88",
+    "gene": "GPR88",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain (hippocampus, striatum)",
+    "knockout_phenotype": "impaired learning and memory, altered seizures",
+    "notes": "Partially deorphanized: macadamia acid (C18:2n9)"
+  },
+  {
+    "name": "GPR101",
+    "gene": "GPR101",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Amber, amplified in glioblastoma"
+  },
+  {
+    "name": "GPR103",
+    "gene": "GPR103",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, heart, kidney",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Serotonin receptor family, orphan"
+  },
+  {
+    "name": "GPR109A",
+    "gene": "GPR109A",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "adipose tissue, skin",
+    "knockout_phenotype": "reduced inflammation, altered lipid metabolism",
+    "notes": "Partially deorphanized: niacin (vitamin B3) and nicotinamide riboside"
+  },
+  {
+    "name": "GPR119",
+    "gene": "GPR119",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "pancreas, gut",
+    "knockout_phenotype": "impaired glucose-stimulated insulin secretion",
+    "notes": "Partially deorphanized: OEA, vernonolide, PUK19"
+  },
+  {
+    "name": "GPR120",
+    "gene": "FFAR4",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gq",
+    "tissue_expression": "adipose, macrophages, gut",
+    "knockout_phenotype": "altered anti-inflammatory response",
+    "notes": "Partially deorphanized: EPA, DHA, palmitic acid"
+  },
+  {
+    "name": "GPR176",
+    "gene": "GPR25",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "testis, leukocytes",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, testis-enriched, also called GPR25"
+  },
+  {
+    "name": "GPR182",
+    "gene": "GPR182",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelial cells",
+    "knockout_phenotype": "impaired angiogenesis",
+    "notes": "Partially deorphanized: angiocrine factors, also called LRG1"
+  },
+  {
+    "name": "GPR183",
+    "gene": "GPR183",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "knockout_phenotype": "impaired B cell migration",
+    "notes": "Partially deorphanized: 7-alpha,7beta-dihydroxy-cholest-5-en-3beta-ol (oxysterol), also called BLR2"
+  },
+  {
+    "name": "GPR132",
+    "gene": "GPR132",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "knockout_phenotype": "impaired neutrophil chemotaxis",
+    "notes": "Adhesion GPCR (GPRB2), partially deorphanized: SLC1A3"
+  },
+  {
+    "name": "GPR135",
+    "gene": "GPR135",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, oligodendrocytes",
+    "knockout_phenotype": "impaired oligodendrocyte differentiation",
+    "notes": "Adhesion GPCR, controls myelination"
+  },
+  {
+    "name": "GPR139",
+    "gene": "GPR139",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (hypothalamus)",
+    "knockout_phenotype": "altered food intake",
+    "notes": "Partially deorphanized: neurotensin, YL-2"
+  },
+  {
+    "name": "GPR141",
+    "gene": "GPR141",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Adhesion GPCR, orphan"
+  },
+  {
+    "name": "GPR142",
+    "gene": "GPR142",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "leukocytes",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Leukocyte GPCR, orphan"
+  },
+  {
+    "name": "GPR146",
+    "gene": "GPR146",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Melanocortin receptor family, constitutively active"
+  },
+  {
+    "name": "GPR148",
+    "gene": "GPR148",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Constitutively active, serotonin receptor family"
+  },
+  {
+    "name": "GPR149",
+    "gene": "GPR149",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, leukocytes",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, limited expression data"
+  },
+  {
+    "name": "GPR150",
+    "gene": "GPR150",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, limited data"
+  },
+  {
+    "name": "GPR151",
+    "gene": "GPR151",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, olfactory bulb",
+    "knockout_phenotype": "altered olfactory behavior",
+    "notes": "Partially deorphanized: tryptophan, phenylalanine"
+  },
+  {
+    "name": "GPR152",
+    "gene": "GPR152",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, limited data"
+  },
+  {
+    "name": "GPR153",
+    "gene": "GPR153",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, limited data"
+  },
+  {
+    "name": "GPR155",
+    "gene": "GPR155",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Adhesion GPCR (GPRB1), orphan"
+  },
+  {
+    "name": "GPR156",
+    "gene": "GPR156",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "brain, heart",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Class C (metabotropic glutamate family), adhesion GPCR"
+  },
+  {
+    "name": "GPR157",
+    "gene": "GPR157",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Adhesion GPCR (GPRB2), orphan"
+  },
+  {
+    "name": "GPR158",
+    "gene": "GPR158",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "brain, heart",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Class C (metabotropic glutamate family), adhesion GPCR"
+  },
+  {
+    "name": "GPR160",
+    "gene": "GPR160",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, immune cells",
+    "knockout_phenotype": "altered immune response",
+    "notes": "Activated by A-88,142 (synthetic)"
+  },
+  {
+    "name": "GPR161",
+    "gene": "GPR161",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain (neural progenitors)",
+    "knockout_phenotype": "altered neural development, enlarged ventricles",
+    "notes": "Adhesion GPCR, suppresses Wnt signaling"
+  },
+  {
+    "name": "GPR171",
+    "gene": "GPR171",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (hypothalamus)",
+    "knockout_phenotype": "altered energy homeostasis, reduced activity",
+    "notes": "Adhesion GPCR (GPRB3), activated by 2-APB"
+  },
+  {
+    "name": "GPR173",
+    "gene": "GPR173",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, immune cells",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, limited data"
+  },
+  {
+    "name": "GPR174",
+    "gene": "CMKRL1",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, immune cells",
+    "knockout_phenotype": "altered inflammatory response",
+    "notes": "Also called CMKRL1, partially deorphanized: histamine agonist"
+  },
+  {
+    "name": "GPR176 (GPR25)",
+    "gene": "GPR25",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "testis, leukocytes",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Orphan, testis-enriched"
+  },
+  {
+    "name": "GPR179",
+    "gene": "GPR179",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "retina",
+    "knockout_phenotype": "altered retinal function",
+    "notes": "Class C, retina-specific, adhesion GPCR"
+  },
+  {
+    "name": "GPR182 (LRG1/GPCR2)",
+    "gene": "GPR182",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelial cells",
+    "knockout_phenotype": "impaired angiogenesis",
+    "notes": "Partially deorphanized: angiocrine factors"
+  },
+  {
+    "name": "GPR183 (BLR2)",
+    "gene": "GPR183",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "knockout_phenotype": "impaired B cell migration",
+    "notes": "Partially deorphanized: 7-alpha,7beta-dihydroxy-cholest-5-en-3beta-ol (oxysterol)"
+  },
+  {
+    "name": "GPR56 (ADGRB1)",
+    "gene": "ADGRB1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, endothelium",
+    "knockout_phenotype": "altered cortical development",
+    "notes": "Adhesion GPCR, couples to Gs, brain-specific"
+  },
+  {
+    "name": "GPR64 (ADGRB2)",
+    "gene": "ADGRB2",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelium, brain",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Adhesion GPCR, endothelial-specific"
+  },
+  {
+    "name": "GPR126 (ADGRB3)",
+    "gene": "ADGRB3",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, oligodendrocytes",
+    "knockout_phenotype": "impaired myelination",
+    "notes": "Adhesion GPCR, essential for oligodendrocyte differentiation"
+  },
+  {
+    "name": "GPR128 (ADGRL1)",
+    "gene": "ADGRL1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "knockout_phenotype": "impaired neuronal migration",
+    "notes": "Adhesion GPCR (ELR), controls cortical layering"
+  },
+  {
+    "name": "GPR133 (ADGRL2)",
+    "gene": "ADGRL2",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "knockout_phenotype": "altered neuronal migration",
+    "notes": "Adhesion GPCR (GRL1), brain-enriched"
+  },
+  {
+    "name": "GPR143 (ADGRF1)",
+    "gene": "ADGRF1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "retina",
+    "knockout_phenotype": "altered retinal development",
+    "notes": "Adhesion GPCR (GPRF1), retina-specific"
+  },
+  {
+    "name": "GPR144 (ADGRF5)",
+    "gene": "ADGRF5",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "retina",
+    "knockout_phenotype": "retinal degeneration",
+    "notes": "Adhesion GPCR (GPRF5), retina-specific, activated by retinaldehyde"
+  },
+  {
+    "name": "GPR164 (ADGRL3)",
+    "gene": "ADGRL3",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, endothelium",
+    "knockout_phenotype": "no obvious phenotype",
+    "notes": "Adhesion GPCR (NGL-1), binds neuroligins"
+  },
+  {
+    "name": "GPR177 (ADGRF4)",
+    "gene": "ADGRF4",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "intestine, brain",
+    "knockout_phenotype": "altered Wnt signaling in gut",
+    "notes": "Adhesion GPCR (GPRF4), activates Wnt pathway"
+  }
+]

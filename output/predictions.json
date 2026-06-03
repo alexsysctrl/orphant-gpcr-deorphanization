@@ -1,0 +1,6056 @@
+[
+  {
+    "receptor": "GPR3",
+    "gene": "GPR3",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR4",
+    "gene": "GPR4",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, lung, spleen",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR6",
+    "gene": "GPR6",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (striatum)",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR12",
+    "gene": "GPR12",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, kidney",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR15",
+    "gene": "GPR15",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, thymus",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR19",
+    "gene": "GPR19",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.377953,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.93,
+        "confidence": 0.2176
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.19685,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0303
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.129921,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0251
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.11811,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0304
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.11811,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.165
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.11811,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.1536
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.11811,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0393
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.11811,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.1472
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.106299,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.1645
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.094488,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.1737
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR20",
+    "gene": "GPR20",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart, kidney",
+    "n_similar_receptors": 9,
+    "top_ligands": [
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.35461,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0527
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.191489,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.2883
+      },
+      {
+        "ligand": "prazosin",
+        "probability": 0.177305,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.248
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.141844,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.85,
+        "confidence": 0.0649
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.117021,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0337
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.106383,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.2279
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.106383,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.1975
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.095745,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.2208
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.085106,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.2331
+      },
+      {
+        "ligand": "phenylephrine",
+        "probability": 0.070922,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0274
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR21",
+    "gene": "GPR21",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "endothelial cells, multiple tissues",
+    "n_similar_receptors": 39,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.292035,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.6071
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.221239,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.4111
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.20059,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.93,
+        "confidence": 0.1436
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.163717,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4655
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.119469,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0818
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.097345,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4743
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.097345,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.5122
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.076696,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.02,
+        "confidence": 0.1553
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.075221,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.1078
+      },
+      {
+        "ligand": "prazosin",
+        "probability": 0.073746,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.5163
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 3,
+    "medium_confidence_count": 93,
+    "low_confidence_count": 67
+  },
+  {
+    "receptor": "GPR22",
+    "gene": "GPR22",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 35,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.369231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.94,
+        "confidence": 0.5768
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.230769,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3895
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.170769,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.441
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.132308,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.47,
+        "confidence": 0.0927
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.124615,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0775
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.101538,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.4065
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.101538,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1778
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.101538,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4853
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4493
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.069231,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2556
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 89,
+    "low_confidence_count": 74
+  },
+  {
+    "receptor": "GPR26",
+    "gene": "GPR26",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.377953,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.93,
+        "confidence": 0.2176
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.19685,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0303
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.129921,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0251
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.11811,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0304
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.11811,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.165
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.11811,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.1536
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.11811,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0393
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.11811,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.1472
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.106299,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.1645
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.094488,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.1737
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR31",
+    "gene": "GPR31",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 25,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.23166,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3884
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.185328,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.93,
+        "confidence": 0.4865
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.173745,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.404
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.142857,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.11,
+        "confidence": 0.0571
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.133205,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0498
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.127413,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0679
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.127413,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.3689
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.127413,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.052
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.11583,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3281
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.104247,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1539
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 44,
+    "low_confidence_count": 119
+  },
+  {
+    "receptor": "GPR32",
+    "gene": "GPR32",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 34,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.304615,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5669
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.267692,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.88,
+        "confidence": 0.4326
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.230769,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3838
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.166154,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.2,
+        "confidence": 0.48
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.124615,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0764
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.101538,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1752
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.078462,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.1007
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4429
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.4006
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.069231,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2519
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 87,
+    "low_confidence_count": 76
+  },
+  {
+    "receptor": "GPR33",
+    "gene": "GPR33",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain",
+    "n_similar_receptors": 35,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.369231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.94,
+        "confidence": 0.5768
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.230769,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3895
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.170769,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.441
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.132308,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.47,
+        "confidence": 0.0927
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.124615,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0775
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.101538,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.4065
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.101538,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1778
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.101538,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4853
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4493
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.069231,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2556
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 89,
+    "low_confidence_count": 74
+  },
+  {
+    "receptor": "GPR34",
+    "gene": "GPR34",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR37",
+    "gene": "GPR37",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR39",
+    "gene": "GPR39",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, pancreas",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.188679,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3961
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.141509,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.412
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.138365,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2204
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.108491,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0508
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.105346,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 8.02,
+        "confidence": 0.252
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.103774,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.053
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.100629,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3523
+      },
+      {
+        "ligand": "vernonolide",
+        "probability": 0.100629,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.74,
+        "confidence": 0.5477
+      },
+      {
+        "ligand": "PUK19",
+        "probability": 0.100629,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.7,
+        "confidence": 0.5769
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3523
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 48,
+    "low_confidence_count": 115
+  },
+  {
+    "receptor": "GPR45",
+    "gene": "GPR45",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "leukocytes, spleen",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR50",
+    "gene": "GPR50",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain (hypothalamus)",
+    "n_similar_receptors": 5,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.314961,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.1737
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.23622,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.1807
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.212598,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.2149
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.15748,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.1467
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.129921,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0251
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.11811,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0393
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.11811,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.1472
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.106299,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.1645
+      },
+      {
+        "ligand": "ACTH(1-24)",
+        "probability": 0.07874,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.0,
+        "confidence": 0.1729
+      },
+      {
+        "ligand": "MT-2",
+        "probability": 0.07874,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.82,
+        "confidence": 0.1623
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR52",
+    "gene": "GPR52",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, retina",
+    "n_similar_receptors": 25,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.23166,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3884
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.185328,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.93,
+        "confidence": 0.4865
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.173745,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.404
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.142857,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.11,
+        "confidence": 0.0571
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.133205,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0498
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.127413,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0679
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.127413,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.3689
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.127413,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.052
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.11583,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3281
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.104247,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1539
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 44,
+    "low_confidence_count": 119
+  },
+  {
+    "receptor": "GPR62",
+    "gene": "GPR62",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis, kidney",
+    "n_similar_receptors": 30,
+    "top_ligands": [
+      {
+        "ligand": "serotonin",
+        "probability": 0.260714,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.03,
+        "confidence": 0.0582
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.246429,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.81,
+        "confidence": 0.5216
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.214286,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.4255
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.160714,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.4426
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.117857,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.057
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.107143,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3594
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.096429,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1686
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.085714,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.1015
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.080357,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0744
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.080357,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.4041
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 69,
+    "low_confidence_count": 94
+  },
+  {
+    "receptor": "GPR63",
+    "gene": "GPR63",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart, kidney",
+    "n_similar_receptors": 11,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.466216,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.81,
+        "confidence": 0.3159
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.371622,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0373
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.101351,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0583
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.101351,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.2183
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.091216,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.2441
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.081081,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.2577
+      },
+      {
+        "ligand": "sumatriptan",
+        "probability": 0.067568,
+        "ligand_class": "tryptamine",
+        "predicted_pKi": 8.28,
+        "confidence": 0.1884
+      },
+      {
+        "ligand": "GR-46630",
+        "probability": 0.067568,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.37,
+        "confidence": 0.2865
+      },
+      {
+        "ligand": "SB-206553",
+        "probability": 0.067568,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.6,
+        "confidence": 0.303
+      },
+      {
+        "ligand": "ondansetron",
+        "probability": 0.067568,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.82,
+        "confidence": 0.2407
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR65",
+    "gene": "GPR65",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR68",
+    "gene": "GPR68",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, kidney",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.234834,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3961
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.176125,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.412
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.135029,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0508
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.129159,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.053
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.117417,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.105675,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1569
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.105675,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.49
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.093933,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0945
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.088063,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0693
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.088063,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.3762
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 48,
+    "low_confidence_count": 115
+  },
+  {
+    "receptor": "GPR75",
+    "gene": "GPR75",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "adipose tissue",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR78",
+    "gene": "GPR78",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "skeletal muscle, adipose",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR82",
+    "gene": "GPR82",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR83",
+    "gene": "GPR83",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes (microglia)",
+    "n_similar_receptors": 34,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.304615,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5669
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.267692,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.88,
+        "confidence": 0.4326
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.230769,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3838
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.166154,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.2,
+        "confidence": 0.48
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.124615,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0764
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.101538,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1752
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.078462,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.1007
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4429
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.4006
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.069231,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2519
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 87,
+    "low_confidence_count": 76
+  },
+  {
+    "receptor": "GPR85",
+    "gene": "GPR85",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR87",
+    "gene": "GPR87",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes, brain",
+    "n_similar_receptors": 34,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.304615,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5669
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.267692,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.88,
+        "confidence": 0.4326
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.230769,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3838
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.166154,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.2,
+        "confidence": 0.48
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.124615,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0764
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.101538,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1752
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.078462,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.1007
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4429
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.069231,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.4006
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.069231,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2519
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 87,
+    "low_confidence_count": 76
+  },
+  {
+    "receptor": "GPR88",
+    "gene": "GPR88",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain (hippocampus, striatum)",
+    "n_similar_receptors": 38,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.257813,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5993
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.195312,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.4058
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.144531,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4595
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.105469,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0807
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.098958,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.33,
+        "confidence": 0.1929
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.085938,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1852
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.085938,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.5056
+      },
+      {
+        "ligand": "2-arachidonoylglycerol",
+        "probability": 0.083333,
+        "ligand_class": "lipid",
+        "predicted_pKi": 6.4,
+        "confidence": 0.091
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "probability": 0.083333,
+        "ligand_class": "lipid",
+        "predicted_pKi": 6.52,
+        "confidence": 0.1014
+      },
+      {
+        "ligand": "oleamide",
+        "probability": 0.083333,
+        "ligand_class": "lipid",
+        "predicted_pKi": 9.0,
+        "confidence": 0.4767
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 96,
+    "low_confidence_count": 67
+  },
+  {
+    "receptor": "GPR101",
+    "gene": "GPR101",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR103",
+    "gene": "GPR103",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, heart, kidney",
+    "n_similar_receptors": 40,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.407514,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.88,
+        "confidence": 0.6102
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.228324,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.18,
+        "confidence": 0.0769
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.216763,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.4163
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.160405,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4714
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.095376,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.19
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.095376,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.5188
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.073699,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.1092
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.065029,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4804
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.065029,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.4346
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.065029,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2732
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 3,
+    "medium_confidence_count": 98,
+    "low_confidence_count": 62
+  },
+  {
+    "receptor": "GPR109A",
+    "gene": "GPR109A",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "adipose tissue, skin",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR119",
+    "gene": "GPR119",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "pancreas, gut",
+    "n_similar_receptors": 30,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.180723,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.4255
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.135542,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.4426
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.13253,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2367
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.111446,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 8.06,
+        "confidence": 0.2772
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.103916,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0545
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.099398,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.057
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.096386,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3784
+      },
+      {
+        "ligand": "vernonolide",
+        "probability": 0.096386,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.74,
+        "confidence": 0.5883
+      },
+      {
+        "ligand": "PUK19",
+        "probability": 0.096386,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.7,
+        "confidence": 0.6196
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.096386,
+        "ligand_class": "peptide",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3784
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 69,
+    "low_confidence_count": 94
+  },
+  {
+    "receptor": "GPR120",
+    "gene": "FFAR4",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gq",
+    "tissue_expression": "adipose, macrophages, gut",
+    "n_similar_receptors": 18,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.287016,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.75,
+        "confidence": 0.3999
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.177677,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.53,
+        "confidence": 0.0705
+      },
+      {
+        "ligand": "prazosin",
+        "probability": 0.170843,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.3508
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.157175,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.97,
+        "confidence": 0.0427
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.150342,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.55,
+        "confidence": 0.3832
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.116173,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.79,
+        "confidence": 0.0874
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.100228,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.81,
+        "confidence": 0.1847
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.100228,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.94,
+        "confidence": 0.2004
+      },
+      {
+        "ligand": "GW-1102",
+        "probability": 0.100228,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.7,
+        "confidence": 0.48
+      },
+      {
+        "ligand": "TUG-891",
+        "probability": 0.100228,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.52,
+        "confidence": 0.4769
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 10,
+    "low_confidence_count": 153
+  },
+  {
+    "receptor": "GPR176",
+    "gene": "GPR25",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "testis, leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR182",
+    "gene": "GPR182",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelial cells",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR183",
+    "gene": "GPR183",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR132",
+    "gene": "GPR132",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR135",
+    "gene": "GPR135",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, oligodendrocytes",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR139",
+    "gene": "GPR139",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (hypothalamus)",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.188679,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3961
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.141509,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.412
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.138365,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2204
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.108491,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0508
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.105346,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 8.02,
+        "confidence": 0.252
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.103774,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.053
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.100629,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3523
+      },
+      {
+        "ligand": "vernonolide",
+        "probability": 0.100629,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.74,
+        "confidence": 0.5477
+      },
+      {
+        "ligand": "PUK19",
+        "probability": 0.100629,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.7,
+        "confidence": 0.5769
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3523
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 48,
+    "low_confidence_count": 115
+  },
+  {
+    "receptor": "GPR141",
+    "gene": "GPR141",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR142",
+    "gene": "GPR142",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR146",
+    "gene": "GPR146",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR148",
+    "gene": "GPR148",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 30,
+    "top_ligands": [
+      {
+        "ligand": "serotonin",
+        "probability": 0.260714,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.03,
+        "confidence": 0.0582
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.246429,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.81,
+        "confidence": 0.5216
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.214286,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.4255
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.160714,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.4426
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.117857,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.057
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.107143,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3594
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.096429,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1686
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.085714,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.1015
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.080357,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0744
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.080357,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.4041
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 69,
+    "low_confidence_count": 94
+  },
+  {
+    "receptor": "GPR149",
+    "gene": "GPR149",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR150",
+    "gene": "GPR150",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR151",
+    "gene": "GPR151",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, olfactory bulb",
+    "n_similar_receptors": 26,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.188679,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3961
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.141509,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.412
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.138365,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2204
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.108491,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0508
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.105346,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 8.02,
+        "confidence": 0.252
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.103774,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.053
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.100629,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3523
+      },
+      {
+        "ligand": "vernonolide",
+        "probability": 0.100629,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.74,
+        "confidence": 0.5477
+      },
+      {
+        "ligand": "PUK19",
+        "probability": 0.100629,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.7,
+        "confidence": 0.5769
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.100629,
+        "ligand_class": "peptide",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3523
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 48,
+    "low_confidence_count": 115
+  },
+  {
+    "receptor": "GPR152",
+    "gene": "GPR152",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR153",
+    "gene": "GPR153",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, testis",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR155",
+    "gene": "GPR155",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR156",
+    "gene": "GPR156",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 16,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.375,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.67,
+        "confidence": 0.3711
+      },
+      {
+        "ligand": "prazosin",
+        "probability": 0.3125,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.3307
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.25,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.49,
+        "confidence": 0.0641
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.25,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.55,
+        "confidence": 0.3609
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.1875,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0363
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.1875,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.78,
+        "confidence": 0.0816
+      },
+      {
+        "ligand": "SB-206553",
+        "probability": 0.125,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.6,
+        "confidence": 0.3654
+      },
+      {
+        "ligand": "phenylephrine",
+        "probability": 0.125,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0365
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.81,
+        "confidence": 0.1741
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.94,
+        "confidence": 0.1889
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 2,
+    "low_confidence_count": 45
+  },
+  {
+    "receptor": "GPR157",
+    "gene": "GPR157",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR158",
+    "gene": "GPR158",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "brain, heart",
+    "n_similar_receptors": 16,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.375,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.67,
+        "confidence": 0.3711
+      },
+      {
+        "ligand": "prazosin",
+        "probability": 0.3125,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.3307
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.25,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.49,
+        "confidence": 0.0641
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.25,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.55,
+        "confidence": 0.3609
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.1875,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0363
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.1875,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.78,
+        "confidence": 0.0816
+      },
+      {
+        "ligand": "SB-206553",
+        "probability": 0.125,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.6,
+        "confidence": 0.3654
+      },
+      {
+        "ligand": "phenylephrine",
+        "probability": 0.125,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0365
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.81,
+        "confidence": 0.1741
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.94,
+        "confidence": 0.1889
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 2,
+    "low_confidence_count": 45
+  },
+  {
+    "receptor": "GPR160",
+    "gene": "GPR160",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, immune cells",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR161",
+    "gene": "GPR161",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain (neural progenitors)",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR171",
+    "gene": "GPR171",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain (hypothalamus)",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR173",
+    "gene": "GPR173",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, immune cells",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR174",
+    "gene": "CMKRL1",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, immune cells",
+    "n_similar_receptors": 29,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.180723,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.4184
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.174699,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.32,
+        "confidence": 0.1678
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.135542,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.4351
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.103916,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0536
+      },
+      {
+        "ligand": "oleic acid",
+        "probability": 0.100904,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 8.02,
+        "confidence": 0.2662
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.099398,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.056
+      },
+      {
+        "ligand": "oleoylethanolamide",
+        "probability": 0.096386,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3721
+      },
+      {
+        "ligand": "vernonolide",
+        "probability": 0.096386,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 10.74,
+        "confidence": 0.5784
+      },
+      {
+        "ligand": "PUK19",
+        "probability": 0.096386,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 11.7,
+        "confidence": 0.6092
+      },
+      {
+        "ligand": "neurotensin",
+        "probability": 0.096386,
+        "ligand_class": "peptide",
+        "predicted_pKi": 8.7,
+        "confidence": 0.3721
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 66,
+    "low_confidence_count": 97
+  },
+  {
+    "receptor": "GPR176 (GPR25)",
+    "gene": "GPR25",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "testis, leukocytes",
+    "n_similar_receptors": 0,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.246575,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.150685,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.09,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136986,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.136986,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.123288,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.86,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.109589,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.082192,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.74,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.082192,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.57,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.082192,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.0
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.082192,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.22,
+        "confidence": 0.0
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 163
+  },
+  {
+    "receptor": "GPR179",
+    "gene": "GPR179",
+    "family": "Class C orphan",
+    "class": "C",
+    "g_coupling": "Gq",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 16,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.375,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.67,
+        "confidence": 0.3711
+      },
+      {
+        "ligand": "prazosin",
+        "probability": 0.3125,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.21,
+        "confidence": 0.3307
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.25,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.49,
+        "confidence": 0.0641
+      },
+      {
+        "ligand": "scopolamine",
+        "probability": 0.25,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 9.55,
+        "confidence": 0.3609
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.1875,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0363
+      },
+      {
+        "ligand": "acetylcholine",
+        "probability": 0.1875,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 6.78,
+        "confidence": 0.0816
+      },
+      {
+        "ligand": "SB-206553",
+        "probability": 0.125,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.6,
+        "confidence": 0.3654
+      },
+      {
+        "ligand": "phenylephrine",
+        "probability": 0.125,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.86,
+        "confidence": 0.0365
+      },
+      {
+        "ligand": "palmitic acid",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.81,
+        "confidence": 0.1741
+      },
+      {
+        "ligand": "EPA",
+        "probability": 0.125,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.94,
+        "confidence": 0.1889
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 2,
+    "low_confidence_count": 45
+  },
+  {
+    "receptor": "GPR182 (LRG1/GPCR2)",
+    "gene": "GPR182",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelial cells",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.248447,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.186335,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.142857,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.96,
+        "confidence": 0.0467
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136646,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.01,
+        "confidence": 0.0488
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.124224,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.111801,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.3,
+        "confidence": 0.1444
+      },
+      {
+        "ligand": "spiperone",
+        "probability": 0.111801,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.86,
+        "confidence": 0.4508
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.099379,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.66,
+        "confidence": 0.0869
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.093168,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 27,
+    "low_confidence_count": 136
+  },
+  {
+    "receptor": "GPR183 (BLR2)",
+    "gene": "GPR183",
+    "family": "Class A orphan",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.321951,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.92,
+        "confidence": 0.5585
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.243902,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.180488,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.9,
+        "confidence": 0.4282
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.131707,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.26,
+        "confidence": 0.0752
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.107317,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.27,
+        "confidence": 0.1726
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.107317,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.18,
+        "confidence": 0.4712
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.082927,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.58,
+        "confidence": 0.0992
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.073171,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.073171,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 80,
+    "low_confidence_count": 83
+  },
+  {
+    "receptor": "GPR56 (ADGRB1)",
+    "gene": "ADGRB1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, endothelium",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.181818,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.136364,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.84,
+        "confidence": 0.0417
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.51,
+        "confidence": 0.0308
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0824
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.59,
+        "confidence": 0.1763
+      },
+      {
+        "ligand": "SB-269970",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.66,
+        "confidence": 0.4336
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 6,
+    "low_confidence_count": 49
+  },
+  {
+    "receptor": "GPR64 (ADGRB2)",
+    "gene": "ADGRB2",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "endothelium, brain",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.181818,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.136364,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.84,
+        "confidence": 0.0417
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.51,
+        "confidence": 0.0308
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0824
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.59,
+        "confidence": 0.1763
+      },
+      {
+        "ligand": "SB-269970",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.66,
+        "confidence": 0.4336
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 6,
+    "low_confidence_count": 49
+  },
+  {
+    "receptor": "GPR126 (ADGRB3)",
+    "gene": "ADGRB3",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "brain, oligodendrocytes",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.181818,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.136364,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.84,
+        "confidence": 0.0417
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.51,
+        "confidence": 0.0308
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0824
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.59,
+        "confidence": 0.1763
+      },
+      {
+        "ligand": "SB-269970",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.66,
+        "confidence": 0.4336
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 6,
+    "low_confidence_count": 49
+  },
+  {
+    "receptor": "GPR128 (ADGRL1)",
+    "gene": "ADGRL1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.363636,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.95,
+        "confidence": 0.5608
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.30303,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.212121,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.91,
+        "confidence": 0.4299
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.121212,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.38,
+        "confidence": 0.0834
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.121212,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.17,
+        "confidence": 0.4696
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.090909,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.83,
+        "confidence": 0.2532
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.090909,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.7,
+        "confidence": 0.1094
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 43,
+    "low_confidence_count": 32
+  },
+  {
+    "receptor": "GPR133 (ADGRL2)",
+    "gene": "ADGRL2",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gi",
+    "tissue_expression": "brain, leukocytes",
+    "n_similar_receptors": 33,
+    "top_ligands": [
+      {
+        "ligand": "spiperone",
+        "probability": 0.363636,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.95,
+        "confidence": 0.5608
+      },
+      {
+        "ligand": "naloxone",
+        "probability": 0.30303,
+        "ligand_class": "alkaloid",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3782
+      },
+      {
+        "ligand": "sphingosine-1-phosphate",
+        "probability": 0.212121,
+        "ligand_class": "lipid",
+        "predicted_pKi": 8.91,
+        "confidence": 0.4299
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.121212,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 6.38,
+        "confidence": 0.0834
+      },
+      {
+        "ligand": "SEW2871",
+        "probability": 0.121212,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.17,
+        "confidence": 0.4696
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.090909,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 7.83,
+        "confidence": 0.2532
+      },
+      {
+        "ligand": "clonidine",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.95,
+        "confidence": 0.4363
+      },
+      {
+        "ligand": "dopamine",
+        "probability": 0.090909,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.7,
+        "confidence": 0.1094
+      },
+      {
+        "ligand": "raclopride",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.69,
+        "confidence": 0.3947
+      },
+      {
+        "ligand": "propionate",
+        "probability": 0.090909,
+        "ligand_class": "fatty acid",
+        "predicted_pKi": 7.8,
+        "confidence": 0.2482
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 43,
+    "low_confidence_count": 32
+  },
+  {
+    "receptor": "GPR143 (ADGRF1)",
+    "gene": "ADGRF1",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.181818,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.136364,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.84,
+        "confidence": 0.0417
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.51,
+        "confidence": 0.0308
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0824
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.59,
+        "confidence": 0.1763
+      },
+      {
+        "ligand": "SB-269970",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.66,
+        "confidence": 0.4336
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 6,
+    "low_confidence_count": 49
+  },
+  {
+    "receptor": "GPR144 (ADGRF5)",
+    "gene": "ADGRF5",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "retina",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.181818,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.136364,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.84,
+        "confidence": 0.0417
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.51,
+        "confidence": 0.0308
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0824
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.59,
+        "confidence": 0.1763
+      },
+      {
+        "ligand": "SB-269970",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.66,
+        "confidence": 0.4336
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 6,
+    "low_confidence_count": 49
+  },
+  {
+    "receptor": "GPR164 (ADGRL3)",
+    "gene": "ADGRL3",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": null,
+    "tissue_expression": "brain, endothelium",
+    "n_similar_receptors": 0,
+    "top_ligands": [],
+    "top_gproteins": [
+      {
+        "g_protein": "unknown",
+        "probability": 1.0
+      }
+    ],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 0,
+    "low_confidence_count": 0
+  },
+  {
+    "receptor": "GPR177 (ADGRF4)",
+    "gene": "ADGRF4",
+    "family": "Adhesion GPCR",
+    "class": "A",
+    "g_coupling": "Gs",
+    "tissue_expression": "intestine, brain",
+    "n_similar_receptors": 22,
+    "top_ligands": [
+      {
+        "ligand": "beta-MSH",
+        "probability": 0.363636,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.01,
+        "confidence": 0.3644
+      },
+      {
+        "ligand": "alpha-MSH",
+        "probability": 0.272727,
+        "ligand_class": "peptide",
+        "predicted_pKi": 9.14,
+        "confidence": 0.379
+      },
+      {
+        "ligand": "SHU-9119",
+        "probability": 0.181818,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.58,
+        "confidence": 0.3078
+      },
+      {
+        "ligand": "serotonin",
+        "probability": 0.136364,
+        "ligand_class": "indolamine",
+        "predicted_pKi": 5.84,
+        "confidence": 0.0417
+      },
+      {
+        "ligand": "norepinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 5.51,
+        "confidence": 0.0308
+      },
+      {
+        "ligand": "epinephrine",
+        "probability": 0.136364,
+        "ligand_class": "catecholamine",
+        "predicted_pKi": 6.6,
+        "confidence": 0.0824
+      },
+      {
+        "ligand": "SKF-38393",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 6.3,
+        "confidence": 0.0637
+      },
+      {
+        "ligand": "SCH-23390",
+        "probability": 0.136364,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 8.87,
+        "confidence": 0.346
+      },
+      {
+        "ligand": "histamine",
+        "probability": 0.136364,
+        "ligand_class": "amino acid derivative",
+        "predicted_pKi": 7.59,
+        "confidence": 0.1763
+      },
+      {
+        "ligand": "SB-269970",
+        "probability": 0.090909,
+        "ligand_class": "synthetic",
+        "predicted_pKi": 9.66,
+        "confidence": 0.4336
+      }
+    ],
+    "top_gproteins": [],
+    "high_confidence_count": 0,
+    "medium_confidence_count": 6,
+    "low_confidence_count": 49
+  }
+]

@@ -1,0 +1,450 @@
+\documentclass[12pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{mathtools}
+\usepackage{booktabs}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{enumitem}
+\usepackage{microtype}
+\usepackage{natbib}
+
+\geometry{margin=1in}
+
+\title{A Metadata-Based Similarity Framework for Orphan GPCR Deorphanization\\
+\large Heuristic Receptor Matching with Kernel Density Estimation over Ligand Distribution}
+\author{Deorphanization Working Group}
+\date{\today}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{assumption}{Assumption}[section]
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{remark}{Remark}[section]
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\L}{\mathcal{L}}
+\newcommand{\RR}{\mathcal{R}}
+\newcommand{\PP}{\mathcal{P}}
+\newcommand{\EE}{\mathcal{E}}
+\newcommand{\KK}{\mathcal{K}}
+\newcommand{\NN}{\mathcal{N}}
+\newcommand{\LL}{\mathcal{L}}
+\newcommand{\prob}{\mathbb{P}}
+\newcommand{\sigmoid}{\sigma}
+\newcommand{\half}{\frac{1}{2}}
+\newcommand{\eps}{\varepsilon}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We present a metadata-based similarity framework for predicting endogenous ligands of orphan G-protein coupled receptors (GPCRs). Given a dataset of $N = 349$ characterized receptor-ligand binding pairs with measured inhibition constants $K_i$, and a catalog of $M = 72$ orphan receptors, we construct a receptor similarity graph using three metadata signals: family membership, G-protein coupling, and tissue expression overlap. We define a weighted similarity function $S(r_i, r_j)$ that combines these signals, then propagate known ligand distributions over the similarity graph using a kernel density estimation (KDE) approach. Promiscuity penalties suppress predictions for ligands binding many receptors, natural ligand priors favor endogenous compounds, and a composite confidence score combines affinity strength, data density, and promiscuity. The framework yields ranked predictions with calibrated confidence scores for each orphan receptor's ligand set.
+\end{abstract}
+
+\tableofcontents
+
+\section{Introduction and Problem Statement}
+
+\subsection{The Orphan Receptor Deorphanization Problem}
+
+GPCRs constitute the largest family of membrane receptors in eukaryotic organisms. Approximately 72 remain ``orphan'' -- their endogenous ligands are unknown. The deorphanization problem is the computational task of predicting which endogenous ligands bind to these uncharacterized receptors.
+
+Formally, let $\RR_{\text{known}} = \{r_1, r_2, \ldots, r_N\}$ be the set of characterized receptors with known ligands, and let $\RR_{\text{orphan}} = \{r_{N+1}, \ldots, r_{N+M}\}$ be the set of orphan receptors. Let $\LL = \{\ell_1, \ell_2, \ldots, \ell_K\}$ be the universe of candidate ligands. Let $K_i(r, \ell)$ denote the inhibition constant for receptor $r$ and ligand $\ell$.
+
+\begin{definition}[Orphan Deorphanization Problem]
+Given:
+\begin{enumerate}[label=(\arabic*)]
+\item A set of known receptor-ligand pairs $\mathcal{D} = \{(r_j, \ell_j, K_j)\}_{j=1}^{N}$
+\item Metadata for each receptor: family, class, G-protein coupling, tissue expression
+\item A set of orphan receptors $\RR_{\text{orphan}}$ with partial metadata
+\end{enumerate}
+Find: For each $r \in \RR_{\text{orphan}}$, a ranked list of ligands with calibrated confidence scores $C(r, \ell) \in [0, 1]$.
+\end{definition}
+
+\subsection{Mathematical Overview}
+
+Our framework addresses the deorphanization problem through four components:
+
+\begin{enumerate}[label=(\Roman*)]
+\item \textbf{Metadata-based receptor similarity:} A weighted combination of family, G-protein, and tissue signals.
+\item \textbf{Kernel density estimation:} Ligand distribution propagation over the receptor similarity graph.
+\item \textbf{Regularization:} Promiscuity penalties and natural ligand priors.
+\item \textbf{Confidence scoring:} A composite score combining affinity, data density, and promiscuity.
+\end{enumerate}
+
+\section{Notation and Conventions}
+
+\begin{itemize}[label=\textbullet]
+\item $\RR_{\text{known}}$: set of characterized receptors, $|\RR_{\text{known}}| = 73$
+\item $\RR_{\text{orphan}}$: set of orphan receptors, $|\RR_{\text{orphan}}| = 72$
+\item $\LL$: universe of candidate ligands, $|\LL| = 163$
+\item $\mathcal{D}$: training set of $N = 349$ receptor-ligand pairs with $pK_i$ values
+\item $\mathcal{G} = \{\text{Gs, Gi, Gq, G12/13}\}$: G-protein types
+\item $\mathcal{F}$: set of receptor families (16 families)
+\item $\mathcal{C}$: set of ligand classes (14 classes)
+\item $pK_i = -\log_{10}(K_i)$: binding affinity, higher = stronger binding
+\end{itemize}
+
+\section{Metadata-Based Receptor Similarity}
+
+\subsection{Similarity Components}
+
+For any two receptors $r_i, r_j$, we define three similarity components, each in $[0, 1]$.
+
+\begin{definition}[Family Similarity]
+\begin{equation}
+S_{\text{family}}(r_i, r_j) = 
+\begin{cases}
+1.0 & \text{if } r_i, r_j \text{ share exact family} \\
+0.7 & \text{if } r_i, r_j \text{ share same subfamily} \\
+0.3 & \text{if } r_i, r_j \text{ share same broad class (Class B/C/Adhesion)} \\
+0.5 & \text{if orphan family hint matches known family} \\
+0.15 & \text{if } r_i, r_j \text{ share same broad GPCR class} \\
+0.0 & \text{otherwise}
+\end{cases}
+\label{eq:family_sim}
+\end{equation}
+\end{definition}
+
+Broad GPCR classes are defined by mapping:
+\begin{equation}
+\text{class}(f) = 
+\begin{cases}
+\text{Adhesion} & \text{if ``Adhesion''} \in f \\
+\text{Class\_C} & \text{if ``Class C''} \in f \\
+\text{Class\_B} & \text{if ``Class B''} \in f \text{ or } f = \text{secretin} \\
+\text{Class\_A} & \text{otherwise}
+\end{cases}
+\label{eq:broad_class}
+\end{equation}
+Class-level matching is only applied for orphan/broad families (not specific families), to avoid false positive boosts since all specific GPCR families share Class A.
+
+\begin{definition}[G-Protein Similarity]
+\begin{equation}
+S_{\text{gprot}}(r_i, r_j) = 
+\begin{cases}
+1.0 & \text{if } g_i = g_j \text{ and both are known} \\
+0.0 & \text{if } g_i \neq g_j \text{ or either is unknown}
+\end{cases}
+\label{eq:gprot_sim}
+\end{equation}
+where $g_i \in \mathcal{G}$ is the G-protein coupling type of receptor $r_i$.
+\end{definition}
+
+\begin{definition}[Tissue Overlap Similarity]
+Let $T_i \subseteq \mathcal{T}$ be the set of tissues where receptor $r_i$ is expressed. Then:
+\begin{equation}
+S_{\text{tissue}}(r_i, r_j) = \frac{|T_i \cap T_j|}{|T_i \cup T_j|}
+\label{eq:tissue_sim}
+\end{equation}
+This is the Jaccard similarity of the tissue expression sets. If either receptor has no tissue data, $S_{\text{tissue}} = 0$.
+\end{definition}
+
+\subsection{Combined Similarity Function}
+
+\begin{definition}[Receptor Similarity]
+The overall similarity is a weighted combination:
+\begin{equation}
+S(r_i, r_j) = \frac{w_1 \cdot S_{\text{family}}(r_i, r_j) + w_2 \cdot S_{\text{gprot}}(r_i, r_j) + w_3 \cdot S_{\text{tissue}}(r_i, r_j)}{w_1 + w_2 + w_3}
+\label{eq:combined_sim}
+\end{equation}
+with weights $w_1 = 0.6$, $w_2 = 0.3$, $w_3 = 0.1$. The weights reflect our prior belief that family membership is the strongest predictor of ligand specificity, followed by G-protein coupling, with tissue overlap providing weak supplementary signal.
+\end{definition}
+
+\begin{proposition}[Similarity Range]
+\label{prop:sim_range}
+For all $r_i, r_j$, we have $0 \leq S(r_i, r_j) \leq 1$.
+\end{proposition}
+
+\begin{proof}
+Each component $S_{\text{family}}$, $S_{\text{gprot}}$, $S_{\text{tissue}}$ is in $[0, 1]$ by construction. The weighted average of values in $[0, 1]$ is also in $[0, 1]$.
+\end{proof}
+
+\subsection{Broadened Matching for Sparse Receptors}
+
+For orphan receptors with no similar receptors at the standard threshold $S(r_i, r_j) > 0.1$, we apply a three-tier broadening strategy:
+
+\begin{enumerate}[label=(B\arabic*)]
+\item \textbf{Class-level matching:} If the orphan belongs to a non-Class A family, match all receptors in the same broad GPCR class with a minimum similarity boost of $0.05$.
+\item \textbf{G-protein-level matching:} If the orphan has known G-protein coupling, match all receptors sharing that coupling with a minimum similarity boost of $0.02$.
+\item \textbf{Tissue-only fallback:} If no similarity is found at any level (e.g., GPR25, GPR164), predict ligands based solely on tissue expression using tissue-ligand class priors.
+\end{enumerate}
+
+\section{Kernel Density Estimation for Ligand Prediction}
+
+\subsection{Ligand Distribution Propagation}
+
+\begin{definition}[KDE Ligand Distribution]
+For an orphan receptor $r_i$, the predicted probability of ligand $\ell$ is:
+\begin{equation}
+P(\ell \mid r_i) = \frac{\sum_{j \in \RR_{\text{known}}} S(r_i, r_j) \cdot \mathbb{I}[\ell \in \mathcal{L}_j]}{\sum_{j \in \RR_{\text{known}}} S(r_i, r_j)}
+\label{eq:kde_ligand}
+\end{equation}
+where $\mathcal{L}_j = \{\ell : (r_j, \ell) \in \mathcal{D}\}$ is the set of known ligands for receptor $r_j$, and $\mathbb{I}[\cdot]$ is the indicator function.
+
+This is a proper kernel density estimation over the receptor similarity graph: the numerator is the similarity-weighted count of how many similar receptors bind ligand $\ell$, and the denominator is the total similarity weight (normalization).
+\end{definition}
+
+\begin{remark}[Weighted pKi Estimation]
+Beyond binary ligand presence, we also compute a weighted average $pK_i$ for each ligand:
+\begin{equation}
+\widehat{pK_i}(\ell \mid r_i) = \frac{\sum_{j \in \RR_{\text{known}}} S(r_i, r_j) \cdot pK_i(r_j, \ell) \cdot \mathbb{I}[\ell \in \mathcal{L}_j]}{\sum_{j \in \RR_{\text{known}}} S(r_i, r_j) \cdot \mathbb{I}[\ell \in \mathcal{L}_j]}
+\label{eq:weighted_pki}
+\end{equation}
+where the sum is over receptors that actually bind ligand $\ell$. This provides an affinity estimate for ranking.
+\end{remark}
+
+\subsection{Family Prior Term}
+
+\begin{definition}[Family Prior]
+For an orphan receptor with inferred family $f_{\text{hint}}$ (from catalog notes or name-based hints):
+\begin{equation}
+f_{\text{family}}(r_i, \ell) = 
+\begin{cases}
+3.0 & \text{if } \ell \text{ is a known ligand for family } f_{\text{hint}} \\
+2.0 & \text{if } \ell \text{ is observed in family } f_{\text{hint}} \\
+\min(\text{prevalence} \times 4.0, 2.0) & \text{if } \ell\text{'s class is typical for } f_{\text{hint}} \\
+1.5 & \text{if } \ell \text{ matches via broad class} \\
+0.0 & \text{otherwise}
+\end{cases}
+\label{eq:family_prior}
+\end{equation}
+where prevalence $= |\{r \in \RR_{\text{known}} : r \text{ has family } f_{\text{hint}} \text{ and binds } \ell\}| / |\{r \in \RR_{\text{known}} : r \text{ has family } f_{\text{hint}}\}|$.
+
+The family prior multiplies the base score as a boost factor:
+\begin{equation}
+\text{boost}(r_i, \ell) = 1.0 + f_{\text{family}}(r_i, \ell) \cdot 0.5 + \mathbb{I}[\ell \in \text{expected}(\text{orphan})] \cdot 1.5
+\label{eq:family_boost}
+\end{equation}
+Expected ligands are those listed in the orphan catalog (e.g., GPR119 $\to$ oleoylethanolamide).
+\end{definition}
+
+\section{Regularization}
+
+\subsection{Promiscuity Penalty}
+
+\begin{definition}[Ligand Promiscuity]
+\begin{equation}
+P(\ell) = \frac{|\{r \in \RR_{\text{known}} : \ell \in \mathcal{L}_r\}|}{|\RR_{\text{known}}|}
+\label{eq:promiscuity}
+\end{equation}
+This is the fraction of known receptors that bind ligand $\ell$. Highly promiscuous ligands (e.g., arachidonic acid, ATP) have high $P(\ell)$ and receive strong penalties.
+\end{definition}
+
+\begin{definition}[Promiscuity Penalty]
+\begin{equation}
+P_{\text{fixed}}(\ell \mid r_i) = P(\ell \mid r_i) \cdot \bigl(1 - \lambda_{\text{promisc}} \cdot P(\ell)\bigr)
+\label{eq:promiscuity_penalty}
+\end{equation}
+where $\lambda_{\text{promisc}} = 0.5$. For a ligand binding 20\% of receptors ($P(\ell) = 0.2$), the penalty factor is $1 - 0.5 \times 0.2 = 0.9$. For a ligand binding 80\% of receptors, the penalty factor is $0.6$.
+\end{definition}
+
+\begin{theorem}[Monotonicity of Promiscuity Penalty]
+\label{thm:promiscuity_monotone}
+The promiscuity penalty $P_{\text{fixed}}(\ell \mid r_i)$ is monotonically non-increasing in $P(\ell)$. That is, as the promiscuity of ligand $\ell$ increases, its predicted probability decreases (or stays the same).
+\end{theorem}
+
+\begin{proof}
+$P_{\text{fixed}}(\ell \mid r_i) = P(\ell \mid r_i) \cdot (1 - \lambda_{\text{promisc}} \cdot P(\ell))$. Since $\lambda_{\text{promisc}} = 0.5 > 0$ and $P(\ell) \in [0, 1]$, the factor $(1 - \lambda_{\text{promisc}} \cdot P(\ell))$ is monotonically decreasing in $P(\ell)$. Since $P(\ell \mid r_i) \geq 0$, the product is monotonically non-increasing.
+\end{proof}
+
+\subsection{Natural Ligand Priority}
+
+\begin{definition}[Natural Ligand Score]
+\begin{equation}
+\text{natural\_score}(\ell) = 
+\begin{cases}
+1.0 & \text{if } \ell \text{ is endogenous (natural)} \\
+0.3 & \text{if } \ell \text{ is a synthetic drug} \\
+1.0 & \text{otherwise (default to natural)}
+\end{cases}
+\label{eq:natural_score}
+\end{equation}
+This prior reflects the goal of deorphanization: finding endogenous ligands, not synthetic drugs.
+\end{definition}
+
+\section{Final Prediction Score}
+
+\begin{definition}[Final Predicted Score]
+For orphan receptor $r_i$ and ligand $\ell$:
+\begin{equation}
+f_{\text{final}}(r_i, \ell) = \widehat{pK_i}(\ell \mid r_i) \cdot \bigl(1 - \lambda_{\text{promisc}} \cdot P(\ell)\bigr) \cdot \text{boost}(r_i, \ell) \cdot \text{natural\_score}(\ell)
+\label{eq:final_score}
+\end{equation}
+This combines: (1) weighted average affinity from similar receptors, (2) promiscuity penalty, (3) family prior boost, and (4) natural ligand preference.
+\end{definition}
+
+\section{Confidence Scoring}
+
+\begin{definition}[Confidence Score]
+\begin{equation}
+C(r_i, \ell) = \sigmoid\bigl(f_{\text{final}}(r_i, \ell) - \theta\bigr) \cdot \sigmoid\bigl(\log(n_{\text{similar}}) - \log(3)\bigr) \cdot \bigl(1 - \lambda_{\text{promisc}} \cdot P(\ell)\bigr)
+\label{eq:confidence}
+\end{equation}
+where:
+\begin{itemize}[nosep]
+\item $\sigmoid(x) = (1 + \exp(-0.8 \cdot x))^{-1}$ is a sigmoid with steepness $0.8$
+\item $\theta = 8.0$ is the binding threshold (in pKi units)
+\item $n_{\text{similar}} = |\{r_j : S(r_i, r_j) > 0.1\}|$ is the number of similar receptors supporting the prediction
+\item $\lambda_{\text{promisc}} = 0.5$ is the promiscuity penalty parameter
+\end{itemize}
+\end{definition}
+
+The three factors capture:
+\begin{enumerate}[label=(C\arabic*)]
+\item \textbf{Affinity strength:} Higher predicted pKi relative to threshold $\theta$ increases confidence.
+\item \textbf{Data density:} More similar receptors supporting the prediction increases confidence. When $n_{\text{similar}} \leq 0$, this factor defaults to $0.3$.
+\item \textbf{Promiscuity penalty:} Less promiscuous ligands receive higher confidence.
+\end{enumerate}
+
+\begin{theorem}[Confidence Score Boundedness]
+\label{thm:confidence_bounded}
+For all $r_i, \ell$, we have $0 \leq C(r_i, \ell) \leq 1$.
+\end{theorem}
+
+\begin{proof}
+Each of the three factors in \eqref{eq:confidence} is in $[0, 1]$:
+\begin{itemize}[nosep]
+\item $\sigmoid(\cdot) \in (0, 1)$ by definition of the sigmoid function.
+\item $\sigmoid(\log(n_{\text{similar}}) - \log(3)) \in (0, 1)$ (or $0.3$ when $n_{\text{similar}} \leq 0$).
+\item $1 - \lambda_{\text{promisc}} \cdot P(\ell) \in [0.5, 1]$ since $P(\ell) \in [0, 1]$ and $\lambda_{\text{promisc}} = 0.5$.
+\end{itemize}
+The product of three values in $[0, 1]$ is in $[0, 1]$.
+\end{proof}
+
+\begin{theorem}[KDE Support]
+\label{thm:kde_support}
+If $S(r_i, r_j) > 0$ for at least one $r_j$ that binds ligand $\ell$, then $P(\ell \mid r_i) > 0$.
+\end{theorem}
+
+\begin{proof}
+From \eqref{eq:kde_ligand}, if there exists $r_j$ such that $S(r_i, r_j) > 0$ and $\ell \in \mathcal{L}_j$, then the numerator is at least $S(r_i, r_j) \cdot 1 > 0$. The denominator is a sum of non-negative terms, and if it includes the positive term $S(r_i, r_j)$, it is positive. Therefore $P(\ell \mid r_i) > 0$.
+\end{proof}
+
+\section{Algorithm Specification}
+
+\begin{algorithm}
+\caption{Metadata-Based Orphan Deorphanization}
+\label{alg:deorphanization}
+\begin{algorithmic}[1]
+\Require{Known pairs $\mathcal{D}$, orphan receptors $\RR_{\text{orphan}}$, ligand universe $\LL$}
+\Ensure{For each $r \in \RR_{\text{orphan}}$: ranked ligand list with confidence scores}
+\State \textbf{Step 1: Build receptor metadata index}
+\State Index all known receptors by family, G-protein, tissue expression
+\State \textbf{Step 2: Compute promiscuity scores}
+\State For each $\ell \in \LL$: $P(\ell) = |\{r : \ell \in \mathcal{L}_r\}| / |\RR_{\text{known}}|$
+\State \textbf{Step 3: For each orphan } $r_i$:
+\State \quad Compute $S(r_i, r_j)$ for all $r_j \in \RR_{\text{known}}$ using \eqref{eq:combined_sim}
+\State \quad If no $r_j$ with $S(r_i, r_j) > 0.1$: apply broadening (class $\to$ G-protein $\to$ tissue fallback)
+\State \quad Compute $P(\ell \mid r_i)$ and $\widehat{pK_i}(\ell \mid r_i)$ for all $\ell \in \LL$ using \eqref{eq:kde_ligand}, \eqref{eq:weighted_pki}
+\State \quad Apply promiscuity penalty \eqref{eq:promiscuity_penalty}, family boost \eqref{eq:family_boost}, natural score \eqref{eq:natural_score}
+\State \quad Compute confidence $C(r_i, \ell)$ using \eqref{eq:confidence}
+\State \quad Sort ligands by descending $C(r_i, \ell)$
+\State \textbf{Return} Ranked lists with confidence scores for all orphan receptors
+\end{algorithmic}
+\end{algorithm}
+
+\section{Validation Framework}
+
+\begin{definition}[Leave-One-Receptor-Out Cross-Validation]
+For each characterized receptor $r_j \in \RR_{\text{known}}$:
+\begin{enumerate}[label=(\arabic*)]
+\item Remove all pairs involving $r_j$ from $\mathcal{D}$
+\item Compute similarity between $r_j$ and all other known receptors
+\item Predict ligands using KDE propagation \eqref{eq:kde_ligand}
+\item Evaluate Precision@k, AUC-ROC, and AUC-PR
+\end{enumerate}
+\end{definition}
+
+\begin{definition}[Permutation Test]
+To assess statistical significance, we shuffle the similarity weights $B = 1000$ times and compute the null distribution of metrics:
+\begin{equation}
+p\text{-value} = \frac{1}{B} \sum_{b=1}^{B} \mathbb{I}\bigl[\text{metric}(\text{permuted}_b) \geq \text{metric}(\text{original})\bigr]
+\label{eq:permutation}
+\end{equation}
+\end{definition}
+
+\section{Confidence Calibration}
+
+\begin{definition}[Calibration Curve]
+We bin predictions by confidence score into intervals $[0, 0.1), [0.1, 0.2), \ldots, [0.9, 1.0]$. For each bin $b$:
+\begin{equation}
+\text{accuracy}(b) = \frac{|\{(r_i, \ell) : C(r_i, \ell) \in b \text{ and } \ell \text{ is a true ligand}\}|}{|\{(r_i, \ell) : C(r_i, \ell) \in b\}|}
+\label{eq:calibration}
+\end{equation}
+The calibration curve plots $\text{mean confidence}(b)$ vs. $\text{accuracy}(b)$. Perfect calibration follows the diagonal $y = x$.
+\end{definition}
+
+\begin{definition}[Expected Calibration Error (ECE)]
+\begin{equation}
+\text{ECE} = \sum_{b} \frac{|b|}{N_{\text{total}}} \cdot \bigl|\text{mean\_confidence}(b) - \text{accuracy}(b)\bigr|
+\label{eq:ece}
+\end{equation}
+where $|b|$ is the number of predictions in bin $b$ and $N_{\text{total}}$ is the total number of predictions.
+\end{definition}
+
+\section{Parameter Summary}
+
+\begin{table}[h]
+\centering
+\caption{Model Parameters and Their Values}
+\label{tab:parameters}
+\begin{tabular}{lll}
+\toprule
+\textbf{Parameter} & \textbf{Symbol} & \textbf{Value} \\
+\midrule
+Family similarity weight & $w_1$ & 0.6 \\
+G-protein similarity weight & $w_2$ & 0.3 \\
+Tissue similarity weight & $w_3$ & 0.1 \\
+Promiscuity penalty factor & $\lambda_{\text{promisc}}$ & 0.5 \\
+Confidence threshold & $\theta$ & 8.0 \\
+Sigmoid steepness & -- & 0.8 \\
+Standard similarity threshold & -- & 0.1 \\
+Class-level minimum boost & -- & 0.05 \\
+G-protein-level minimum boost & -- & 0.02 \\
+Natural ligand score & -- & 1.0 \\
+Synthetic ligand score & -- & 0.3 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Assumptions and Limitations}
+
+\begin{enumerate}[label=(A\arabic*)]
+\item \textbf{Metadata completeness:} The framework relies on receptor metadata (family, G-protein, tissue). Missing data reduces the number of similar receptors and degrades prediction quality. Orphan receptors with no tissue data and no family hints receive the lowest-confidence predictions.
+
+\item \textbf{Heuristic nature:} The similarity weights and thresholds are chosen heuristically, not through optimization. The framework does not perform gradient-based parameter estimation or hyperparameter tuning.
+
+\item \textbf{Small training set:} With $N = 349$ pairs and $|\LL| = 163$, the ligand distribution estimates are sparse. Many ligands appear in only one or two receptors, limiting the KDE's ability to generalize.
+
+\item \textbf{No structural information:} The framework does not use receptor structures or ligand molecular structures. Pharmacophore matching, binding pocket geometry, and molecular docking are not incorporated.
+
+\item \textbf{Confidence interpretation:} Confidence scores $C(r_i, \ell)$ are composite heuristics, not calibrated probabilities. A score of $0.9$ does not mean $90\%$ probability of correctness. Calibration analysis (Section 9) quantifies the relationship between predicted confidence and observed accuracy.
+
+\item \textbf{Family hints are speculative:} Family assignments based on GPR gene names (e.g., GPR103 $\to$ serotonergic) are educated guesses, not established facts. These hints can bias predictions for receptors with limited supporting evidence.
+\end{enumerate}
+
+\section{Ablation Study Framework}
+
+\begin{definition}[Ablation Study]
+To quantify the contribution of each of the six v2 fixes, we run the pipeline with each fix disabled individually and compare metrics:
+\begin{enumerate}[label=(F\arabic*)]
+\item \textbf{No promiscuity penalty:} Set $\lambda_{\text{promisc}} = 0$
+\item \textbf{No natural ligand priority:} Set $\text{natural\_score}(\ell) = 1.0$ for all $\ell$
+\item \textbf{No family hints:} Disable family hint inference from catalog notes and name-based hints
+\item \textbf{No broad-class matching:} Disable class-level and G-protein-level broadening
+\item \textbf{No expected ligand injection:} Disable the expected ligand injection from catalog knowledge
+\item \textbf{No G-protein-level fallback:} Disable G-protein-level matching in the broadening strategy
+\end{enumerate}
+Each ablation is measured by P@5, AUC-ROC, and the number of high-confidence predictions ($C > 0.7$).
+\end{definition}
+
+\end{document}

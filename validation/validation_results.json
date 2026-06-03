@@ -1,0 +1,439 @@
+{
+  "overall": {
+    "precision_at_1": 0.0274,
+    "precision_at_3": 0.1324,
+    "precision_at_5": 0.1068,
+    "precision_at_10": 0.0726,
+    "recall_at_1": 0.0065,
+    "recall_at_3": 0.1547,
+    "recall_at_5": 0.19,
+    "recall_at_10": 0.2414,
+    "n_receptors_tested": 73,
+    "n_known_pairs": 349,
+    "n_unique_receptors": 73,
+    "n_unique_ligands": 163,
+    "auc_roc": 0.5878,
+    "auc_pr": 0.04,
+    "mAP": 0.1004
+  },
+  "by_family": {
+    "adrenergic": {
+      "n_receptors": 36,
+      "precision_at_5": 0.1167
+    },
+    "dopaminergic": {
+      "n_receptors": 20,
+      "precision_at_5": 0.11
+    },
+    "serotonergic": {
+      "n_receptors": 44,
+      "precision_at_5": 0.0591
+    },
+    "opioid": {
+      "n_receptors": 20,
+      "precision_at_5": 0.02
+    },
+    "muscarinic": {
+      "n_receptors": 20,
+      "precision_at_5": 0.06
+    },
+    "adenosine": {
+      "n_receptors": 16,
+      "precision_at_5": 0.0
+    },
+    "histamine": {
+      "n_receptors": 16,
+      "precision_at_5": 0.0
+    },
+    "purinergic": {
+      "n_receptors": 16,
+      "precision_at_5": 0.025
+    },
+    "melanocortin": {
+      "n_receptors": 20,
+      "precision_at_5": 0.26
+    },
+    "orexin": {
+      "n_receptors": 8,
+      "precision_at_5": 0.2
+    },
+    "S1P": {
+      "n_receptors": 20,
+      "precision_at_5": 0.22
+    },
+    "free fatty acid": {
+      "n_receptors": 16,
+      "precision_at_5": 0.15
+    },
+    "trace amine": {
+      "n_receptors": 4,
+      "precision_at_5": 0.0
+    },
+    "partially deorphanized": {
+      "n_receptors": 36,
+      "precision_at_5": 0.0
+    }
+  },
+  "by_ligand_class": {
+    "catecholamine": {
+      "n_receptors": 60,
+      "precision_at_5": 0.1067
+    },
+    "indolamine": {
+      "n_receptors": 44,
+      "precision_at_5": 0.0591
+    },
+    "peptide": {
+      "n_receptors": 52,
+      "precision_at_5": 0.1385
+    },
+    "amino acid derivative": {
+      "n_receptors": 40,
+      "precision_at_5": 0.03
+    },
+    "purine": {
+      "n_receptors": 32,
+      "precision_at_5": 0.0125
+    },
+    "lipid": {
+      "n_receptors": 28,
+      "precision_at_5": 0.1571
+    },
+    "fatty acid": {
+      "n_receptors": 28,
+      "precision_at_5": 0.0857
+    },
+    "metal ion": {
+      "n_receptors": 4,
+      "precision_at_5": 0.0
+    },
+    "amino acid": {
+      "n_receptors": 4,
+      "precision_at_5": 0.0
+    }
+  },
+  "by_g_protein": {
+    "Gq": {
+      "n_receptors": 64,
+      "precision_at_5": 0.0875
+    },
+    "Gi": {
+      "n_receptors": 132,
+      "precision_at_5": 0.0879
+    },
+    "Gs": {
+      "n_receptors": 88,
+      "precision_at_5": 0.0773
+    },
+    "ligand-gated ion channel": {
+      "n_receptors": 4,
+      "precision_at_5": 0.0
+    },
+    "G12/13": {
+      "n_receptors": 4,
+      "precision_at_5": 0.15
+    }
+  },
+  "false_positive_analysis": {
+    "n_false_positives": 677,
+    "top_fps": [
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "GW-1102",
+        "score": 0.9398
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "TUG-891",
+        "score": 0.9046
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "BMY-14802",
+        "score": 0.6776
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "PUK19",
+        "score": 0.6398
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "SR59230A",
+        "score": 0.6137
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "ergotamine",
+        "score": 0.5772
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "dexmedetomidine",
+        "score": 0.562
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "pirenzepine",
+        "score": 0.5539
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "4-DAMP",
+        "score": 0.5489
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "GW-1102",
+        "score": 0.9398
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "TUG-891",
+        "score": 0.9046
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "BMY-14802",
+        "score": 0.6776
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "PUK19",
+        "score": 0.6398
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "SR59230A",
+        "score": 0.6137
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "ergotamine",
+        "score": 0.5772
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "dexmedetomidine",
+        "score": 0.562
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "pirenzepine",
+        "score": 0.5539
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "4-DAMP",
+        "score": 0.5489
+      },
+      {
+        "receptor": "Alpha-1D adrenergic receptor",
+        "ligand": "GW-1102",
+        "score": 0.9398
+      },
+      {
+        "receptor": "Alpha-1D adrenergic receptor",
+        "ligand": "TUG-891",
+        "score": 0.9046
+      }
+    ]
+  },
+  "false_negative_analysis": {
+    "n_false_negatives": 198,
+    "top_dns": [
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "phenylephrine"
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "methoxamine"
+      },
+      {
+        "receptor": "Alpha-1A adrenergic receptor",
+        "ligand": "yohimbine"
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "phenylephrine"
+      },
+      {
+        "receptor": "Alpha-1B adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Alpha-1D adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Alpha-1D adrenergic receptor",
+        "ligand": "BMY-14802"
+      },
+      {
+        "receptor": "Alpha-2A adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Alpha-2A adrenergic receptor",
+        "ligand": "dexmedetomidine"
+      },
+      {
+        "receptor": "Alpha-2A adrenergic receptor",
+        "ligand": "rauwolscine"
+      },
+      {
+        "receptor": "Alpha-2A adrenergic receptor",
+        "ligand": "epinephrine"
+      },
+      {
+        "receptor": "Alpha-2A adrenergic receptor",
+        "ligand": "idazoxan"
+      },
+      {
+        "receptor": "Alpha-2A adrenergic receptor",
+        "ligand": "yohimbine"
+      },
+      {
+        "receptor": "Alpha-2B adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Alpha-2C adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Beta-1 adrenergic receptor",
+        "ligand": "norepinephrine"
+      },
+      {
+        "receptor": "Beta-1 adrenergic receptor",
+        "ligand": "epinephrine"
+      },
+      {
+        "receptor": "Beta-1 adrenergic receptor",
+        "ligand": "isoproterenol"
+      },
+      {
+        "receptor": "Beta-1 adrenergic receptor",
+        "ligand": "doxazosin"
+      }
+    ]
+  },
+  "correlation_analysis": {
+    "pair_count_vs_p5_corr": 0.0097,
+    "n_receptors": 73
+  },
+  "key_insights": {
+    "best_performing_receptors": [
+      {
+        "receptor": "MC1R melanocortin receptor",
+        "family": "melanocortin",
+        "hits": 3
+      },
+      {
+        "receptor": "MC4R melanocortin receptor",
+        "family": "melanocortin",
+        "hits": 3
+      },
+      {
+        "receptor": "5-HT1B receptor",
+        "family": "serotonergic",
+        "hits": 2
+      },
+      {
+        "receptor": "5-HT1D receptor",
+        "family": "serotonergic",
+        "hits": 2
+      },
+      {
+        "receptor": "MC3R melanocortin receptor",
+        "family": "melanocortin",
+        "hits": 2
+      },
+      {
+        "receptor": "MC5R melanocortin receptor",
+        "family": "melanocortin",
+        "hits": 2
+      },
+      {
+        "receptor": "OX1 orexin receptor",
+        "family": "orexin",
+        "hits": 2
+      },
+      {
+        "receptor": "OX2 orexin receptor",
+        "family": "orexin",
+        "hits": 2
+      },
+      {
+        "receptor": "S1P1 receptor",
+        "family": "S1P",
+        "hits": 2
+      },
+      {
+        "receptor": "S1P2 receptor",
+        "family": "S1P",
+        "hits": 2
+      }
+    ],
+    "worst_performing_receptors": [
+      {
+        "receptor": "Beta-3 adrenergic receptor",
+        "family": "adrenergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT2A receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT2B receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT2C receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT3 receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT4 receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT5A receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT6 receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "5-HT7 receptor",
+        "family": "serotonergic",
+        "hits": 0
+      },
+      {
+        "receptor": "Kappa opioid receptor",
+        "family": "opioid",
+        "hits": 0
+      }
+    ],
+    "pair_count_p5_correlation": 0.0097,
+    "avg_true_ligands_per_receptor": 3.44
+  }
+}

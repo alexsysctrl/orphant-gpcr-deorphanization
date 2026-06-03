@@ -1,0 +1,455 @@
+{
+  "baseline_P@5": 0.0795,
+  "n_permutations": 1000,
+  "n_receptors_tested": 73,
+  "permuted_P@5": {
+    "mean": 0.0294,
+    "std": 0.0091,
+    "min": 0.0082,
+    "max": 0.0575
+  },
+  "p_value": 0.0,
+  "significant_orphans": 5,
+  "n_receptors_sig": 5,
+  "per_receptor": [
+    {
+      "receptor": "Alpha-1A adrenergic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.163,
+      "significant": false
+    },
+    {
+      "receptor": "Alpha-1B adrenergic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.092,
+      "significant": false
+    },
+    {
+      "receptor": "Alpha-1D adrenergic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.091,
+      "significant": false
+    },
+    {
+      "receptor": "Alpha-2A adrenergic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.184,
+      "significant": false
+    },
+    {
+      "receptor": "Alpha-2B adrenergic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.065,
+      "significant": false
+    },
+    {
+      "receptor": "Alpha-2C adrenergic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.061,
+      "significant": false
+    },
+    {
+      "receptor": "Beta-1 adrenergic receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "Beta-2 adrenergic receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "Beta-3 adrenergic receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "D1 dopamine receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.114,
+      "significant": false
+    },
+    {
+      "receptor": "D2 dopamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "D3 dopamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "D4 dopamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "D5 dopamine receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.094,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT1A receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT1B receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.165,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT1D receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.129,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT2A receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT2B receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT2C receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT3 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT4 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT5A receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT6 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "5-HT7 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "Mu opioid receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "Kappa opioid receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "Delta opioid receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "NOP (Nociceptin) receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "M1 muscarinic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.121,
+      "significant": false
+    },
+    {
+      "receptor": "M2 muscarinic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.126,
+      "significant": false
+    },
+    {
+      "receptor": "M3 muscarinic receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.097,
+      "significant": false
+    },
+    {
+      "receptor": "M4 muscarinic receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "M5 muscarinic receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "A1 adenosine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "A2A adenosine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "A2B adenosine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "A3 adenosine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "H1 histamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "H2 histamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "H3 histamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "H4 histamine receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "P2Y1 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "P2Y12 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "P2Y13 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "P2Y6 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "MC1R melanocortin receptor",
+      "observed_p5": 0.4,
+      "p_value": 0.002,
+      "significant": true
+    },
+    {
+      "receptor": "MC2R melanocortin receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "MC3R melanocortin receptor",
+      "observed_p5": 0.4,
+      "p_value": 0.002,
+      "significant": true
+    },
+    {
+      "receptor": "MC4R melanocortin receptor",
+      "observed_p5": 0.4,
+      "p_value": 0.004,
+      "significant": true
+    },
+    {
+      "receptor": "MC5R melanocortin receptor",
+      "observed_p5": 0.4,
+      "p_value": 0.001,
+      "significant": true
+    },
+    {
+      "receptor": "OX1 orexin receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.103,
+      "significant": false
+    },
+    {
+      "receptor": "OX2 orexin receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.127,
+      "significant": false
+    },
+    {
+      "receptor": "S1P1 receptor",
+      "observed_p5": 0.4,
+      "p_value": 0.005,
+      "significant": true
+    },
+    {
+      "receptor": "S1P2 receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.054,
+      "significant": false
+    },
+    {
+      "receptor": "S1P3 receptor",
+      "observed_p5": 0.2,
+      "p_value": 0.059,
+      "significant": false
+    },
+    {
+      "receptor": "S1P4 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "S1P5 receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "FFAR1 (GPR40)",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "FFAR2 (GPR43)",
+      "observed_p5": 0.2,
+      "p_value": 0.09,
+      "significant": false
+    },
+    {
+      "receptor": "FFAR3 (GPR41)",
+      "observed_p5": 0.2,
+      "p_value": 0.123,
+      "significant": false
+    },
+    {
+      "receptor": "FFAR4 (GPR120)",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "TAAR1",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR39",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR42 (FFAR3)",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR84",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR88",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR119",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR139",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR151",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR174",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "GPR18",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    },
+    {
+      "receptor": "NOP receptor",
+      "observed_p5": 0.0,
+      "p_value": 1.0,
+      "significant": false
+    }
+  ],
+  "interpretation": "SIGNIFICANT"
+}

@@ -1,0 +1,184 @@
+{
+  "n_predictions": 11899,
+  "n_receptors": 73,
+  "n_true_ligands_total": 251,
+  "n_false_ligands_total": 11648,
+  "ece": 0.1382,
+  "ece_top5": 0.6071,
+  "calibration": [
+    {
+      "bin": "0.0-0.1",
+      "low": 0.0,
+      "high": 0.1,
+      "n_samples": 3150,
+      "avg_confidence": 0.0655,
+      "avg_accuracy": 0.0429
+    },
+    {
+      "bin": "0.1-0.2",
+      "low": 0.1,
+      "high": 0.2,
+      "n_samples": 1370,
+      "avg_confidence": 0.1449,
+      "avg_accuracy": 0.0036
+    },
+    {
+      "bin": "0.2-0.3",
+      "low": 0.2,
+      "high": 0.3,
+      "n_samples": 1181,
+      "avg_confidence": 0.2508,
+      "avg_accuracy": 0.0051
+    },
+    {
+      "bin": "0.3-0.4",
+      "low": 0.3,
+      "high": 0.4,
+      "n_samples": 1160,
+      "avg_confidence": 0.3503,
+      "avg_accuracy": 0.0017
+    },
+    {
+      "bin": "0.4-0.5",
+      "low": 0.4,
+      "high": 0.5,
+      "n_samples": 672,
+      "avg_confidence": 0.4371,
+      "avg_accuracy": 0.0193
+    },
+    {
+      "bin": "0.5-0.6",
+      "low": 0.5,
+      "high": 0.6,
+      "n_samples": 258,
+      "avg_confidence": 0.545,
+      "avg_accuracy": 0.0581
+    },
+    {
+      "bin": "0.6-0.7",
+      "low": 0.6,
+      "high": 0.7,
+      "n_samples": 291,
+      "avg_confidence": 0.6381,
+      "avg_accuracy": 0.0859
+    },
+    {
+      "bin": "0.7-0.8",
+      "low": 0.7,
+      "high": 0.8,
+      "n_samples": 79,
+      "avg_confidence": 0.7412,
+      "avg_accuracy": 0.1392
+    },
+    {
+      "bin": "0.8-0.9",
+      "low": 0.8,
+      "high": 0.9,
+      "n_samples": 67,
+      "avg_confidence": 0.8615,
+      "avg_accuracy": 0.0
+    },
+    {
+      "bin": "0.9-1.0",
+      "low": 0.9,
+      "high": 1.0,
+      "n_samples": 13,
+      "avg_confidence": 0.9476,
+      "avg_accuracy": 0.0
+    }
+  ],
+  "calibration_top5": [
+    {
+      "bin": "0.0-0.1",
+      "low": 0.0,
+      "high": 0.1,
+      "n_samples": 0,
+      "avg_confidence": null,
+      "avg_accuracy": null
+    },
+    {
+      "bin": "0.1-0.2",
+      "low": 0.1,
+      "high": 0.2,
+      "n_samples": 0,
+      "avg_confidence": null,
+      "avg_accuracy": null
+    },
+    {
+      "bin": "0.2-0.3",
+      "low": 0.2,
+      "high": 0.3,
+      "n_samples": 0,
+      "avg_confidence": null,
+      "avg_accuracy": null
+    },
+    {
+      "bin": "0.3-0.4",
+      "low": 0.3,
+      "high": 0.4,
+      "n_samples": 0,
+      "avg_confidence": null,
+      "avg_accuracy": null
+    },
+    {
+      "bin": "0.4-0.5",
+      "low": 0.4,
+      "high": 0.5,
+      "n_samples": 4,
+      "avg_confidence": 0.4843,
+      "avg_accuracy": 0.25
+    },
+    {
+      "bin": "0.5-0.6",
+      "low": 0.5,
+      "high": 0.6,
+      "n_samples": 32,
+      "avg_confidence": 0.5543,
+      "avg_accuracy": 0.0625
+    },
+    {
+      "bin": "0.6-0.7",
+      "low": 0.6,
+      "high": 0.7,
+      "n_samples": 175,
+      "avg_confidence": 0.6467,
+      "avg_accuracy": 0.0857
+    },
+    {
+      "bin": "0.7-0.8",
+      "low": 0.7,
+      "high": 0.8,
+      "n_samples": 64,
+      "avg_confidence": 0.7455,
+      "avg_accuracy": 0.1719
+    },
+    {
+      "bin": "0.8-0.9",
+      "low": 0.8,
+      "high": 0.9,
+      "n_samples": 67,
+      "avg_confidence": 0.8615,
+      "avg_accuracy": 0.0
+    },
+    {
+      "bin": "0.9-1.0",
+      "low": 0.9,
+      "high": 1.0,
+      "n_samples": 13,
+      "avg_confidence": 0.9476,
+      "avg_accuracy": 0.0
+    }
+  ],
+  "accuracy_by_threshold": {
+    "0.1": 0.0151,
+    "0.2": 0.0193,
+    "0.3": 0.0259,
+    "0.4": 0.046,
+    "0.5": 0.071,
+    "0.6": 0.0783,
+    "0.7": 0.0651,
+    "0.8": 0.0,
+    "0.9": 0.0
+  },
+  "interpretation": "MODERATE - Some calibration issues, confidence scores need adjustment"
+}

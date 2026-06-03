@@ -1,0 +1,5978 @@
+[
+  {
+    "receptor": "GPR3",
+    "gene": "GPR3",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 5.963586685193484
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.6737951946908773
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.549282289600939
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.274808728643478
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.593760580933765
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 5.963586685193484
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.6737951946908773
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.549282289600939
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.274808728643478
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.593760580933765
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": 0.40362528893692495
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -0.35841288116902437
+      },
+      {
+        "ligand": "PUK19",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9832523151286017
+      },
+      {
+        "ligand": "SCH-58261",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1209306232268705
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": -0.620100641431379
+      }
+    ]
+  },
+  {
+    "receptor": "GPR4",
+    "gene": "GPR4",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 1.3678008969835536
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6493539274339755
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 12.282218621875618
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 3.168577670692861
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.083406960381263
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 1.3678008969835536
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6493539274339755
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 12.282218621875618
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 3.168577670692861
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.083406960381263
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 14.963358589281038
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 2.887203681493022
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 3.586138557684191
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 7.2182122066969185
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 17.22475967108185
+      }
+    ]
+  },
+  {
+    "receptor": "GPR6",
+    "gene": "GPR6",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": -0.10620773877086531
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0017833867267738
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 7.480244250170564
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4389495672542374
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.692574826056484
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": -0.10620773877086531
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0017833867267738
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 7.480244250170564
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4389495672542374
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.692574826056484
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 10.194835677042636
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 2.1436952488261807
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7264597742822496
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 5.765088394935848
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 11.986644065585239
+      }
+    ]
+  },
+  {
+    "receptor": "GPR12",
+    "gene": "GPR12",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8754041363370062
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.4097664718224392
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.964042004072944
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.132240536292517
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.14999810215337828
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8754041363370062
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.4097664718224392
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.964042004072944
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.132240536292517
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.14999810215337828
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.66463170565827
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.22574647850446627
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.407666371775493
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 19.634098886782315
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 25.14051615596407
+      }
+    ]
+  },
+  {
+    "receptor": "GPR15",
+    "gene": "GPR15",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5023349813658324
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0301664648431021
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.4999451858537403
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.669614992041428
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.195296290285963
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5023349813658324
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0301664648431021
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.4999451858537403
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.669614992041428
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.195296290285963
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2890869680813997
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 26.83164036889093
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2273923672192013
+      },
+      {
+        "ligand": "almorexant",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8873240016750561
+      },
+      {
+        "ligand": "alnespirone",
+        "confidence": 1.0,
+        "predicted_pkd": -1.077685034403757
+      }
+    ]
+  },
+  {
+    "receptor": "GPR19",
+    "gene": "GPR19",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.011684861851351869
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.07614650410079538
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2707541628902157
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.900041235702622
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.428847156775419
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.011684861851351869
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.07614650410079538
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2707541628902157
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.900041235702622
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.428847156775419
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0211229486071236
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 23.656594306947245
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.7715794164214049
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 8.518748535957082
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 22.046317005052455
+      }
+    ]
+  },
+  {
+    "receptor": "GPR20",
+    "gene": "GPR20",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.16807930106155
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.03824248552122711
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2020430997354095
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 14.567213387148714
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.520974030641304
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.16807930106155
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.03824248552122711
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2020430997354095
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 14.567213387148714
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.520974030641304
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7307756877476348
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 35.6987218631292
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 1.776483665846945
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 15.950159062386968
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 31.765286445320815
+      }
+    ]
+  },
+  {
+    "receptor": "GPR21",
+    "gene": "GPR21",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7074486784926917
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7649904834542074
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.69708585324801
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.7127359257926535
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.15497212476834132
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7074486784926917
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7649904834542074
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.69708585324801
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.7127359257926535
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.15497212476834132
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 18.472621154135666
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.35649120347972474
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.581966981303225
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.59205063658567
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 23.103010524150342
+      }
+    ]
+  },
+  {
+    "receptor": "GPR22",
+    "gene": "GPR22",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.07107771855963207
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.1917558911886239
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6757349771500185
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 11.318917836282527
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.007090707108237
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.07107771855963207
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.1917558911886239
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6757349771500185
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 11.318917836282527
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.007090707108237
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.89828659444577
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 29.194920142006595
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.0568090179863696
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.257341339021732
+      },
+      {
+        "ligand": "atenolol",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9684728969571408
+      }
+    ]
+  },
+  {
+    "receptor": "GPR26",
+    "gene": "GPR26",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5424298995474377
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4162966464241906
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7430902803541053
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.775615664659576
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.414642338553781
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5424298995474377
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4162966464241906
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7430902803541053
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.775615664659576
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.414642338553781
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.173850723398161
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 30.52169296432142
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.1601797920361236
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.632833579672196
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 28.657405825519326
+      }
+    ]
+  },
+  {
+    "receptor": "GPR31",
+    "gene": "GPR31",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.754678961602044
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.6368647697792
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.782275742638152
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.937032172268733
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.70289193371777
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.754678961602044
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.6368647697792
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.782275742638152
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.937032172268733
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.70289193371777
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 24.980114492028765
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 8.306015766300463
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 9.366993323647726
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 15.138136879269174
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 27.388057044417266
+      }
+    ]
+  },
+  {
+    "receptor": "GPR32",
+    "gene": "GPR32",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.20792205719355827
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9276925541691678
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.052287998075706
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.88070642962451
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.199494232711505
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.20792205719355827
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9276925541691678
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.052287998075706
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.88070642962451
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.199494232711505
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 25.99511754226742
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 10.498427967734942
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 23.16548606396546
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 31.82805908316597
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 12.865075032658094
+      }
+    ]
+  },
+  {
+    "receptor": "GPR33",
+    "gene": "GPR33",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.09917877075531845
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.2585604696757207
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0985668332894347
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.09366044351748
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.094550689680958
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.09917877075531845
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.2585604696757207
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0985668332894347
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.09366044351748
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.094550689680958
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.775853054388004
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 28.081645126497712
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.44122836085828876
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.08672853569745
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 22.836427386414062
+      }
+    ]
+  },
+  {
+    "receptor": "GPR34",
+    "gene": "GPR34",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.882702281728577
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 3.9726892671665994
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 12.250224223805585
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 3.359830618638427
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 10.082413316177762
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.882702281728577
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 3.9726892671665994
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 12.250224223805585
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 3.359830618638427
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 10.082413316177762
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 16.131179474864332
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 3.6402133798824896
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 5.088197629851285
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 9.471042085787952
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 16.849456952552107
+      }
+    ]
+  },
+  {
+    "receptor": "GPR37",
+    "gene": "GPR37",
+    "top_5": [
+      {
+        "ligand": "ICI-118,551",
+        "confidence": 0.0007866610679053422,
+        "predicted_pkd": -6.25398852540008
+      },
+      {
+        "ligand": "propranolol",
+        "confidence": 0.0005641683625078907,
+        "predicted_pkd": -6.2917426213874865
+      },
+      {
+        "ligand": "SR59230A",
+        "confidence": 0.00047234798856096174,
+        "predicted_pkd": -6.311912865949072
+      },
+      {
+        "ligand": "dexmedetomidine",
+        "confidence": 0.00018326175191023104,
+        "predicted_pkd": -6.419397138899022
+      },
+      {
+        "ligand": "prazosin",
+        "confidence": 7.854476343986947e-05,
+        "predicted_pkd": -6.515562223573367
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ICI-118,551",
+        "confidence": 0.0007866610679053422,
+        "predicted_pkd": -6.25398852540008
+      },
+      {
+        "ligand": "propranolol",
+        "confidence": 0.0005641683625078907,
+        "predicted_pkd": -6.2917426213874865
+      },
+      {
+        "ligand": "SR59230A",
+        "confidence": 0.00047234798856096174,
+        "predicted_pkd": -6.311912865949072
+      },
+      {
+        "ligand": "dexmedetomidine",
+        "confidence": 0.00018326175191023104,
+        "predicted_pkd": -6.419397138899022
+      },
+      {
+        "ligand": "prazosin",
+        "confidence": 7.854476343986947e-05,
+        "predicted_pkd": -6.515562223573367
+      },
+      {
+        "ligand": "epinephrine",
+        "confidence": 6.389907857871949e-05,
+        "predicted_pkd": -6.5389839045096005
+      },
+      {
+        "ligand": "RO5185379",
+        "confidence": 6.372615052311081e-05,
+        "predicted_pkd": -6.539291472201645
+      },
+      {
+        "ligand": "BRL-37344",
+        "confidence": 5.110060722638292e-05,
+        "predicted_pkd": -6.564351122825738
+      },
+      {
+        "ligand": "BMY-14802",
+        "confidence": 4.8978413927972984e-05,
+        "predicted_pkd": -6.56916519432875
+      },
+      {
+        "ligand": "butyrate",
+        "confidence": 4.588215428651326e-05,
+        "predicted_pkd": -6.576576766679089
+      }
+    ]
+  },
+  {
+    "receptor": "GPR39",
+    "gene": "GPR39",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.690546093751667
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.027745935403431
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.258674719341203
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.5297895903509655
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.717158972047544
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.690546093751667
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.027745935403431
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.258674719341203
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.5297895903509655
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.717158972047544
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 19.199020762512212
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 6.629238769867204
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 8.01592264078123
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 12.470321259727413
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 20.54428925153204
+      }
+    ]
+  },
+  {
+    "receptor": "GPR45",
+    "gene": "GPR45",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5674894259089815
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.00394869039009
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.520080203434086
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 12.763883711158542
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.1825641384102306
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5674894259089815
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.00394869039009
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.520080203434086
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 12.763883711158542
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.1825641384102306
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 32.909202544898044
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5924648895753362
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 12.50270511838901
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 29.00861419458201
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 38.09058392522452
+      }
+    ]
+  },
+  {
+    "receptor": "GPR50",
+    "gene": "GPR50",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 5.990405292711296
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7442984544312314
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 5.765532078891871
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 23.268037691637268
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 24.624460501692123
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 5.990405292711296
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7442984544312314
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 5.765532078891871
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 23.268037691637268
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 24.624460501692123
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7509205669716623
+      },
+      {
+        "ligand": "MRS-2179",
+        "confidence": 1.0,
+        "predicted_pkd": -1.2402613926576347
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8441569111603799
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -0.05755023856431496
+      },
+      {
+        "ligand": "SB-269970",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0088652734382695
+      }
+    ]
+  },
+  {
+    "receptor": "GPR52",
+    "gene": "GPR52",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.35178419649699
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.9967001842222243
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.429572400202554
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.619325543538666
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 34.98371106739569
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.35178419649699
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.9967001842222243
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.429572400202554
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.619325543538666
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 34.98371106739569
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.322596902789102
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 15.496413307991327
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 32.801596883467354
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 42.20186687379683
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 16.433186579190796
+      }
+    ]
+  },
+  {
+    "receptor": "GPR62",
+    "gene": "GPR62",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.6712942725093627
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.3716879812970415
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 16.265083856609824
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5898281350870151
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.419055495204018
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.6712942725093627
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.3716879812970415
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 16.265083856609824
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5898281350870151
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.419055495204018
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.402517437369346
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 19.87354506077071
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 6.3995332725832945
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 8.423174309104597
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 11.218696170928453
+      }
+    ]
+  },
+  {
+    "receptor": "GPR63",
+    "gene": "GPR63",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.4478625034598296
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.9688776950625719
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.418717770308504
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.792289463686267
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 14.537655860280845
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.4478625034598296
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.9688776950625719
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.418717770308504
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.792289463686267
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 14.537655860280845
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -0.04996024170072655
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6344043693696477
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7190550863003082
+      },
+      {
+        "ligand": "SCH-58261",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7860936547081359
+      },
+      {
+        "ligand": "UDP-glucose",
+        "confidence": 1.0,
+        "predicted_pkd": -0.14037781162508445
+      }
+    ]
+  },
+  {
+    "receptor": "GPR65",
+    "gene": "GPR65",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.6327144343003761
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.4130335692259473
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.652721174256955
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.335878480950486
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.21391806670861513
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.6327144343003761
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.4130335692259473
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.652721174256955
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.335878480950486
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.21391806670861513
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 27.652518517190884
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0991804136736212
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.940470634583363
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 23.743634047287642
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 31.45006752532949
+      }
+    ]
+  },
+  {
+    "receptor": "GPR68",
+    "gene": "GPR68",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.7694051000151063
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8627560879421345
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.922551053678218
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 9.345876681813962
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 10.637389606871505
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.7694051000151063
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8627560879421345
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.922551053678218
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 9.345876681813962
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 10.637389606871505
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.8245636964535388
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 27.778768139266752
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1764864377604551
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.465367824194697
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 24.372768098456408
+      }
+    ]
+  },
+  {
+    "receptor": "GPR75",
+    "gene": "GPR75",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5367114244647277
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.11347199755766013
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 7.3159860148353495
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.770784530630182
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.06349308006943843
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5367114244647277
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.11347199755766013
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 7.3159860148353495
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.770784530630182
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.06349308006943843
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 22.99285457987197
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.4389033105193061
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 8.566086106196448
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 21.45413884339299
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 28.046178849464972
+      }
+    ]
+  },
+  {
+    "receptor": "GPR78",
+    "gene": "GPR78",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.168739627194512
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.991369908976816
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.207458907437399
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.248099862742347
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.736390637613436
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.168739627194512
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.991369908976816
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.207458907437399
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.248099862742347
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.736390637613436
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.685676236972007
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 24.80765148876236
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 9.002137975992994
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 11.296118378953697
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 15.6108807674833
+      }
+    ]
+  },
+  {
+    "receptor": "GPR82",
+    "gene": "GPR82",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.8563711501345024
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5918824760450416
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.1003231397000683
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.95001994887388
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.912140812334599
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.8563711501345024
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5918824760450416
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.1003231397000683
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.95001994887388
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.912140812334599
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1666036914494073
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.155481475983948
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 26.03945537129374
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.783039209172284
+      },
+      {
+        "ligand": "almorexant",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0989207244335537
+      }
+    ]
+  },
+  {
+    "receptor": "GPR83",
+    "gene": "GPR83",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.523076108386182
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9704543477488965
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.071874763422841
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 11.439592966990663
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.865536629872246
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.523076108386182
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9704543477488965
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.071874763422841
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 11.439592966990663
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 11.865536629872246
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9807566173509779
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.44570241610908
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 31.923007950726014
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.8590625545795327
+      },
+      {
+        "ligand": "almorexant",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5921338251451056
+      }
+    ]
+  },
+  {
+    "receptor": "GPR85",
+    "gene": "GPR85",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2331013991138833
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6368272453889614
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 10.53133366978058
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5212669620961283
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 9.20851151561144
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2331013991138833
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6368272453889614
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 10.53133366978058
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5212669620961283
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 9.20851151561144
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 13.19415178152132
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 2.727556044639057
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 6.702852725300172
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 7.466678899794095
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 14.39484071729069
+      }
+    ]
+  },
+  {
+    "receptor": "GPR87",
+    "gene": "GPR87",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7479669783056466
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.004402967423488668
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.853006523758291
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.470446773645195
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.770848666454315
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7479669783056466
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.004402967423488668
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.853006523758291
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.470446773645195
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.770848666454315
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.621805210327866
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 32.64660702981194
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2958321557676133
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.78888321871325
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 30.76616567582388
+      }
+    ]
+  },
+  {
+    "receptor": "GPR88",
+    "gene": "GPR88",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.3394065198730294
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6333004871598584
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.216920008442008
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.908199491531644
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.363277059952942
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.3394065198730294
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6333004871598584
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.216920008442008
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.908199491531644
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.363277059952942
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0097314807572157
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 22.386751932416544
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.7023961818501832
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 8.92336789968211
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 20.446565307645685
+      }
+    ]
+  },
+  {
+    "receptor": "GPR101",
+    "gene": "GPR101",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.641667686345148
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2748562323490664
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.939262728561969
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 20.84363192117993
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 22.042715763943182
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.641667686345148
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.2748562323490664
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.939262728561969
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 20.84363192117993
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 22.042715763943182
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -1.034286637188126
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9561083285809762
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6544735082014501
+      },
+      {
+        "ligand": "UDP-glucose",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7867551939689106
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.402890374342254
+      }
+    ]
+  },
+  {
+    "receptor": "GPR103",
+    "gene": "GPR103",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7650926114689467
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.5811040085654366
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.849598223865893
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.15203555600555
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.819019586406453
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7650926114689467
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.5811040085654366
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.849598223865893
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.15203555600555
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.819019586406453
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 18.826489418996797
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 24.736643655614753
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 9.547242984785136
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 10.005652876641644
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 15.456605455053252
+      }
+    ]
+  },
+  {
+    "receptor": "GPR109A",
+    "gene": "GPR109A",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0442743481534285
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4173946459950093
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 1.8712089790986366
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1867616218081771
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 7.187061648389783
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0442743481534285
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4173946459950093
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 1.8712089790986366
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1867616218081771
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 7.187061648389783
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 0.7160652905733347
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.236863534145719
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 9.853195213328283
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 1.3236245927593746
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 2.393434307650699
+      }
+    ]
+  },
+  {
+    "receptor": "GPR119",
+    "gene": "GPR119",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0566995870892102
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.13697673495831
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.03838090275954
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1366761980581215
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.059614451406645
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0566995870892102
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 6.13697673495831
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.03838090275954
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1366761980581215
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.059614451406645
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -1.02468755916063
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.561659430678347
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.1386340300299
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 23.74292531204381
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 8.34213788198603
+      }
+    ]
+  },
+  {
+    "receptor": "GPR120",
+    "gene": "FFAR4",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8803105460727476
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.228330671892229
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.17327360915332
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8696036393354838
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 17.814223015818357
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8803105460727476
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.228330671892229
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.17327360915332
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8696036393354838
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 17.814223015818357
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.8197222109841515
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 16.413028694577886
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 23.023319935889464
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 7.422769977220627
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 9.853351874208789
+      }
+    ]
+  },
+  {
+    "receptor": "GPR176",
+    "gene": "GPR25",
+    "top_5": [
+      {
+        "ligand": "almorexant",
+        "confidence": 0.00011654271025300323,
+        "predicted_pkd": -6.470776381484997
+      },
+      {
+        "ligand": "tryptophan",
+        "confidence": 0.00011279538914298812,
+        "predicted_pkd": -6.474485895052946
+      },
+      {
+        "ligand": "raclopride",
+        "confidence": 9.632093579510738e-05,
+        "predicted_pkd": -6.492406518300134
+      },
+      {
+        "ligand": "spiperone",
+        "confidence": 7.509672712520972e-05,
+        "predicted_pkd": -6.520657331809041
+      },
+      {
+        "ligand": "prucalopride",
+        "confidence": 6.80646092922664e-05,
+        "predicted_pkd": -6.531816322686138
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "almorexant",
+        "confidence": 0.00011654271025300323,
+        "predicted_pkd": -6.470776381484997
+      },
+      {
+        "ligand": "tryptophan",
+        "confidence": 0.00011279538914298812,
+        "predicted_pkd": -6.474485895052946
+      },
+      {
+        "ligand": "raclopride",
+        "confidence": 9.632093579510738e-05,
+        "predicted_pkd": -6.492406518300134
+      },
+      {
+        "ligand": "spiperone",
+        "confidence": 7.509672712520972e-05,
+        "predicted_pkd": -6.520657331809041
+      },
+      {
+        "ligand": "prucalopride",
+        "confidence": 6.80646092922664e-05,
+        "predicted_pkd": -6.531816322686138
+      },
+      {
+        "ligand": "albuterol",
+        "confidence": 4.8346053052814455e-05,
+        "predicted_pkd": -6.570640065251525
+      },
+      {
+        "ligand": "ranitidine",
+        "confidence": 3.726824243832335e-05,
+        "predicted_pkd": -6.60017604691536
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 3.6603870769024196e-05,
+        "predicted_pkd": -6.602217512873665
+      },
+      {
+        "ligand": "SHU-9119",
+        "confidence": 2.692373429777757e-05,
+        "predicted_pkd": -6.637076282546259
+      },
+      {
+        "ligand": "ICI-118,551",
+        "confidence": 2.301220404831296e-05,
+        "predicted_pkd": -6.6548926318745405
+      }
+    ]
+  },
+  {
+    "receptor": "GPR182",
+    "gene": "GPR182",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.8566524832357185
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.5378384704524053
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 5.504784277894217
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.20456168267031
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.111210268472455
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.8566524832357185
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.5378384704524053
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 5.504784277894217
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.20456168267031
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.111210268472455
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -0.36143022583785367
+      },
+      {
+        "ligand": "MRS-2179",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0135979447250225
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": -0.6302015814159798
+      },
+      {
+        "ligand": "SCH-58261",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7456717245621451
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": 0.23725431880358627
+      }
+    ]
+  },
+  {
+    "receptor": "GPR183",
+    "gene": "GPR183",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.49295488303893453
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 7.526919547479855
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.9167577062935095
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.867899487198223
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.09392092624911275
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.49295488303893453
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 7.526919547479855
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.9167577062935095
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.867899487198223
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.09392092624911275
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 8.266010421520427
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.61504731801687
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 25.650368980285158
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 10.826285987586903
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 8.978198382214332
+      }
+    ]
+  },
+  {
+    "receptor": "GPR132",
+    "gene": "GPR132",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.212232353820746
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 1.8913718632681165
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.40474560536307
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 23.943726898265073
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.49911095479713463
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.212232353820746
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 1.8913718632681165
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.40474560536307
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 23.943726898265073
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.49911095479713463
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 9.531875083782179
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 20.527687695041934
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 24.700324739777088
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 5.683471201725224
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 12.713618894654196
+      }
+    ]
+  },
+  {
+    "receptor": "GPR135",
+    "gene": "GPR135",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8541910177922256
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.4860867048699244
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 4.107462284426221
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.20702227188405065
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 13.862892558475467
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8541910177922256
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.4860867048699244
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 4.107462284426221
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.20702227188405065
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 13.862892558475467
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9533393614206256
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.068111390363869
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.163216017602494
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 14.510120723635305
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 3.206658198605487
+      }
+    ]
+  },
+  {
+    "receptor": "GPR139",
+    "gene": "GPR139",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0280240904536448
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.1297635086910205
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6695626027428294
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.086720401107755
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 12.768667752356755
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.0280240904536448
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.1297635086910205
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6695626027428294
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.086720401107755
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 12.768667752356755
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.039491674379619
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 29.19016064870022
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.5670717293427505
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 12.699375886069511
+      },
+      {
+        "ligand": "atenolol",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0348140034026194
+      }
+    ]
+  },
+  {
+    "receptor": "GPR141",
+    "gene": "GPR141",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.8400095617341603
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7649886636106218
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.236811296446232
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.22075566640941
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.6264332657706113
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.8400095617341603
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7649886636106218
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.236811296446232
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.22075566640941
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.6264332657706113
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.797340728229596
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.29410399597779957
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 9.645624874481708
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 20.69043130755753
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 25.988619840501855
+      }
+    ]
+  },
+  {
+    "receptor": "GPR142",
+    "gene": "GPR142",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.326965729702842
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7059722751392674
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.725986311207292
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 15.686126126750862
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 16.665935419860553
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.326965729702842
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7059722751392674
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.725986311207292
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 15.686126126750862
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 16.665935419860553
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5558834680389442
+      },
+      {
+        "ligand": "UFP-512",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8183408242057393
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.1498944554545165
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 37.549957849811356
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 3.4958724765836835
+      }
+    ]
+  },
+  {
+    "receptor": "GPR146",
+    "gene": "GPR146",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.410174885628916
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.1439473306058225
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.418008941724851
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.296586977347696
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.702057188876443
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.410174885628916
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.1439473306058225
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.418008941724851
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.296586977347696
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.702057188876443
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 19.29224789169014
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 5.518690180963985
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 7.959593842436748
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 12.496163330836392
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 21.602380214684366
+      }
+    ]
+  },
+  {
+    "receptor": "GPR148",
+    "gene": "GPR148",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.127410510475254
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.40152943881372
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 16.135036244033415
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.503588185624569
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.634647173272258
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.127410510475254
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.40152943881372
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 16.135036244033415
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.503588185624569
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.634647173272258
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 19.504102153466437
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 5.103354319132858
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 9.17751852176507
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 10.65197771402254
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 19.888895572052782
+      }
+    ]
+  },
+  {
+    "receptor": "GPR149",
+    "gene": "GPR149",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.15382768165128624
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8848573867929224
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1022434031042998
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.55366704539206
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.435935520641712
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 0.15382768165128624
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8848573867929224
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1022434031042998
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.55366704539206
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.435935520641712
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.9546420442574748
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 23.744967375653957
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1965790291600253
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 9.2130493685735
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 21.434379249592055
+      }
+    ]
+  },
+  {
+    "receptor": "GPR150",
+    "gene": "GPR150",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1651076070269095
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.06665094618257505
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5122462401304024
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 9.864498608988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.074838560984855
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1651076070269095
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.06665094618257505
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5122462401304024
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 9.864498608988
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 9.074838560984855
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 26.845633749672096
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.009688460503473273
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.08260062871047
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 24.12658050143562
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 31.777068172781664
+      }
+    ]
+  },
+  {
+    "receptor": "GPR151",
+    "gene": "GPR151",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.522955965987228
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.14169399828393292
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.69369208221378
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.757917194736461
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 27.912336210575937
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.522955965987228
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.14169399828393292
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.69369208221378
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 7.757917194736461
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 27.912336210575937
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.23405783362124133
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.505805059852928
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 25.357283278184344
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 33.56948931125333
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 13.14110651972825
+      }
+    ]
+  },
+  {
+    "receptor": "GPR152",
+    "gene": "GPR152",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 5.353531600816437
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.318121188018234
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 6.495508085630886
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.12961609536952
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.23618841725496
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 5.353531600816437
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.318121188018234
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 6.495508085630886
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.12961609536952
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.23618841725496
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5798117364564837
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -1.2560671734306403
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": 0.12020375667087535
+      },
+      {
+        "ligand": "UFP-512",
+        "confidence": 1.0,
+        "predicted_pkd": -0.801598246311821
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.83281579155458
+      }
+    ]
+  },
+  {
+    "receptor": "GPR153",
+    "gene": "GPR153",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8563036373800657
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.3366916157554165
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.926893928190475
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 19.083101082831263
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0714794409817072
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8563036373800657
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.3366916157554165
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.926893928190475
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 19.083101082831263
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0714794409817072
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.7579904700539615
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 16.743526982150975
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 21.57046236412859
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 6.991795612692291
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 9.640467114019236
+      }
+    ]
+  },
+  {
+    "receptor": "GPR155",
+    "gene": "GPR155",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.026955052370955
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.7271543373800355
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.82275124534558
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.689858494312777
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.410582720384708
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 5.026955052370955
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.7271543373800355
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.82275124534558
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 4.689858494312777
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.410582720384708
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 19.855491141970194
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 5.869716864759107
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 7.954532632420442
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 12.93970636099655
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 22.18023811638864
+      }
+    ]
+  },
+  {
+    "receptor": "GPR156",
+    "gene": "GPR156",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": -0.4211074633385854
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 0.20976270779329376
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 6.553750138868631
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 0.028714383108348507
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.33024980822757
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": -0.4211074633385854
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 0.20976270779329376
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 6.553750138868631
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 0.028714383108348507
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 6.33024980822757
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 8.756319153601881
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 0.9434538965725245
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 2.5649976228958047
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 5.114655295761606
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 10.296918918123312
+      }
+    ]
+  },
+  {
+    "receptor": "GPR157",
+    "gene": "GPR157",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.470361883712901
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.4285137989682415
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.352544294958223
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.948668216316106
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.571682781041192
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.470361883712901
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.4285137989682415
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.352544294958223
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.948668216316106
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.571682781041192
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 20.37386082049769
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 6.815585386906367
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 8.454893117233272
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 11.651555925958867
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 22.716381940242393
+      }
+    ]
+  },
+  {
+    "receptor": "GPR158",
+    "gene": "GPR158",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7193185169652185
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.20687998903316718
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.0597910756740867
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.041500337912558
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.1917221893462271
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7193185169652185
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.20687998903316718
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.0597910756740867
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 6.041500337912558
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.1917221893462271
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.321457654928096
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.3446087307583863
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.708722495310347
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.888315431686303
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 21.395932122731768
+      }
+    ]
+  },
+  {
+    "receptor": "GPR160",
+    "gene": "GPR160",
+    "top_5": [
+      {
+        "ligand": "dexmedetomidine",
+        "confidence": 0.0019180260947917929,
+        "predicted_pkd": -6.1527123765108485
+      },
+      {
+        "ligand": "ketanserin",
+        "confidence": 0.00016063604720666644,
+        "predicted_pkd": -6.4343546353308545
+      },
+      {
+        "ligand": "tropium",
+        "confidence": 9.924522041281162e-05,
+        "predicted_pkd": -6.4890119497245795
+      },
+      {
+        "ligand": "domperidone",
+        "confidence": 7.973998680172451e-05,
+        "predicted_pkd": -6.513848122470371
+      },
+      {
+        "ligand": "GW-1102",
+        "confidence": 7.526701417290961e-05,
+        "predicted_pkd": -6.520400259593226
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "dexmedetomidine",
+        "confidence": 0.0019180260947917929,
+        "predicted_pkd": -6.1527123765108485
+      },
+      {
+        "ligand": "ketanserin",
+        "confidence": 0.00016063604720666644,
+        "predicted_pkd": -6.4343546353308545
+      },
+      {
+        "ligand": "tropium",
+        "confidence": 9.924522041281162e-05,
+        "predicted_pkd": -6.4890119497245795
+      },
+      {
+        "ligand": "domperidone",
+        "confidence": 7.973998680172451e-05,
+        "predicted_pkd": -6.513848122470371
+      },
+      {
+        "ligand": "GW-1102",
+        "confidence": 7.526701417290961e-05,
+        "predicted_pkd": -6.520400259593226
+      },
+      {
+        "ligand": "methadone",
+        "confidence": 7.23465109859719e-05,
+        "predicted_pkd": -6.524891890584545
+      },
+      {
+        "ligand": "RO5185379",
+        "confidence": 6.370020935748174e-05,
+        "predicted_pkd": -6.539337682811146
+      },
+      {
+        "ligand": "CCPA",
+        "confidence": 4.904410683068018e-05,
+        "predicted_pkd": -6.569013070325301
+      },
+      {
+        "ligand": "alnespirone",
+        "confidence": 3.1759913637945896e-05,
+        "predicted_pkd": -6.618327723028177
+      },
+      {
+        "ligand": "practolol",
+        "confidence": 2.6000450758851653e-05,
+        "predicted_pkd": -6.641036511352853
+      }
+    ]
+  },
+  {
+    "receptor": "GPR161",
+    "gene": "GPR161",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.722060590457861
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.3477364513987724
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 6.3982275263920805
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.631464567882038
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 19.176898007087072
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.722060590457861
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.3477364513987724
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 6.3982275263920805
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.631464567882038
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 19.176898007087072
+      },
+      {
+        "ligand": "MDA",
+        "confidence": 1.0,
+        "predicted_pkd": 0.9007269932155397
+      },
+      {
+        "ligand": "MDMA",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5570628223037479
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": 0.6171112363150435
+      },
+      {
+        "ligand": "MRS-2179",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7693656730542102
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": 2.3100148578700623
+      }
+    ]
+  },
+  {
+    "receptor": "GPR171",
+    "gene": "GPR171",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5524657811706488
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.786188673492893
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.164951474970811
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.2650561700059084
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.571857425295825
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5524657811706488
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.786188673492893
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.164951474970811
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.2650561700059084
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.571857425295825
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.616881600956015
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.97308150725458
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.494182160246666
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 24.900817723971578
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 9.342388151733523
+      }
+    ]
+  },
+  {
+    "receptor": "GPR173",
+    "gene": "GPR173",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.048964162785778
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.47060389200883534
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 5.215276891886566
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.188981418323316
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.832800353206894
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.048964162785778
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.47060389200883534
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 5.215276891886566
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.188981418323316
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.832800353206894
+      },
+      {
+        "ligand": "LSD",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1842117565172519
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7276415608367044
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -0.03069784717502433
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": -0.4957183916551493
+      },
+      {
+        "ligand": "TUG-891",
+        "confidence": 1.0,
+        "predicted_pkd": -0.5870530146362327
+      }
+    ]
+  },
+  {
+    "receptor": "GPR174",
+    "gene": "CMKRL1",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.208330607479351
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.41898180133962715
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.494704712463712
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 14.80083575596059
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.06351781126691
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.208330607479351
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.41898180133962715
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.494704712463712
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 14.80083575596059
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.06351781126691
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.9376415596792858
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 36.688712221223916
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.7927085828405742
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 17.878894982891108
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 34.09320514468961
+      }
+    ]
+  },
+  {
+    "receptor": "GPR176 (GPR25)",
+    "gene": "GPR25",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.884218963249082
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9266176800778876
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.9158217661521424
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.475634542527436
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.778847337930571
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.884218963249082
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9266176800778876
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.9158217661521424
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 8.475634542527436
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.778847337930571
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5224924876945831
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 21.50773912864676
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 4.959995449750831
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 8.651044317483898
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 19.893013077833903
+      }
+    ]
+  },
+  {
+    "receptor": "GPR179",
+    "gene": "GPR179",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.5235233229978395
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5588021417473503
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.417183781105271
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 14.29670437349221
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.877294515253384
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.5235233229978395
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.5588021417473503
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 4.417183781105271
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 14.29670437349221
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.877294515253384
+      },
+      {
+        "ligand": "MDMA",
+        "confidence": 1.0,
+        "predicted_pkd": -0.9823119605643456
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -0.36773968895358067
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": -0.692205309254331
+      },
+      {
+        "ligand": "UFP-512",
+        "confidence": 1.0,
+        "predicted_pkd": -0.499305725816245
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7794139233376023
+      }
+    ]
+  },
+  {
+    "receptor": "GPR182 (LRG1/GPCR2)",
+    "gene": "GPR182",
+    "top_5": [
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7787693529946638
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7986747356361126
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 3.193417299472451
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0343019164416596
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": -0.3463782885888609
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7787693529946638
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 1.7986747356361126
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 3.193417299472451
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0343019164416596
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": -0.3463782885888609
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 4.034786382077035
+      },
+      {
+        "ligand": "orexin-A",
+        "confidence": 1.0,
+        "predicted_pkd": 3.8388051018980396
+      },
+      {
+        "ligand": "orexin-B",
+        "confidence": 1.0,
+        "predicted_pkd": -0.040111762731435796
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 0.9999999999999332,
+        "predicted_pkd": -1.9999415636376914
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 0.9999999999997828,
+        "predicted_pkd": -2.1337392001938844
+      }
+    ]
+  },
+  {
+    "receptor": "GPR183 (BLR2)",
+    "gene": "GPR183",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.4100807837002436
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.5020588183338064
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 7.032623996405848
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 17.905296530189446
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.378815601213706
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 3.4100807837002436
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.5020588183338064
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 7.032623996405848
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 17.905296530189446
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 20.378815601213706
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": 0.5741583931878225
+      },
+      {
+        "ligand": "MRS-2179",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0493098885929824
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.8688936363616273
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": 0.24018267161842655
+      },
+      {
+        "ligand": "SEW2871",
+        "confidence": 1.0,
+        "predicted_pkd": -0.11517340349432637
+      }
+    ]
+  },
+  {
+    "receptor": "GPR56 (ADGRB1)",
+    "gene": "ADGRB1",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.838285077367193
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.850566154071489
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.4652849820867844
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.710428181595876
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.335229028759537
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.838285077367193
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.850566154071489
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.4652849820867844
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.710428181595876
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 15.335229028759537
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -0.47455701813465456
+      },
+      {
+        "ligand": "UFP-512",
+        "confidence": 1.0,
+        "predicted_pkd": -1.14946034769972
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.9707593822803102
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 32.96538090145466
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 4.8555539611784635
+      }
+    ]
+  },
+  {
+    "receptor": "GPR64 (ADGRB2)",
+    "gene": "ADGRB2",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.992470348901934
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 7.114289603804668
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.043303941012594
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.17700590805658312
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.32730320807574
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": -0.992470348901934
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 7.114289603804668
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 8.043303941012594
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.17700590805658312
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 20.32730320807574
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 7.953543594292933
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 18.00001866359681
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 25.57782568407924
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 9.225080444911189
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 11.836370342060746
+      }
+    ]
+  },
+  {
+    "receptor": "GPR126 (ADGRB3)",
+    "gene": "ADGRB3",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.488266318974429
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.565012214090534
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1465518787253766
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.778634938738577
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 12.322269666050872
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.488266318974429
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": -0.565012214090534
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.1465518787253766
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 10.778634938738577
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 12.322269666050872
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.8587507557240857
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 28.53173324715422
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 0.8454888250525245
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.766493350431684
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 25.351873117125177
+      }
+    ]
+  },
+  {
+    "receptor": "GPR128 (ADGRL1)",
+    "gene": "ADGRL1",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.6469960770084193
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4232562110708038
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.184094749582926
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 11.937377257671443
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.785454553186769
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.6469960770084193
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4232562110708038
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.184094749582926
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 11.937377257671443
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.785454553186769
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.6697751664791967
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 30.545575912724903
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 2.4081902552295777
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 11.1998255904324
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 27.943486273813633
+      }
+    ]
+  },
+  {
+    "receptor": "GPR133 (ADGRL2)",
+    "gene": "ADGRL2",
+    "top_5": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.3737229967144744
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.945291170349652
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.302904326168294
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1673043452046707
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.870950024640754
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.3737229967144744
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 4.945291170349652
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.302904326168294
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1673043452046707
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 15.870950024640754
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7444312557325423
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 5.0549717551817235
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.942021156038637
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 18.957638179279257
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 6.533764605880883
+      }
+    ]
+  },
+  {
+    "receptor": "GPR143 (ADGRF1)",
+    "gene": "ADGRF1",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.916277480404627
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7250708407652326
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 6.243155638305943
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.86918795125579
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 19.618200872688956
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 4.916277480404627
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 2.7250708407652326
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 6.243155638305943
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 18.86918795125579
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 19.618200872688956
+      },
+      {
+        "ligand": "MRS-1220",
+        "confidence": 1.0,
+        "predicted_pkd": -1.134099649300162
+      },
+      {
+        "ligand": "MRS-2179",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1527584728817528
+      },
+      {
+        "ligand": "N-arachidonoyl glycine",
+        "confidence": 1.0,
+        "predicted_pkd": -1.1748391601917172
+      },
+      {
+        "ligand": "Naltiboline",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0602235665778164
+      },
+      {
+        "ligand": "PD-168078",
+        "confidence": 1.0,
+        "predicted_pkd": -0.7553332440728022
+      }
+    ]
+  },
+  {
+    "receptor": "GPR144 (ADGRF5)",
+    "gene": "ADGRF5",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.456744373657021
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.456245691970957
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0828197622861238
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.167196359591472
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.587900133233779
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 1.456744373657021
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.456245691970957
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": -1.0828197622861238
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 13.167196359591472
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.587900133233779
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.774606563437461
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 32.54404745611096
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.790067740970278
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 29.846734819320606
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 39.21074582826708
+      }
+    ]
+  },
+  {
+    "receptor": "GPR164 (ADGRL3)",
+    "gene": "ADGRL3",
+    "top_5": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.0553966477168744
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4842809838355997
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.4386745521072553
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.690883583894458
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.638840221241283
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "ACTH(1-24)",
+        "confidence": 1.0,
+        "predicted_pkd": 2.0553966477168744
+      },
+      {
+        "ligand": "ADP",
+        "confidence": 1.0,
+        "predicted_pkd": 0.4842809838355997
+      },
+      {
+        "ligand": "ATP",
+        "confidence": 1.0,
+        "predicted_pkd": 1.4386745521072553
+      },
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 12.690883583894458
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 13.638840221241283
+      },
+      {
+        "ligand": "UTP",
+        "confidence": 1.0,
+        "predicted_pkd": 3.097509627651022
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 31.34524794451028
+      },
+      {
+        "ligand": "adenosine",
+        "confidence": 1.0,
+        "predicted_pkd": 1.6466081122833374
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 14.28570332937184
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 28.39662739833925
+      }
+    ]
+  },
+  {
+    "receptor": "GPR177 (ADGRF4)",
+    "gene": "ADGRF4",
+    "top_5": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.8415311237039593
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.04100665039191
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 13.695095833832307
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 3.8860383649284462
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.46729072079482
+      }
+    ],
+    "top_10": [
+      {
+        "ligand": "DPDPE",
+        "confidence": 1.0,
+        "predicted_pkd": 3.8415311237039593
+      },
+      {
+        "ligand": "Deltorphin II",
+        "confidence": 1.0,
+        "predicted_pkd": 5.04100665039191
+      },
+      {
+        "ligand": "YL-2",
+        "confidence": 1.0,
+        "predicted_pkd": 13.695095833832307
+      },
+      {
+        "ligand": "alpha-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 3.8860383649284462
+      },
+      {
+        "ligand": "beta-MSH",
+        "confidence": 1.0,
+        "predicted_pkd": 13.46729072079482
+      },
+      {
+        "ligand": "beta-endorphin",
+        "confidence": 1.0,
+        "predicted_pkd": 17.892241687370703
+      },
+      {
+        "ligand": "dynorphin A",
+        "confidence": 1.0,
+        "predicted_pkd": 5.906189904611031
+      },
+      {
+        "ligand": "galanin",
+        "confidence": 1.0,
+        "predicted_pkd": 6.669783693669427
+      },
+      {
+        "ligand": "neurotensin",
+        "confidence": 1.0,
+        "predicted_pkd": 10.312145635217606
+      },
+      {
+        "ligand": "nociceptin/orphanin FQ",
+        "confidence": 1.0,
+        "predicted_pkd": 19.18333286285754
+      }
+    ]
+  }
+]

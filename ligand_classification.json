@@ -1,0 +1,450 @@
+[
+  {
+    "family": "catecholamines",
+    "representative_ligands": [
+      "dopamine",
+      "norepinephrine",
+      "epinephrine",
+      "phenethylamine",
+      "amphetamine",
+      "octopamine",
+      "isoproterenol",
+      "phenylephrine"
+    ],
+    "mw_range": [
+      150,
+      300
+    ],
+    "logp_range": [
+      0.5,
+      3.5
+    ],
+    "hbond_donors": [
+      1,
+      4
+    ],
+    "hbond_acceptors": [
+      1,
+      4
+    ],
+    "structural_features": [
+      "catechol ring (3,4-dihydroxyphenyl)",
+      "amine group",
+      "variable side chain length"
+    ]
+  },
+  {
+    "family": "indolamines",
+    "representative_ligands": [
+      "serotonin",
+      "tryptamine",
+      "melatonin",
+      "DMT",
+      "psilocybin"
+    ],
+    "mw_range": [
+      175,
+      350
+    ],
+    "logp_range": [
+      0.5,
+      3.0
+    ],
+    "hbond_donors": [
+      1,
+      4
+    ],
+    "hbond_acceptors": [
+      1,
+      3
+    ],
+    "structural_features": [
+      "indole ring",
+      "ethylamine side chain",
+      "various N-substituents"
+    ]
+  },
+  {
+    "family": "peptides",
+    "representative_ligands": [
+      "beta-endorphin",
+      "dynorphin A",
+      "alpha-MSH",
+      "orexin-A",
+      "orexin-B",
+      "nociceptin/orphanin FQ",
+      "neurotensin",
+      "acetylcholine"
+    ],
+    "mw_range": [
+      500,
+      5000
+    ],
+    "logp_range": [
+      -3.0,
+      1.0
+    ],
+    "hbond_donors": [
+      5,
+      50
+    ],
+    "hbond_acceptors": [
+      5,
+      50
+    ],
+    "structural_features": [
+      "amino acid residues",
+      "peptide bonds",
+      "variable sequence length",
+      "often post-translationally modified"
+    ]
+  },
+  {
+    "family": "lipids",
+    "representative_ligands": [
+      "sphingosine-1-phosphate",
+      "oleoylethanolamide",
+      "oleamide",
+      "2-arachidonoylglycerol",
+      "N-arachidonoyl glycine",
+      "15-deoxy-delta-12,14-prostaglandin J2"
+    ],
+    "mw_range": [
+      300,
+      650
+    ],
+    "logp_range": [
+      3.0,
+      8.0
+    ],
+    "hbond_donors": [
+      0,
+      4
+    ],
+    "hbond_acceptors": [
+      1,
+      6
+    ],
+    "structural_features": [
+      "long hydrocarbon chains",
+      "polar head group",
+      "often eicosanoid-derived or endocannabinoid-related"
+    ]
+  },
+  {
+    "family": "fatty acids",
+    "representative_ligands": [
+      "palmitic acid",
+      "oleic acid",
+      "EPA",
+      "DHA",
+      "acetate",
+      "propionate",
+      "butyrate",
+      "lauric acid",
+      "caproic acid"
+    ],
+    "mw_range": [
+      60,
+      380
+    ],
+    "logp_range": [
+      1.0,
+      7.0
+    ],
+    "hbond_donors": [
+      1,
+      2
+    ],
+    "hbond_acceptors": [
+      2,
+      4
+    ],
+    "structural_features": [
+      "carboxylic acid head",
+      "hydrocarbon chain (saturated or unsaturated)",
+      "chain length 2-22 carbons"
+    ]
+  },
+  {
+    "family": "amino acids",
+    "representative_ligands": [
+      "tryptophan",
+      "phenylalanine",
+      "alanine",
+      "glutamate",
+      "aspartate"
+    ],
+    "mw_range": [
+      75,
+      205
+    ],
+    "logp_range": [
+      -3.0,
+      1.0
+    ],
+    "hbond_donors": [
+      2,
+      4
+    ],
+    "hbond_acceptors": [
+      2,
+      4
+    ],
+    "structural_features": [
+      "alpha-amino group",
+      "alpha-carboxyl group",
+      "side chain R group"
+    ]
+  },
+  {
+    "family": "purines",
+    "representative_ligands": [
+      "adenosine",
+      "ATP",
+      "ADP",
+      "UTP",
+      "UDP-glucose",
+      "2-MeSADP"
+    ],
+    "mw_range": [
+      135,
+      500
+    ],
+    "logp_range": [
+      -2.0,
+      0.5
+    ],
+    "hbond_donors": [
+      2,
+      8
+    ],
+    "hbond_acceptors": [
+      4,
+      15
+    ],
+    "structural_features": [
+      "purine or pyrimidine ring",
+      "ribose sugar (nucleosides)",
+      "phosphate groups (nucleotides)"
+    ]
+  },
+  {
+    "family": "ergolines",
+    "representative_ligands": [
+      "ergotamine",
+      "dihydroergotamine",
+      "LSD",
+      "apomorphine"
+    ],
+    "mw_range": [
+      300,
+      550
+    ],
+    "logp_range": [
+      1.5,
+      4.5
+    ],
+    "hbond_donors": [
+      1,
+      4
+    ],
+    "hbond_acceptors": [
+      2,
+      6
+    ],
+    "structural_features": [
+      "ergoline tetracyclic core",
+      "peptide or amide substituent",
+      "lysergic acid derivative"
+    ]
+  },
+  {
+    "family": "synthetic opioids",
+    "representative_ligands": [
+      "fentanyl",
+      "methadone",
+      "U50,488H",
+      "bremazocine",
+      "beta-funaltrexamine",
+      "UFP-512",
+      "Naltiboline"
+    ],
+    "mw_range": [
+      300,
+      500
+    ],
+    "logp_range": [
+      1.5,
+      5.0
+    ],
+    "hbond_donors": [
+      0,
+      3
+    ],
+    "hbond_acceptors": [
+      1,
+      5
+    ],
+    "structural_features": [
+      "aromatic ring",
+      "amine group",
+      "hydrophobic core",
+      "variable opioid pharmacophore"
+    ]
+  },
+  {
+    "family": "alkaloids",
+    "representative_ligands": [
+      "morphine",
+      "codeine",
+      "yohimbine",
+      "rauwolscine",
+      "scopolamine",
+      "caffeine"
+    ],
+    "mw_range": [
+      250,
+      500
+    ],
+    "logp_range": [
+      0.5,
+      4.0
+    ],
+    "hbond_donors": [
+      1,
+      5
+    ],
+    "hbond_acceptors": [
+      1,
+      6
+    ],
+    "structural_features": [
+      "nitrogen-containing heterocyclic rings",
+      "plant-derived",
+      "complex polycyclic structures"
+    ]
+  },
+  {
+    "family": "metal ions",
+    "representative_ligands": [
+      "zinc",
+      "calcium",
+      "magnesium"
+    ],
+    "mw_range": [
+      24,
+      40
+    ],
+    "logp_range": [
+      null,
+      null
+    ],
+    "hbond_donors": [
+      0,
+      0
+    ],
+    "hbond_acceptors": [
+      0,
+      0
+    ],
+    "structural_features": [
+      "inorganic cation",
+      "coordination chemistry",
+      "often binds to extracellular domain"
+    ]
+  },
+  {
+    "family": "synthetic",
+    "representative_ligands": [
+      "prazosin",
+      "propranolol",
+      "raclopride",
+      "SCH-23390",
+      "8-OH-DPAT",
+      "WAY-100635",
+      "clonidine",
+      "ketanserin",
+      "SB-269970"
+    ],
+    "mw_range": [
+      250,
+      550
+    ],
+    "logp_range": [
+      0.5,
+      5.0
+    ],
+    "hbond_donors": [
+      0,
+      4
+    ],
+    "hbond_acceptors": [
+      1,
+      8
+    ],
+    "structural_features": [
+      "manually designed",
+      "optimized for receptor selectivity",
+      "diverse scaffolds"
+    ]
+  },
+  {
+    "family": "tryptamines",
+    "representative_ligands": [
+      "sumatriptan",
+      "almotriptan",
+      "rizatriptan"
+    ],
+    "mw_range": [
+      250,
+      400
+    ],
+    "logp_range": [
+      0.5,
+      3.5
+    ],
+    "hbond_donors": [
+      1,
+      3
+    ],
+    "hbond_acceptors": [
+      2,
+      6
+    ],
+    "structural_features": [
+      "indole ring",
+      "ethylamine side chain",
+      "5-HT1B/1D selective substituents"
+    ]
+  },
+  {
+    "family": "amino acid derivatives",
+    "representative_ligands": [
+      "histamine",
+      "acetylcholine",
+      "glycine",
+      "GABA"
+    ],
+    "mw_range": [
+      59,
+      200
+    ],
+    "logp_range": [
+      -2.0,
+      1.0
+    ],
+    "hbond_donors": [
+      1,
+      3
+    ],
+    "hbond_acceptors": [
+      1,
+      4
+    ],
+    "structural_features": [
+      "small molecules derived from amino acids",
+      "amine and carboxyl or modified groups"
+    ]
+  }
+]

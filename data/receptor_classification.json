@@ -1,0 +1,395 @@
+[
+  {
+    "family": "adrenergic",
+    "receptors": [
+      "ADRA1A",
+      "ADRA1B",
+      "ADRA1D",
+      "ADRA2A",
+      "ADRA2B",
+      "ADRA2C",
+      "ADRB1",
+      "ADRB2",
+      "ADRB3"
+    ],
+    "typical_g_coupling": [
+      "Gq",
+      "Gi",
+      "Gs"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "catecholamine binding pocket in TM domain",
+      "conserved aspartate in TM3 for amine binding"
+    ],
+    "sequence_identity_range": [
+      40,
+      85
+    ]
+  },
+  {
+    "family": "dopaminergic",
+    "receptors": [
+      "DRD1",
+      "DRD2",
+      "DRD3",
+      "DRD4",
+      "DRD5"
+    ],
+    "typical_g_coupling": [
+      "Gs",
+      "Gi"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "dopamine binding pocket",
+      "conserved aspartate D3.32"
+    ],
+    "sequence_identity_range": [
+      45,
+      80
+    ]
+  },
+  {
+    "family": "serotonergic",
+    "receptors": [
+      "HTR1A",
+      "HTR1B",
+      "HTR1D",
+      "HTR1E",
+      "HTR1F",
+      "HTR2A",
+      "HTR2B",
+      "HTR2C",
+      "HTR3A",
+      "HTR4",
+      "HTR5A",
+      "HTR6",
+      "HTR7"
+    ],
+    "typical_g_coupling": [
+      "Gi",
+      "Gq",
+      "Gs",
+      "ligand-gated ion channel"
+    ],
+    "structural_features": [
+      "7-transmembrane helices (except 5-HT3 which is ligand-gated ion channel)",
+      "serotonin binding pocket",
+      "conserved serine/threonine in TM5"
+    ],
+    "sequence_identity_range": [
+      30,
+      75
+    ]
+  },
+  {
+    "family": "opioid",
+    "receptors": [
+      "OPRM1",
+      "OPRK1",
+      "OPRD1",
+      "OPRL1"
+    ],
+    "typical_g_coupling": [
+      "Gi"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "large extracellular N-terminus for peptide binding",
+      "conserved aspartate in TM3"
+    ],
+    "sequence_identity_range": [
+      30,
+      55
+    ]
+  },
+  {
+    "family": "muscarinic",
+    "receptors": [
+      "CHRM1",
+      "CHRM2",
+      "CHRM3",
+      "CHRM4",
+      "CHRM5"
+    ],
+    "typical_g_coupling": [
+      "Gq",
+      "Gi"
+    ],
+    "structural_features": [
+      "Class C GPCR",
+      "large Venus flytrap domain (VFT) in extracellular N-terminus",
+      "disulfide bonds between VFT and TMD"
+    ],
+    "sequence_identity_range": [
+      50,
+      75
+    ]
+  },
+  {
+    "family": "adenosine",
+    "receptors": [
+      "ADORA1",
+      "ADORA2A",
+      "ADORA2B",
+      "ADORA3"
+    ],
+    "typical_g_coupling": [
+      "Gi",
+      "Gs"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "adenine-binding pocket",
+      "conserved asparagine in TM6"
+    ],
+    "sequence_identity_range": [
+      45,
+      75
+    ]
+  },
+  {
+    "family": "histamine",
+    "receptors": [
+      "HRH1",
+      "HRH2",
+      "HRH3",
+      "HRH4"
+    ],
+    "typical_g_coupling": [
+      "Gq",
+      "Gs",
+      "Gi"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "histamine binding pocket",
+      "conserved aspartate in TM3"
+    ],
+    "sequence_identity_range": [
+      35,
+      65
+    ]
+  },
+  {
+    "family": "purinergic",
+    "receptors": [
+      "P2RY1",
+      "P2RY2",
+      "P2RY4",
+      "P2RY6",
+      "P2RY10",
+      "P2RY11",
+      "P2RY12",
+      "P2RY13"
+    ],
+    "typical_g_coupling": [
+      "Gq",
+      "Gi"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "nucleotide-binding pocket",
+      "phosphate-sensing residues"
+    ],
+    "sequence_identity_range": [
+      25,
+      60
+    ]
+  },
+  {
+    "family": "melanocortin",
+    "receptors": [
+      "MC1R",
+      "MC2R",
+      "MC3R",
+      "MC4R",
+      "MC5R"
+    ],
+    "typical_g_coupling": [
+      "Gs"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "peptide hormone binding",
+      "conserved aspartate in TM3"
+    ],
+    "sequence_identity_range": [
+      30,
+      60
+    ]
+  },
+  {
+    "family": "orexin",
+    "receptors": [
+      "HCRTR1",
+      "HCRTR2"
+    ],
+    "typical_g_coupling": [
+      "Gq"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "peptide-binding extracellular domain"
+    ],
+    "sequence_identity_range": [
+      45,
+      60
+    ]
+  },
+  {
+    "family": "S1P",
+    "receptors": [
+      "EDG1",
+      "EDG3",
+      "EDG4",
+      "EDG5",
+      "EDG8"
+    ],
+    "typical_g_coupling": [
+      "Gi",
+      "G12/13"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "lipid-binding pocket",
+      "phosphate head group recognition"
+    ],
+    "sequence_identity_range": [
+      35,
+      60
+    ]
+  },
+  {
+    "family": "free fatty acid",
+    "receptors": [
+      "FFAR1",
+      "FFAR2",
+      "FFAR3",
+      "FFAR4"
+    ],
+    "typical_g_coupling": [
+      "Gq",
+      "Gi"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "hydrophobic ligand-binding pocket",
+      "carboxylate-sensing residues"
+    ],
+    "sequence_identity_range": [
+      25,
+      55
+    ]
+  },
+  {
+    "family": "trace amine",
+    "receptors": [
+      "TAAR1",
+      "TAAR2",
+      "TAAR3",
+      "TAAR4",
+      "TAAR5",
+      "TAAR6",
+      "TAAR7",
+      "TAAR8",
+      "TAAR9"
+    ],
+    "typical_g_coupling": [
+      "Gs"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "trace amine binding pocket",
+      "conserved aspartate in TM3"
+    ],
+    "sequence_identity_range": [
+      25,
+      60
+    ]
+  },
+  {
+    "family": "partially deorphanized",
+    "receptors": [
+      "GPR39",
+      "GPR42",
+      "GPR84",
+      "GPR88",
+      "GPR119",
+      "GPR139",
+      "GPR151",
+      "GPR174",
+      "GPR18",
+      "FFAR4"
+    ],
+    "typical_g_coupling": [
+      "Gs",
+      "Gi",
+      "Gq"
+    ],
+    "structural_features": [
+      "7-transmembrane helices",
+      "various ligand-binding pockets"
+    ],
+    "sequence_identity_range": [
+      20,
+      50
+    ]
+  },
+  {
+    "family": "Class C orphan",
+    "receptors": [
+      "GPR156",
+      "GPR158",
+      "GPR179"
+    ],
+    "typical_g_coupling": [
+      "Gq"
+    ],
+    "structural_features": [
+      "Class C GPCR",
+      "large Venus flytrap domain (VFT)",
+      "metabotropic glutamate receptor family"
+    ],
+    "sequence_identity_range": [
+      20,
+      40
+    ]
+  },
+  {
+    "family": "Adhesion GPCR",
+    "receptors": [
+      "GPR56",
+      "GPR64",
+      "GPR126",
+      "GPR128",
+      "GPR132",
+      "GPR133",
+      "GPR143",
+      "GPR144",
+      "GPR155",
+      "GPR157",
+      "GPR158",
+      "GPR161",
+      "GPR164",
+      "GPR171",
+      "GPR177"
+    ],
+    "typical_g_coupling": [
+      "Gs",
+      "Gi",
+      "Gq"
+    ],
+    "structural_features": [
+      "large N-terminal GAIN domain",
+      "protease-cleavable",
+      "7-transmembrane helices",
+      "unique adhesion domains (LRR, EGF, etc.)"
+    ],
+    "sequence_identity_range": [
+      15,
+      45
+    ]
+  }
+]

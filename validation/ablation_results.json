@@ -1,0 +1,37 @@
+{
+  "baseline": {
+    "P@5": 0.0795,
+    "AUC-ROC": 0.5758,
+    "High-conf": 718
+  },
+  "No Promiscuity Penalty": {
+    "P@5": 0.0959,
+    "AUC-ROC": 0.5772,
+    "High-conf": 727
+  },
+  "No Natural Ligand Priority": {
+    "P@5": 0.0795,
+    "AUC-ROC": 0.5758,
+    "High-conf": 718
+  },
+  "No Family Hints": {
+    "P@5": 0.0,
+    "AUC-ROC": 0.4931,
+    "High-conf": 375
+  },
+  "No Broad Class Matching": {
+    "P@5": 0.0795,
+    "AUC-ROC": 0.5758,
+    "High-conf": 718
+  },
+  "No Expected Ligand Injection": {
+    "P@5": 0.0795,
+    "AUC-ROC": 0.5758,
+    "High-conf": 718
+  },
+  "No G-protein-level Fallback": {
+    "P@5": 0.0438,
+    "AUC-ROC": 0.6053,
+    "High-conf": 370
+  }
+}
